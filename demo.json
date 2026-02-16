@@ -17,20 +17,6 @@
                 {
                     "id": "1l4rjdhnn8ver7v",
                     "name": "GS Caltex Women - Hyundai E&C Hillstate Women",
-                    "labels": [
-                        {
-                            "position": "top-right",
-                            "text": "🔥 Hot",
-                            "color": "#ff6600",
-                            "text_color": "#ffffff"
-                        },
-                        {
-                            "position": "bottom-left",
-                            "text": "BLV SIÊU CAY",
-                            "color": "#007bff",
-                            "text_color": "#ffffff"
-                        }
-                    ],
                     "description": "Volleyball League Women - VOLLEYBALL",
                     "image": {
                         "url": "http://tt.8share.pro/images/cache/match-e0ea9fc4831963119275bf027dcc9cb6.png",
@@ -39,7 +25,7 @@
                         "display": "cover",
                         "shape": "square"
                     },
-                    "type": "single",
+                    "type": "multi",
                     "display": "thumbnail-only",
                     "sources": [
                                     "streams": [
