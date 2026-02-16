@@ -17,6 +17,20 @@
                 {
                     "id": "1l4rjdhnn8ver7v",
                     "name": "GS Caltex Women - Hyundai E&C Hillstate Women",
+                    "labels": [
+                        {
+                            "position": "top-right",
+                            "text": "🔥 Hot",
+                            "color": "#ff6600",
+                            "text_color": "#ffffff"
+                        },
+                        {
+                            "position": "bottom-left",
+                            "text": "BLV SIÊU CAY",
+                            "color": "#007bff",
+                            "text_color": "#ffffff"
+                        }
+                    ],
                     "description": "Volleyball League Women - VOLLEYBALL",
                     "image": {
                         "url": "http://tt.8share.pro/images/cache/match-e0ea9fc4831963119275bf027dcc9cb6.png",
@@ -25,36 +39,427 @@
                         "display": "cover",
                         "shape": "square"
                     },
-                    "type": "multi",
+                    "type": "single",
                     "display": "thumbnail-only",
                     "sources": [
+                        {
+                            "id": "1l4rjdhnn8ver7v_source",
+                            "name": "Khán Đài A",
+                            "contents": [
+                                {
+                                    "id": "1l4rjdhnn8ver7v_content",
+                                    "name": "GS Caltex Women - Hyundai E&C Hillstate Women",
                                     "streams": [
                                         {
-                                            "name": "BLV 1",
+                                            "id": "1l4rjdhnn8ver7v_stream",
+                                            "name": "BLV SIÊU CAY",
                                             "remote_data": {
                                                 "url": "http://tt.8share.pro/khandaia/stream/1l4rjdhnn8ver7v"
                                             }
-                                        },
-										{
-                                            "name": "BLV 2",
-                                            "remote_data": {
-                                                "url": "http://tt.8share.pro/khandaia/stream/1l4rjdhnn8ver7v"
-                                            }
-                                        },
-										{
-                                            "name": "BLV 3",
-                                            "remote_data": {
-                                                "url": "http://tt.8share.pro/khandaia/stream/1l4rjdhnn8ver7v"
-                                            }
-                                        },
-										{
-                                            "name": "BLV 4",
-                                            "remote_data": {
-                                                "url": "http://tt.8share.pro/khandaia/stream/1l4rjdhnn8ver7v"
-                                            }
-                                        }										
+                                        }
                                     ]
-
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "ednm9whwvyk4ryo",
+                    "name": "Persita Tangerang - PSBS Biak Numfor",
+                    "labels": [
+                        {
+                            "position": "top-right",
+                            "text": "🔥 Hot",
+                            "color": "#ff6600",
+                            "text_color": "#ffffff"
+                        },
+                        {
+                            "position": "bottom-left",
+                            "text": "BLV CÒ",
+                            "color": "#007bff",
+                            "text_color": "#ffffff"
+                        }
+                    ],
+                    "description": "Indonesian Liga 1 - FOOTBALL",
+                    "image": {
+                        "url": "http://tt.8share.pro/images/cache/match-5e75e05e6f6504f04cb5d455771f104b.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
+                    },
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "sources": [
+                        {
+                            "id": "ednm9whwvyk4ryo_source",
+                            "name": "Khán Đài A",
+                            "contents": [
+                                {
+                                    "id": "ednm9whwvyk4ryo_content",
+                                    "name": "Persita Tangerang - PSBS Biak Numfor",
+                                    "streams": [
+                                        {
+                                            "id": "ednm9whwvyk4ryo_stream",
+                                            "name": "BLV CÒ",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/ednm9whwvyk4ryo"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "vjxm8ghe2yn7r6o",
+                    "name": "Shamakhi FK - Turan Tovuz",
+                    "labels": [
+                        {
+                            "position": "top-right",
+                            "text": "🔥 Hot",
+                            "color": "#ff6600",
+                            "text_color": "#ffffff"
+                        },
+                        {
+                            "position": "bottom-left",
+                            "text": "BLV TIỂU MÂN",
+                            "color": "#007bff",
+                            "text_color": "#ffffff"
+                        }
+                    ],
+                    "description": "Azerbaijan Premier League - FOOTBALL",
+                    "image": {
+                        "url": "http://tt.8share.pro/images/cache/match-cf604a909153f61c35b1bac8c4e6acd2.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
+                    },
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "sources": [
+                        {
+                            "id": "vjxm8ghe2yn7r6o_source",
+                            "name": "Khán Đài A",
+                            "contents": [
+                                {
+                                    "id": "vjxm8ghe2yn7r6o_content",
+                                    "name": "Shamakhi FK - Turan Tovuz",
+                                    "streams": [
+                                        {
+                                            "id": "vjxm8ghe2yn7r6o_stream",
+                                            "name": "BLV TIỂU MÂN",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/vjxm8ghe2yn7r6o"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "y0or5jh8znk9qwz",
+                    "name": "Santa Clara U23 - Leixoes U23",
+                    "labels": [
+                        {
+                            "position": "top-right",
+                            "text": "🔥 Hot",
+                            "color": "#ff6600",
+                            "text_color": "#ffffff"
+                        },
+                        {
+                            "position": "bottom-left",
+                            "text": "BLV KAKA ",
+                            "color": "#007bff",
+                            "text_color": "#ffffff"
+                        }
+                    ],
+                    "description": "Portuguese U23 League - FOOTBALL",
+                    "image": {
+                        "url": "http://tt.8share.pro/images/cache/match-d90a9e81ac2ff6b635d00f5bef01c76d.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
+                    },
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "sources": [
+                        {
+                            "id": "y0or5jh8znk9qwz_source",
+                            "name": "Khán Đài A",
+                            "contents": [
+                                {
+                                    "id": "y0or5jh8znk9qwz_content",
+                                    "name": "Santa Clara U23 - Leixoes U23",
+                                    "streams": [
+                                        {
+                                            "id": "y0or5jh8znk9qwz_stream",
+                                            "name": "BLV KAKA ",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/y0or5jh8znk9qwz"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "y39mp1h669j5moj",
+                    "name": "East Bengal FC - Northeast United",
+                    "labels": [
+                        {
+                            "position": "top-right",
+                            "text": "🔥 Hot",
+                            "color": "#ff6600",
+                            "text_color": "#ffffff"
+                        },
+                        {
+                            "position": "bottom-left",
+                            "text": "BLV MÂY",
+                            "color": "#007bff",
+                            "text_color": "#ffffff"
+                        }
+                    ],
+                    "description": "Indian Super League - FOOTBALL",
+                    "image": {
+                        "url": "http://tt.8share.pro/images/cache/match-b21b6f34cc5eb1e39b5a19462b022a8f.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
+                    },
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "sources": [
+                        {
+                            "id": "y39mp1h669j5moj_source",
+                            "name": "Khán Đài A",
+                            "contents": [
+                                {
+                                    "id": "y39mp1h669j5moj_content",
+                                    "name": "East Bengal FC - Northeast United",
+                                    "streams": [
+                                        {
+                                            "id": "y39mp1h669j5moj_stream",
+                                            "name": "BLV MÂY",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/y39mp1h669j5moj"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "l5ergph43g6kr8k",
+                    "name": "Hermannstadt - CFR Cluj",
+                    "labels": [
+                        {
+                            "position": "top-right",
+                            "text": "🔥 Hot",
+                            "color": "#ff6600",
+                            "text_color": "#ffffff"
+                        },
+                        {
+                            "position": "bottom-left",
+                            "text": "BLV TIỂU MÂN",
+                            "color": "#007bff",
+                            "text_color": "#ffffff"
+                        }
+                    ],
+                    "description": "Romanian Super Liga - FOOTBALL",
+                    "image": {
+                        "url": "http://tt.8share.pro/images/cache/match-f36fab659705c01c526654c91a54208a.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
+                    },
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "sources": [
+                        {
+                            "id": "l5ergph43g6kr8k_source",
+                            "name": "Khán Đài A",
+                            "contents": [
+                                {
+                                    "id": "l5ergph43g6kr8k_content",
+                                    "name": "Hermannstadt - CFR Cluj",
+                                    "streams": [
+                                        {
+                                            "id": "l5ergph43g6kr8k_stream",
+                                            "name": "BLV TIỂU MÂN",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/l5ergph43g6kr8k"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "zp5rzghg1d9vq82",
+                    "name": "Al-Ahli SFC - Shabab Al Ahli",
+                    "labels": [
+                        {
+                            "position": "top-right",
+                            "text": "🔥 Hot",
+                            "color": "#ff6600",
+                            "text_color": "#ffffff"
+                        },
+                        {
+                            "position": "bottom-left",
+                            "text": "BLV SIÊU GÁY",
+                            "color": "#007bff",
+                            "text_color": "#ffffff"
+                        }
+                    ],
+                    "description": "AFC Champions League Elite - FOOTBALL",
+                    "image": {
+                        "url": "http://tt.8share.pro/images/cache/match-e6c5eb215999e5bd959b024a2305be3c.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
+                    },
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "sources": [
+                        {
+                            "id": "zp5rzghg1d9vq82_source",
+                            "name": "Khán Đài A",
+                            "contents": [
+                                {
+                                    "id": "zp5rzghg1d9vq82_content",
+                                    "name": "Al-Ahli SFC - Shabab Al Ahli",
+                                    "streams": [
+                                        {
+                                            "id": "zp5rzghg1d9vq82_stream",
+                                            "name": "BLV SIÊU GÁY",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/zp5rzghg1d9vq82"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "2y8m4whv6vj4ql0",
+                    "name": "Trentino - Ziraat Bankasi",
+                    "labels": [
+                        {
+                            "position": "bottom-left",
+                            "text": "BLV KAKA ",
+                            "color": "#007bff",
+                            "text_color": "#ffffff"
+                        }
+                    ],
+                    "description": "Champions League - VOLLEYBALL",
+                    "image": {
+                        "url": "http://tt.8share.pro/images/cache/match-ae38626079f3a4e04556801bdb17bc49.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
+                    },
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "sources": [
+                        {
+                            "id": "2y8m4whv6vj4ql0_source",
+                            "name": "Khán Đài A",
+                            "contents": [
+                                {
+                                    "id": "2y8m4whv6vj4ql0_content",
+                                    "name": "Trentino - Ziraat Bankasi",
+                                    "streams": [
+                                        {
+                                            "id": "2y8m4whv6vj4ql0_stream",
+                                            "name": "BLV KAKA ",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/2y8m4whv6vj4ql0"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "remote_data": {
+                "url": "http://tt.8share.pro/khandaia/group/is_hot"
+            }
+        }
+    ],
+    "groups": [
+        {
+            "id": "is_hota",
+            "name": "Tâm điểm aa",
+            "display": "vertical",
+            "grid_number": 2,
+            "channels": [
+                {
+                    "id": "1l4rjdhnn8ver7v",
+                    "name": "GS Caltex Women - Hyundai E&C Hillstate Women",
+                    "labels": [
+                        {
+                            "position": "top-right",
+                            "text": "🔥 Hot",
+                            "color": "#ff6600",
+                            "text_color": "#ffffff"
+                        },
+                        {
+                            "position": "bottom-left",
+                            "text": "BLV SIÊU CAY",
+                            "color": "#007bff",
+                            "text_color": "#ffffff"
+                        }
+                    ],
+                    "description": "Volleyball League Women - VOLLEYBALL",
+                    "image": {
+                        "url": "http://tt.8share.pro/images/cache/match-e0ea9fc4831963119275bf027dcc9cb6.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
+                    },
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "sources": [
+                        {
+                            "id": "1l4rjdhnn8ver7v_source",
+                            "name": "Khán Đài A",
+                            "contents": [
+                                {
+                                    "id": "1l4rjdhnn8ver7v_content",
+                                    "name": "GS Caltex Women - Hyundai E&C Hillstate Women",
+                                    "streams": [
+                                        {
+                                            "id": "1l4rjdhnn8ver7v_stream",
+                                            "name": "BLV SIÊU CAY",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/1l4rjdhnn8ver7v"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
