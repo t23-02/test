@@ -13,7 +13,7 @@
     "grid_number": 2,
     "groups": [
 		{
-            "id": "demo-all",
+            "id": "demo-all 0",
             "name": "All 0",
             "display": "vertical",
             "image": {
