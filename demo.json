@@ -1,358 +1,436 @@
 {
-    "id": "demo",
-    "name": "Demo Provider",
-    "description": "A list of demo animations",
-    "url": "https://iptvschema.org/demo.json",
-    "color": "#181818",
+    "id": "khandaia",
+    "url": "http://tt.8share.pro/khandaia",
+    "name": "Khán Đài A",
+    "color": "#37b5e8",
+    "description": "Khán Đài A - Xem Trực Tiếp Bóng Đá Khandaia Miễn Phí Nhanh Nhất",
     "image": {
-        "url": "https://iptvschema.org/img/logo.png",
-		"type": "contain",
-        "height": 187,
-        "width": 28
+        "url": "http://tt.8share.pro/assets/khandaia_logo.png"
     },
-    "grid_number": 2,
     "groups": [
-		{
-            "id": "demo-all 0",
-            "name": "All 0",
+        {
+            "id": "is_hot",
+            "name": "Tâm điểm",
             "display": "vertical",
-            "image": {
-                "url": "https://iptvschema.org/img/logo.png",
-                "type": "contain",
-                "width": 1920,
-                "height": 1080
-            },
-            "grid_number": 1,
-            "enable_detail": false,
+            "grid_number": 2,
             "channels": [
-				{
-                    "id": "buck-1",
-                    "name": "Big Buck Bunny - Episode 1",
-                    "description": "An enormous, fluffy, and utterly adorable rabbit is heartlessly harassed by the ruthless, loud, bullying gang of a flying squirrel, who is determined to squash his happiness.\n",
-                    "label": "Full",
+                {
+                    "id": "1l4rjdhnn8ver7v",
+                    "name": "GS Caltex Women - Hyundai E&C Hillstate Women",
+                    "labels": [
+                        {
+                            "position": "top-right",
+                            "text": "🔥 Hot",
+                            "color": "#ff6600",
+                            "text_color": "#ffffff"
+                        },
+                        {
+                            "position": "bottom-left",
+                            "text": "BLV SIÊU CAY",
+                            "color": "#007bff",
+                            "text_color": "#ffffff"
+                        }
+                    ],
+                    "description": "Volleyball League Women - VOLLEYBALL",
                     "image": {
-                        "url": "https://iptvschema.org/img/buck-1.jpg",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "url": "http://tt.8share.pro/images/cache/match-e0ea9fc4831963119275bf027dcc9cb6.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
                     },
-                    "display": "default",
                     "type": "single",
-                    "enable_detail": true,
-                    "sources": [{
-                            "id": "source-1",
-                            "name": "Source 1",
-                            "image": null,
-                            "contents": [{
-                                    "id": "content-1",
-                                    "name": "Content 1",
-                                    "image": null,
-                                    "streams": [{
-                                            "id": "buck-ep-1",
-                                            "name": "Full",
-                                            "image": {
-                                                "url": "https://iptvschema.org/img/buck-1.jpg",
-                                                "type": "contain",
-                                                "width": 1920,
-                                                "height": 1080
-                                            },
-                                            "stream_links": [{
-                                                    "id": "buck-ep-1-s1",
-                                                    "name": "Server 1",
-                                                    "url": "https://iptvschema.org/videos/buck-1.mp4",
-                                                    "type": "hls",
-                                                    "default": true,
-                                                    "enableP2P": true,
-                                                    "subtitles": null,
-                                                    "remote_data": null,
-                                                    "request_headers": null,
-                                                    "comments": null
-                                                }
-                                            ]
-                                        }
+                    "display": "thumbnail-only",
+                    "sources": [
+                        {
+                            "id": "1l4rjdhnn8ver7v_source",
+                            "name": "Khán Đài A",
+                            "contents": [
+                                {
+                                    "name": "Danh sách tập",
+                                    "streams": [
+                                        {
+                                            "name": "BLV 1",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/1l4rjdhnn8ver7v"
+                                            }
+                                        },
+										{
+                                            "name": "BLV 2",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/1l4rjdhnn8ver7v"
+                                            }
+                                        },
+										{
+                                            "name": "BLV 3",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/1l4rjdhnn8ver7v"
+                                            }
+                                        },
+										{
+                                            "name": "BLV 4",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/1l4rjdhnn8ver7v"
+                                            }
+                                        }										
                                     ]
                                 }
-                            ],
-                            "remote_data": null
+                            ]
                         }
                     ]
                 },
-				{
-                    "id": "buck-2",
-                    "name": "Big Buck Bunny - Episode 2",
-                    "description": "An enormous, fluffy, and utterly adorable rabbit is heartlessly harassed by the ruthless, loud, bullying gang of a flying squirrel, who is determined to squash his happiness.\n",
-                    "label": "Full",
+                {
+                    "id": "ednm9whwvyk4ryo",
+                    "name": "Persita Tangerang - PSBS Biak Numfor",
+                    "labels": [
+                        {
+                            "position": "top-right",
+                            "text": "🔥 Hot",
+                            "color": "#ff6600",
+                            "text_color": "#ffffff"
+                        },
+                        {
+                            "position": "bottom-left",
+                            "text": "BLV CÒ",
+                            "color": "#007bff",
+                            "text_color": "#ffffff"
+                        }
+                    ],
+                    "description": "Indonesian Liga 1 - FOOTBALL",
                     "image": {
-                        "url": "https://iptvschema.org/img/buck-2.jpg",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "url": "http://tt.8share.pro/images/cache/match-5e75e05e6f6504f04cb5d455771f104b.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
                     },
-                    "display": "default",
                     "type": "single",
-                    "enable_detail": true,
-                    "sources": [{
-                            "id": "source-2",
-                            "name": "Source 2",
-                            "image": null,
-                            "contents": [{
-                                    "id": "content-2",
-                                    "name": "Content 2",
-                                    "image": null,
-                                    "streams": [{
-                                            "id": "buck-ep-2",
-                                            "name": "Full",
-                                            "image": {
-                                                "url": "https://iptvschema.org/img/buck-2.jpg",
-                                                "type": "contain",
-                                                "width": 1920,
-                                                "height": 1080
-                                            },
-                                            "stream_links": [{
-                                                    "id": "buck-ep-2-s1",
-                                                    "name": "Server 1",
-                                                    "url": "https://iptvschema.org/videos/buck-2.mp4",
-                                                    "type": "hls",
-                                                    "default": true,
-                                                    "enableP2P": true,
-                                                    "subtitles": null,
-                                                    "remote_data": null,
-                                                    "request_headers": null,
-                                                    "comments": null
-                                                }
-                                            ]
+                    "display": "thumbnail-only",
+                    "sources": [
+                        {
+                            "id": "ednm9whwvyk4ryo_source",
+                            "name": "Khán Đài A",
+                            "contents": [
+                                {
+                                    "id": "ednm9whwvyk4ryo_content",
+                                    "name": "Persita Tangerang - PSBS Biak Numfor",
+                                    "streams": [
+                                        {
+                                            "id": "ednm9whwvyk4ryo_stream",
+                                            "name": "BLV CÒ",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/ednm9whwvyk4ryo"
+                                            }
                                         }
                                     ]
                                 }
-                            ],
-                            "remote_data": null
+                            ]
                         }
                     ]
                 },
-				{
-                    "id": "buck-3",
-                    "name": "Big Buck Bunny - Episode 3",
-                    "description": "An enormous, fluffy, and utterly adorable rabbit is heartlessly harassed by the ruthless, loud, bullying gang of a flying squirrel, who is determined to squash his happiness.\n",
-                    "label": "Full",
+                {
+                    "id": "vjxm8ghe2yn7r6o",
+                    "name": "Shamakhi FK - Turan Tovuz",
+                    "labels": [
+                        {
+                            "position": "top-right",
+                            "text": "🔥 Hot",
+                            "color": "#ff6600",
+                            "text_color": "#ffffff"
+                        },
+                        {
+                            "position": "bottom-left",
+                            "text": "BLV TIỂU MÂN",
+                            "color": "#007bff",
+                            "text_color": "#ffffff"
+                        }
+                    ],
+                    "description": "Azerbaijan Premier League - FOOTBALL",
                     "image": {
-                        "url": "https://iptvschema.org/img/buck-3.jpg",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
+                        "url": "http://tt.8share.pro/images/cache/match-cf604a909153f61c35b1bac8c4e6acd2.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
                     },
-                    "display": "default",
                     "type": "single",
-                    "enable_detail": true,
-                    "sources": [{
-                            "id": "source-3",
-                            "name": "Source 3",
-                            "image": null,
-                            "contents": [{
-                                    "id": "content-2",
-                                    "name": "Content 2",
-                                    "image": null,
-                                    "streams": [{
-                                            "id": "buck-ep-3",
-                                            "name": "Full",
-                                            "image": {
-                                                "url": "https://iptvschema.org/img/buck-2.jpg",
-                                                "type": "contain",
-                                                "width": 1920,
-                                                "height": 1080
-                                            },
-                                            "stream_links": [{
-                                                    "id": "buck-ep-2-s1",
-                                                    "name": "Server 1",
-                                                    "url": "https://iptvschema.org/videos/buck-3.mp4",
-                                                    "type": "hls",
-                                                    "default": true,
-                                                    "enableP2P": true,
-                                                    "subtitles": null,
-                                                    "remote_data": null,
-                                                    "request_headers": null,
-                                                    "comments": null
-                                                }
-                                            ]
+                    "display": "thumbnail-only",
+                    "sources": [
+                        {
+                            "id": "vjxm8ghe2yn7r6o_source",
+                            "name": "Khán Đài A",
+                            "contents": [
+                                {
+                                    "id": "vjxm8ghe2yn7r6o_content",
+                                    "name": "Shamakhi FK - Turan Tovuz",
+                                    "streams": [
+                                        {
+                                            "id": "vjxm8ghe2yn7r6o_stream",
+                                            "name": "BLV TIỂU MÂN",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/vjxm8ghe2yn7r6o"
+                                            }
                                         }
                                     ]
                                 }
-                            ],
-                            "remote_data": null
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "y0or5jh8znk9qwz",
+                    "name": "Santa Clara U23 - Leixoes U23",
+                    "labels": [
+                        {
+                            "position": "top-right",
+                            "text": "🔥 Hot",
+                            "color": "#ff6600",
+                            "text_color": "#ffffff"
+                        },
+                        {
+                            "position": "bottom-left",
+                            "text": "BLV KAKA ",
+                            "color": "#007bff",
+                            "text_color": "#ffffff"
+                        }
+                    ],
+                    "description": "Portuguese U23 League - FOOTBALL",
+                    "image": {
+                        "url": "http://tt.8share.pro/images/cache/match-d90a9e81ac2ff6b635d00f5bef01c76d.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
+                    },
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "sources": [
+                        {
+                            "id": "y0or5jh8znk9qwz_source",
+                            "name": "Khán Đài A",
+                            "contents": [
+                                {
+                                    "id": "y0or5jh8znk9qwz_content",
+                                    "name": "Santa Clara U23 - Leixoes U23",
+                                    "streams": [
+                                        {
+                                            "id": "y0or5jh8znk9qwz_stream",
+                                            "name": "BLV KAKA ",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/y0or5jh8znk9qwz"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "y39mp1h669j5moj",
+                    "name": "East Bengal FC - Northeast United",
+                    "labels": [
+                        {
+                            "position": "top-right",
+                            "text": "🔥 Hot",
+                            "color": "#ff6600",
+                            "text_color": "#ffffff"
+                        },
+                        {
+                            "position": "bottom-left",
+                            "text": "BLV MÂY",
+                            "color": "#007bff",
+                            "text_color": "#ffffff"
+                        }
+                    ],
+                    "description": "Indian Super League - FOOTBALL",
+                    "image": {
+                        "url": "http://tt.8share.pro/images/cache/match-b21b6f34cc5eb1e39b5a19462b022a8f.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
+                    },
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "sources": [
+                        {
+                            "id": "y39mp1h669j5moj_source",
+                            "name": "Khán Đài A",
+                            "contents": [
+                                {
+                                    "id": "y39mp1h669j5moj_content",
+                                    "name": "East Bengal FC - Northeast United",
+                                    "streams": [
+                                        {
+                                            "id": "y39mp1h669j5moj_stream",
+                                            "name": "BLV MÂY",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/y39mp1h669j5moj"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "l5ergph43g6kr8k",
+                    "name": "Hermannstadt - CFR Cluj",
+                    "labels": [
+                        {
+                            "position": "top-right",
+                            "text": "🔥 Hot",
+                            "color": "#ff6600",
+                            "text_color": "#ffffff"
+                        },
+                        {
+                            "position": "bottom-left",
+                            "text": "BLV TIỂU MÂN",
+                            "color": "#007bff",
+                            "text_color": "#ffffff"
+                        }
+                    ],
+                    "description": "Romanian Super Liga - FOOTBALL",
+                    "image": {
+                        "url": "http://tt.8share.pro/images/cache/match-f36fab659705c01c526654c91a54208a.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
+                    },
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "sources": [
+                        {
+                            "id": "l5ergph43g6kr8k_source",
+                            "name": "Khán Đài A",
+                            "contents": [
+                                {
+                                    "id": "l5ergph43g6kr8k_content",
+                                    "name": "Hermannstadt - CFR Cluj",
+                                    "streams": [
+                                        {
+                                            "id": "l5ergph43g6kr8k_stream",
+                                            "name": "BLV TIỂU MÂN",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/l5ergph43g6kr8k"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "zp5rzghg1d9vq82",
+                    "name": "Al-Ahli SFC - Shabab Al Ahli",
+                    "labels": [
+                        {
+                            "position": "top-right",
+                            "text": "🔥 Hot",
+                            "color": "#ff6600",
+                            "text_color": "#ffffff"
+                        },
+                        {
+                            "position": "bottom-left",
+                            "text": "BLV SIÊU GÁY",
+                            "color": "#007bff",
+                            "text_color": "#ffffff"
+                        }
+                    ],
+                    "description": "AFC Champions League Elite - FOOTBALL",
+                    "image": {
+                        "url": "http://tt.8share.pro/images/cache/match-e6c5eb215999e5bd959b024a2305be3c.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
+                    },
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "sources": [
+                        {
+                            "id": "zp5rzghg1d9vq82_source",
+                            "name": "Khán Đài A",
+                            "contents": [
+                                {
+                                    "id": "zp5rzghg1d9vq82_content",
+                                    "name": "Al-Ahli SFC - Shabab Al Ahli",
+                                    "streams": [
+                                        {
+                                            "id": "zp5rzghg1d9vq82_stream",
+                                            "name": "BLV SIÊU GÁY",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/zp5rzghg1d9vq82"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "2y8m4whv6vj4ql0",
+                    "name": "Trentino - Ziraat Bankasi",
+                    "labels": [
+                        {
+                            "position": "bottom-left",
+                            "text": "BLV KAKA ",
+                            "color": "#007bff",
+                            "text_color": "#ffffff"
+                        }
+                    ],
+                    "description": "Champions League - VOLLEYBALL",
+                    "image": {
+                        "url": "http://tt.8share.pro/images/cache/match-ae38626079f3a4e04556801bdb17bc49.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
+                    },
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "sources": [
+                        {
+                            "id": "2y8m4whv6vj4ql0_source",
+                            "name": "Khán Đài A",
+                            "contents": [
+                                {
+                                    "id": "2y8m4whv6vj4ql0_content",
+                                    "name": "Trentino - Ziraat Bankasi",
+                                    "streams": [
+                                        {
+                                            "id": "2y8m4whv6vj4ql0_stream",
+                                            "name": "BLV KAKA ",
+                                            "remote_data": {
+                                                "url": "http://tt.8share.pro/khandaia/stream/2y8m4whv6vj4ql0"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
-            ]
-        },
-		{
-            "id": "demo-all",
-            "name": "All",
-            "display": "vertical",
-            "image": {
-                "url": "https://iptvschema.org/img/logo.png",
-                "type": "contain",
-                "width": 1920,
-                "height": 1080
-            },
-            "grid_number": 1,
-            "enable_detail": false,
-            "channels": [
-				{
-                    "id": "buck-1",
-                    "name": "Big Buck Bunny - Episode 1",
-                    "description": "An enormous, fluffy, and utterly adorable rabbit is heartlessly harassed by the ruthless, loud, bullying gang of a flying squirrel, who is determined to squash his happiness.\n",
-                    "label": "Full",
-                    "image": {
-                        "url": "https://iptvschema.org/img/buck-1.jpg",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
-                    },
-                    "display": "default",
-                    "type": "single",
-                    "enable_detail": true,
-                    "sources": [{
-                            "id": "source-1",
-                            "name": "Source 1",
-                            "image": null,
-                            "contents": [{
-                                    "id": "content-1",
-                                    "name": "Content 1",
-                                    "image": null,
-                                    "streams": [{
-                                            "id": "buck-ep-1",
-                                            "name": "Full",
-                                            "image": {
-                                                "url": "https://iptvschema.org/img/buck-1.jpg",
-                                                "type": "contain",
-                                                "width": 1920,
-                                                "height": 1080
-                                            },
-                                            "stream_links": [{
-                                                    "id": "buck-ep-1-s1",
-                                                    "name": "Server 1",
-                                                    "url": "https://iptvschema.org/videos/buck-1.mp4",
-                                                    "type": "hls",
-                                                    "default": true,
-                                                    "enableP2P": true,
-                                                    "subtitles": null,
-                                                    "remote_data": null,
-                                                    "request_headers": null,
-                                                    "comments": null
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ],
-                            "remote_data": null
-                        }
-                    ]
-                },
-				{
-                    "id": "buck-2",
-                    "name": "Big Buck Bunny - Episode 2",
-                    "description": "An enormous, fluffy, and utterly adorable rabbit is heartlessly harassed by the ruthless, loud, bullying gang of a flying squirrel, who is determined to squash his happiness.\n",
-                    "label": "Full",
-                    "image": {
-                        "url": "https://iptvschema.org/img/buck-2.jpg",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
-                    },
-                    "display": "default",
-                    "type": "single",
-                    "enable_detail": true,
-                    "sources": [{
-                            "id": "source-2",
-                            "name": "Source 2",
-                            "image": null,
-                            "contents": [{
-                                    "id": "content-2",
-                                    "name": "Content 2",
-                                    "image": null,
-                                    "streams": [{
-                                            "id": "buck-ep-2",
-                                            "name": "Full",
-                                            "image": {
-                                                "url": "https://iptvschema.org/img/buck-2.jpg",
-                                                "type": "contain",
-                                                "width": 1920,
-                                                "height": 1080
-                                            },
-                                            "stream_links": [{
-                                                    "id": "buck-ep-2-s1",
-                                                    "name": "Server 1",
-                                                    "url": "https://iptvschema.org/videos/buck-2.mp4",
-                                                    "type": "hls",
-                                                    "default": true,
-                                                    "enableP2P": true,
-                                                    "subtitles": null,
-                                                    "remote_data": null,
-                                                    "request_headers": null,
-                                                    "comments": null
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ],
-                            "remote_data": null
-                        }
-                    ]
-                },
-				{
-                    "id": "buck-3",
-                    "name": "Big Buck Bunny - Episode 3",
-                    "description": "An enormous, fluffy, and utterly adorable rabbit is heartlessly harassed by the ruthless, loud, bullying gang of a flying squirrel, who is determined to squash his happiness.\n",
-                    "label": "Full",
-                    "image": {
-                        "url": "https://iptvschema.org/img/buck-3.jpg",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
-                    },
-                    "display": "default",
-                    "type": "single",
-                    "enable_detail": true,
-                    "sources": [{
-                            "id": "source-3",
-                            "name": "Source 3",
-                            "image": null,
-                            "contents": [{
-                                    "id": "content-2",
-                                    "name": "Content 2",
-                                    "image": null,
-                                    "streams": [{
-                                            "id": "buck-ep-3",
-                                            "name": "Full",
-                                            "image": {
-                                                "url": "https://iptvschema.org/img/buck-2.jpg",
-                                                "type": "contain",
-                                                "width": 1920,
-                                                "height": 1080
-                                            },
-                                            "stream_links": [{
-                                                    "id": "buck-ep-2-s1",
-                                                    "name": "Server 1",
-                                                    "url": "https://iptvschema.org/videos/buck-3.mp4",
-                                                    "type": "hls",
-                                                    "default": true,
-                                                    "enableP2P": true,
-                                                    "subtitles": null,
-                                                    "remote_data": null,
-                                                    "request_headers": null,
-                                                    "comments": null
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ],
-                            "remote_data": null
-                        }
-                    ]
-                }
-            ]
+            ],
+            "remote_data": {
+                "url": "http://tt.8share.pro/khandaia/group/is_hot"
+            }
         }
-    ]
+    ],
+    "notice": {
+        "id": "notice",
+        "link": "https://t.me/xemgicungshare",
+        "icon": "http://tt.8share.pro/assets/telegram_sp.png",
+        "closeable": true
+    },
+    "option": {
+        "save_history": false,
+        "save_search_history": false,
+        "save_wishlist": false
+    }
 }
