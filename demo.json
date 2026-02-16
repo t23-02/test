@@ -42,12 +42,6 @@
                     "type": "single",
                     "display": "thumbnail-only",
                     "sources": [
-                        {
-                            "id": "1l4rjdhnn8ver7v_source",
-                            "name": "Khán Đài A",
-                            "contents": [
-                                {
-                                    "name": "Danh sách tập",
                                     "streams": [
                                         {
                                             "name": "BLV 1",
@@ -74,9 +68,7 @@
                                             }
                                         }										
                                     ]
-                                }
-                            ]
-                        }
+
                     ]
                 },
                 {
