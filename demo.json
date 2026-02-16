@@ -8,23 +8,20 @@
         "url": "http://tt.8share.pro/assets/khandaia_logo.png"
     },
     "groups": [
-        {
+	{
             "id": "is_hot",
             "name": "Tâm điểm",
             "display": "vertical",
             "grid_number": 2,
-            "channels": [
-                {
+            "channels": [{
                     "id": "1l4rjdhnn8ver7v",
                     "name": "GS Caltex Women - Hyundai E&C Hillstate Women",
-                    "labels": [
-                        {
+                    "labels": [{
                             "position": "top-right",
                             "text": "🔥 Hot",
                             "color": "#ff6600",
                             "text_color": "#ffffff"
-                        },
-                        {
+                        }, {
                             "position": "bottom-left",
                             "text": "BLV SIÊU CAY",
                             "color": "#007bff",
@@ -41,16 +38,13 @@
                     },
                     "type": "single",
                     "display": "thumbnail-only",
-                    "sources": [
-                        {
+                    "sources": [{
                             "id": "1l4rjdhnn8ver7v_source",
                             "name": "Khán Đài A",
-                            "contents": [
-                                {
+                            "contents": [{
                                     "id": "1l4rjdhnn8ver7v_content",
                                     "name": "GS Caltex Women - Hyundai E&C Hillstate Women",
-                                    "streams": [
-                                        {
+                                    "streams": [{
                                             "id": "1l4rjdhnn8ver7v_stream",
                                             "name": "BLV SIÊU CAY",
                                             "remote_data": {
@@ -62,18 +56,15 @@
                             ]
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "ednm9whwvyk4ryo",
                     "name": "Persita Tangerang - PSBS Biak Numfor",
-                    "labels": [
-                        {
+                    "labels": [{
                             "position": "top-right",
                             "text": "🔥 Hot",
                             "color": "#ff6600",
                             "text_color": "#ffffff"
-                        },
-                        {
+                        }, {
                             "position": "bottom-left",
                             "text": "BLV CÒ",
                             "color": "#007bff",
@@ -90,16 +81,13 @@
                     },
                     "type": "single",
                     "display": "thumbnail-only",
-                    "sources": [
-                        {
+                    "sources": [{
                             "id": "ednm9whwvyk4ryo_source",
                             "name": "Khán Đài A",
-                            "contents": [
-                                {
+                            "contents": [{
                                     "id": "ednm9whwvyk4ryo_content",
                                     "name": "Persita Tangerang - PSBS Biak Numfor",
-                                    "streams": [
-                                        {
+                                    "streams": [{
                                             "id": "ednm9whwvyk4ryo_stream",
                                             "name": "BLV CÒ",
                                             "remote_data": {
@@ -111,18 +99,15 @@
                             ]
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "vjxm8ghe2yn7r6o",
                     "name": "Shamakhi FK - Turan Tovuz",
-                    "labels": [
-                        {
+                    "labels": [{
                             "position": "top-right",
                             "text": "🔥 Hot",
                             "color": "#ff6600",
                             "text_color": "#ffffff"
-                        },
-                        {
+                        }, {
                             "position": "bottom-left",
                             "text": "BLV TIỂU MÂN",
                             "color": "#007bff",
@@ -139,16 +124,13 @@
                     },
                     "type": "single",
                     "display": "thumbnail-only",
-                    "sources": [
-                        {
+                    "sources": [{
                             "id": "vjxm8ghe2yn7r6o_source",
                             "name": "Khán Đài A",
-                            "contents": [
-                                {
+                            "contents": [{
                                     "id": "vjxm8ghe2yn7r6o_content",
                                     "name": "Shamakhi FK - Turan Tovuz",
-                                    "streams": [
-                                        {
+                                    "streams": [{
                                             "id": "vjxm8ghe2yn7r6o_stream",
                                             "name": "BLV TIỂU MÂN",
                                             "remote_data": {
@@ -160,18 +142,15 @@
                             ]
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "y0or5jh8znk9qwz",
                     "name": "Santa Clara U23 - Leixoes U23",
-                    "labels": [
-                        {
+                    "labels": [{
                             "position": "top-right",
                             "text": "🔥 Hot",
                             "color": "#ff6600",
                             "text_color": "#ffffff"
-                        },
-                        {
+                        }, {
                             "position": "bottom-left",
                             "text": "BLV KAKA ",
                             "color": "#007bff",
@@ -188,16 +167,13 @@
                     },
                     "type": "single",
                     "display": "thumbnail-only",
-                    "sources": [
-                        {
+                    "sources": [{
                             "id": "y0or5jh8znk9qwz_source",
                             "name": "Khán Đài A",
-                            "contents": [
-                                {
+                            "contents": [{
                                     "id": "y0or5jh8znk9qwz_content",
                                     "name": "Santa Clara U23 - Leixoes U23",
-                                    "streams": [
-                                        {
+                                    "streams": [{
                                             "id": "y0or5jh8znk9qwz_stream",
                                             "name": "BLV KAKA ",
                                             "remote_data": {
@@ -209,18 +185,15 @@
                             ]
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "y39mp1h669j5moj",
                     "name": "East Bengal FC - Northeast United",
-                    "labels": [
-                        {
+                    "labels": [{
                             "position": "top-right",
                             "text": "🔥 Hot",
                             "color": "#ff6600",
                             "text_color": "#ffffff"
-                        },
-                        {
+                        }, {
                             "position": "bottom-left",
                             "text": "BLV MÂY",
                             "color": "#007bff",
@@ -237,16 +210,13 @@
                     },
                     "type": "single",
                     "display": "thumbnail-only",
-                    "sources": [
-                        {
+                    "sources": [{
                             "id": "y39mp1h669j5moj_source",
                             "name": "Khán Đài A",
-                            "contents": [
-                                {
+                            "contents": [{
                                     "id": "y39mp1h669j5moj_content",
                                     "name": "East Bengal FC - Northeast United",
-                                    "streams": [
-                                        {
+                                    "streams": [{
                                             "id": "y39mp1h669j5moj_stream",
                                             "name": "BLV MÂY",
                                             "remote_data": {
@@ -258,18 +228,15 @@
                             ]
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "l5ergph43g6kr8k",
                     "name": "Hermannstadt - CFR Cluj",
-                    "labels": [
-                        {
+                    "labels": [{
                             "position": "top-right",
                             "text": "🔥 Hot",
                             "color": "#ff6600",
                             "text_color": "#ffffff"
-                        },
-                        {
+                        }, {
                             "position": "bottom-left",
                             "text": "BLV TIỂU MÂN",
                             "color": "#007bff",
@@ -286,16 +253,13 @@
                     },
                     "type": "single",
                     "display": "thumbnail-only",
-                    "sources": [
-                        {
+                    "sources": [{
                             "id": "l5ergph43g6kr8k_source",
                             "name": "Khán Đài A",
-                            "contents": [
-                                {
+                            "contents": [{
                                     "id": "l5ergph43g6kr8k_content",
                                     "name": "Hermannstadt - CFR Cluj",
-                                    "streams": [
-                                        {
+                                    "streams": [{
                                             "id": "l5ergph43g6kr8k_stream",
                                             "name": "BLV TIỂU MÂN",
                                             "remote_data": {
@@ -307,18 +271,15 @@
                             ]
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "zp5rzghg1d9vq82",
                     "name": "Al-Ahli SFC - Shabab Al Ahli",
-                    "labels": [
-                        {
+                    "labels": [{
                             "position": "top-right",
                             "text": "🔥 Hot",
                             "color": "#ff6600",
                             "text_color": "#ffffff"
-                        },
-                        {
+                        }, {
                             "position": "bottom-left",
                             "text": "BLV SIÊU GÁY",
                             "color": "#007bff",
@@ -335,16 +296,13 @@
                     },
                     "type": "single",
                     "display": "thumbnail-only",
-                    "sources": [
-                        {
+                    "sources": [{
                             "id": "zp5rzghg1d9vq82_source",
                             "name": "Khán Đài A",
-                            "contents": [
-                                {
+                            "contents": [{
                                     "id": "zp5rzghg1d9vq82_content",
                                     "name": "Al-Ahli SFC - Shabab Al Ahli",
-                                    "streams": [
-                                        {
+                                    "streams": [{
                                             "id": "zp5rzghg1d9vq82_stream",
                                             "name": "BLV SIÊU GÁY",
                                             "remote_data": {
@@ -356,12 +314,10 @@
                             ]
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "2y8m4whv6vj4ql0",
                     "name": "Trentino - Ziraat Bankasi",
-                    "labels": [
-                        {
+                    "labels": [{
                             "position": "bottom-left",
                             "text": "BLV KAKA ",
                             "color": "#007bff",
@@ -378,16 +334,13 @@
                     },
                     "type": "single",
                     "display": "thumbnail-only",
-                    "sources": [
-                        {
+                    "sources": [{
                             "id": "2y8m4whv6vj4ql0_source",
                             "name": "Khán Đài A",
-                            "contents": [
-                                {
+                            "contents": [{
                                     "id": "2y8m4whv6vj4ql0_content",
                                     "name": "Trentino - Ziraat Bankasi",
-                                    "streams": [
-                                        {
+                                    "streams": [{
                                             "id": "2y8m4whv6vj4ql0_stream",
                                             "name": "BLV KAKA ",
                                             "remote_data": {
@@ -404,26 +357,26 @@
             "remote_data": {
                 "url": "http://tt.8share.pro/khandaia/group/is_hot"
             }
-        }
-    ],
-    "groups": [
-        {
+        },
+    
+    
+	
+	
+	
+	{
             "id": "is_hota",
             "name": "Tâm điểm aa",
             "display": "vertical",
             "grid_number": 2,
-            "channels": [
-                {
+            "channels": [{
                     "id": "1l4rjdhnn8ver7v",
                     "name": "GS Caltex Women - Hyundai E&C Hillstate Women",
-                    "labels": [
-                        {
+                    "labels": [{
                             "position": "top-right",
                             "text": "🔥 Hot",
                             "color": "#ff6600",
                             "text_color": "#ffffff"
-                        },
-                        {
+                        }, {
                             "position": "bottom-left",
                             "text": "BLV SIÊU CAY",
                             "color": "#007bff",
@@ -440,16 +393,13 @@
                     },
                     "type": "single",
                     "display": "thumbnail-only",
-                    "sources": [
-                        {
+                    "sources": [{
                             "id": "1l4rjdhnn8ver7v_source",
                             "name": "Khán Đài A",
-                            "contents": [
-                                {
+                            "contents": [{
                                     "id": "1l4rjdhnn8ver7v_content",
                                     "name": "GS Caltex Women - Hyundai E&C Hillstate Women",
-                                    "streams": [
-                                        {
+                                    "streams": [{
                                             "id": "1l4rjdhnn8ver7v_stream",
                                             "name": "BLV SIÊU CAY",
                                             "remote_data": {
@@ -461,18 +411,15 @@
                             ]
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "ednm9whwvyk4ryo",
                     "name": "Persita Tangerang - PSBS Biak Numfor",
-                    "labels": [
-                        {
+                    "labels": [{
                             "position": "top-right",
                             "text": "🔥 Hot",
                             "color": "#ff6600",
                             "text_color": "#ffffff"
-                        },
-                        {
+                        }, {
                             "position": "bottom-left",
                             "text": "BLV CÒ",
                             "color": "#007bff",
@@ -489,16 +436,13 @@
                     },
                     "type": "single",
                     "display": "thumbnail-only",
-                    "sources": [
-                        {
+                    "sources": [{
                             "id": "ednm9whwvyk4ryo_source",
                             "name": "Khán Đài A",
-                            "contents": [
-                                {
+                            "contents": [{
                                     "id": "ednm9whwvyk4ryo_content",
                                     "name": "Persita Tangerang - PSBS Biak Numfor",
-                                    "streams": [
-                                        {
+                                    "streams": [{
                                             "id": "ednm9whwvyk4ryo_stream",
                                             "name": "BLV CÒ",
                                             "remote_data": {
@@ -510,18 +454,15 @@
                             ]
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "vjxm8ghe2yn7r6o",
                     "name": "Shamakhi FK - Turan Tovuz",
-                    "labels": [
-                        {
+                    "labels": [{
                             "position": "top-right",
                             "text": "🔥 Hot",
                             "color": "#ff6600",
                             "text_color": "#ffffff"
-                        },
-                        {
+                        }, {
                             "position": "bottom-left",
                             "text": "BLV TIỂU MÂN",
                             "color": "#007bff",
@@ -538,16 +479,13 @@
                     },
                     "type": "single",
                     "display": "thumbnail-only",
-                    "sources": [
-                        {
+                    "sources": [{
                             "id": "vjxm8ghe2yn7r6o_source",
                             "name": "Khán Đài A",
-                            "contents": [
-                                {
+                            "contents": [{
                                     "id": "vjxm8ghe2yn7r6o_content",
                                     "name": "Shamakhi FK - Turan Tovuz",
-                                    "streams": [
-                                        {
+                                    "streams": [{
                                             "id": "vjxm8ghe2yn7r6o_stream",
                                             "name": "BLV TIỂU MÂN",
                                             "remote_data": {
@@ -559,18 +497,15 @@
                             ]
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "y0or5jh8znk9qwz",
                     "name": "Santa Clara U23 - Leixoes U23",
-                    "labels": [
-                        {
+                    "labels": [{
                             "position": "top-right",
                             "text": "🔥 Hot",
                             "color": "#ff6600",
                             "text_color": "#ffffff"
-                        },
-                        {
+                        }, {
                             "position": "bottom-left",
                             "text": "BLV KAKA ",
                             "color": "#007bff",
@@ -587,16 +522,13 @@
                     },
                     "type": "single",
                     "display": "thumbnail-only",
-                    "sources": [
-                        {
+                    "sources": [{
                             "id": "y0or5jh8znk9qwz_source",
                             "name": "Khán Đài A",
-                            "contents": [
-                                {
+                            "contents": [{
                                     "id": "y0or5jh8znk9qwz_content",
                                     "name": "Santa Clara U23 - Leixoes U23",
-                                    "streams": [
-                                        {
+                                    "streams": [{
                                             "id": "y0or5jh8znk9qwz_stream",
                                             "name": "BLV KAKA ",
                                             "remote_data": {
@@ -608,18 +540,15 @@
                             ]
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "y39mp1h669j5moj",
                     "name": "East Bengal FC - Northeast United",
-                    "labels": [
-                        {
+                    "labels": [{
                             "position": "top-right",
                             "text": "🔥 Hot",
                             "color": "#ff6600",
                             "text_color": "#ffffff"
-                        },
-                        {
+                        }, {
                             "position": "bottom-left",
                             "text": "BLV MÂY",
                             "color": "#007bff",
@@ -636,16 +565,13 @@
                     },
                     "type": "single",
                     "display": "thumbnail-only",
-                    "sources": [
-                        {
+                    "sources": [{
                             "id": "y39mp1h669j5moj_source",
                             "name": "Khán Đài A",
-                            "contents": [
-                                {
+                            "contents": [{
                                     "id": "y39mp1h669j5moj_content",
                                     "name": "East Bengal FC - Northeast United",
-                                    "streams": [
-                                        {
+                                    "streams": [{
                                             "id": "y39mp1h669j5moj_stream",
                                             "name": "BLV MÂY",
                                             "remote_data": {
@@ -657,18 +583,15 @@
                             ]
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "l5ergph43g6kr8k",
                     "name": "Hermannstadt - CFR Cluj",
-                    "labels": [
-                        {
+                    "labels": [{
                             "position": "top-right",
                             "text": "🔥 Hot",
                             "color": "#ff6600",
                             "text_color": "#ffffff"
-                        },
-                        {
+                        }, {
                             "position": "bottom-left",
                             "text": "BLV TIỂU MÂN",
                             "color": "#007bff",
@@ -685,16 +608,13 @@
                     },
                     "type": "single",
                     "display": "thumbnail-only",
-                    "sources": [
-                        {
+                    "sources": [{
                             "id": "l5ergph43g6kr8k_source",
                             "name": "Khán Đài A",
-                            "contents": [
-                                {
+                            "contents": [{
                                     "id": "l5ergph43g6kr8k_content",
                                     "name": "Hermannstadt - CFR Cluj",
-                                    "streams": [
-                                        {
+                                    "streams": [{
                                             "id": "l5ergph43g6kr8k_stream",
                                             "name": "BLV TIỂU MÂN",
                                             "remote_data": {
@@ -706,18 +626,15 @@
                             ]
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "zp5rzghg1d9vq82",
                     "name": "Al-Ahli SFC - Shabab Al Ahli",
-                    "labels": [
-                        {
+                    "labels": [{
                             "position": "top-right",
                             "text": "🔥 Hot",
                             "color": "#ff6600",
                             "text_color": "#ffffff"
-                        },
-                        {
+                        }, {
                             "position": "bottom-left",
                             "text": "BLV SIÊU GÁY",
                             "color": "#007bff",
@@ -734,16 +651,13 @@
                     },
                     "type": "single",
                     "display": "thumbnail-only",
-                    "sources": [
-                        {
+                    "sources": [{
                             "id": "zp5rzghg1d9vq82_source",
                             "name": "Khán Đài A",
-                            "contents": [
-                                {
+                            "contents": [{
                                     "id": "zp5rzghg1d9vq82_content",
                                     "name": "Al-Ahli SFC - Shabab Al Ahli",
-                                    "streams": [
-                                        {
+                                    "streams": [{
                                             "id": "zp5rzghg1d9vq82_stream",
                                             "name": "BLV SIÊU GÁY",
                                             "remote_data": {
@@ -755,12 +669,10 @@
                             ]
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "2y8m4whv6vj4ql0",
                     "name": "Trentino - Ziraat Bankasi",
-                    "labels": [
-                        {
+                    "labels": [{
                             "position": "bottom-left",
                             "text": "BLV KAKA ",
                             "color": "#007bff",
@@ -777,16 +689,13 @@
                     },
                     "type": "single",
                     "display": "thumbnail-only",
-                    "sources": [
-                        {
+                    "sources": [{
                             "id": "2y8m4whv6vj4ql0_source",
                             "name": "Khán Đài A",
-                            "contents": [
-                                {
+                            "contents": [{
                                     "id": "2y8m4whv6vj4ql0_content",
                                     "name": "Trentino - Ziraat Bankasi",
-                                    "streams": [
-                                        {
+                                    "streams": [{
                                             "id": "2y8m4whv6vj4ql0_stream",
                                             "name": "BLV KAKA ",
                                             "remote_data": {
