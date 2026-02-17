@@ -107,7 +107,7 @@
                                                 {
                                                     "id": "10443",
                                                     "default": false,
-                                                    "url": "https://ok.ru/video/7636260752010",
+                                                    "url": "https://ok.ru/videoembed/7636260752010?nochat=1",
                                                     "name": "Mặc định",
                                                     "type": "webview"
                                                 },
