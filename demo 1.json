@@ -105,14 +105,7 @@
                                             "name": "Nhạc Việt thời nay, rất \"hay ho\" và \"này nọ\"!",
                                             "stream_links": [
                                                 {
-                                                    "id": "10443",
-                                                    "default": false,
-                                                    "url": "https://www.youtube.com/watch?v=8SK6daWrHLo",
-                                                    "name": "Mặc định",
-                                                    "type": "webview"
-                                                },
-                                                {
-                                    "id": "bach-luyen-thanh-than--0-0-default",
+                                    "id": "bach-luyen-thanh-than--0-1-default",
                                     "name": "Mặc Định 3",
                                     "type": "webview",
                                     "default": false,
@@ -122,7 +115,7 @@
                                             "value": "MonPlayer"
                                         }, {
                                             "key": "Referer",
-                                            "value": "https://embed1.streamc.xyz/embed.php?hash=c74846d43770dbbd4e96ba434c281c0c"
+                                            "value": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/link.txt"
                                         }
                                     ]
                                 },{
