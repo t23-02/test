@@ -63,8 +63,9 @@
                         {
                           "id": "buck-ep-1-s1",
                           "name": "Server 1",
-                          "url": "https://iptvschema.org/videos/buck-1.mp4",
+                          "url": "https://embed15.streamc.xyz/eyJoIjoiZTY1NzU1ZGI1NDViOGFmZmExYzAzMjk0MjczMDFkNjYiLCJ0IjoiMzFiMzA2NmU5Zjk2MDdhNmE4NGFkY2IwNjgxZTk1MWRmMmIxMzU5OTY3MDcxMzViZTJiNjUzMzZkNmM5MWM0ZiJ9.m3u8",
                           "type": "hls",
+                          "referrer":"https://embed15.streamc.xyz/",
                           "default": true,
                           "enableP2P": true,
                           "subtitles": null,
