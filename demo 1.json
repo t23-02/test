@@ -107,7 +107,7 @@
                                                 {
                                                     "id": "10443",
                                                     "default": false,
-                                                    "url": "https://ok.ru/videoembed/7636260752010?nochat=1",
+                                                    "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/link.txt",
                                                     "name": "Mặc định",
                                                     "type": "webview"
                                                 },
