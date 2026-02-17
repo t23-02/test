@@ -106,12 +106,26 @@
                                             "stream_links": [
                                                 {
                                                     "id": "10443",
-                                                    "default": true,
+                                                    "default": false,
                                                     "url": "https://www.youtube.com/watch?v=8SK6daWrHLo",
                                                     "name": "Mặc định",
                                                     "type": "webview"
                                                 },
                                                 {
+                                    "id": "bach-luyen-thanh-than--0-0-default",
+                                    "name": "Mặc Định 3",
+                                    "type": "webview",
+                                    "default": false,
+                                    "url": "https://www.youtube.com/watch?v=8SK6daWrHLo",
+                                    "request_headers": [{
+                                            "key": "User-Agent",
+                                            "value": "MonPlayer"
+                                        }, {
+                                            "key": "Referer",
+                                            "value": "https://embed1.streamc.xyz/embed.php?hash=c74846d43770dbbd4e96ba434c281c0c"
+                                        }
+                                    ]
+                                },{
                                     "id": "bach-luyen-thanh-than--0-0-default",
                                     "name": "Mặc Định 11",
                                     "type": "webview",
