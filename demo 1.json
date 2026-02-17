@@ -1,200 +1,590 @@
+https://media.hth4nh.eu.org/home
 {
-  "id": "demo",
-  "name": "Demo Provider",
-  "description": "A list of demo animations",
-  "url": "https://iptvschema.org/demo.json",
-  "color": "#181818",
-  "image": {
-    "url": "https://iptvschema.org/img/logo.png",
-    "type": "contain",
-    "height": 187,
-    "width": 28
-  },
-  "grid_number": 2,
-  "groups": [
-    {
-      "id": "demo-all",
-      "name": "All",
-      "display": "vertical",
-      "image": {
-        "url": "https://iptvschema.org/img/logo.png",
-        "type": "contain",
-        "width": 1920,
-        "height": 1080
-      },
-      "grid_number": 1,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "buck-1",
-          "name": "Big Buck Bunny - Episode 1",
-          "description": "An enormous, fluffy, and utterly adorable rabbit is heartlessly harassed by the ruthless, loud, bullying gang of a flying squirrel, who is determined to squash his happiness.\n",
-          "label": "Full",
-          "image": {
-            "url": "https://iptvschema.org/img/buck-1.jpg",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
-          },
-          "display": "default",
-          "type": "single",
-          "enable_detail": true,
-          "sources": [
-            {
-              "id": "source-1",
-              "name": "Source 1",
-              "image": null,
-              "contents": [
-                {
-                  "id": "content-1",
-                  "name": "Content 1",
-                  "image": null,
-                  "streams": [
-                    {
-                      "id": "buck-ep-1",
-                      "name": "Full",
-                      "image": {
-                        "url": "https://iptvschema.org/img/buck-1.jpg",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
-                      },
-                      "stream_links": [
-                        {
-                          "id": "buck-ep-1-s1",
-                          "name": "Server 1",
-                          "url": "https://embed15.streamc.xyz/eyJoIjoiZTY1NzU1ZGI1NDViOGFmZmExYzAzMjk0MjczMDFkNjYiLCJ0IjoiMzFiMzA2NmU5Zjk2MDdhNmE4NGFkY2IwNjgxZTk1MWRmMmIxMzU5OTY3MDcxMzViZTJiNjUzMzZkNmM5MWM0ZiJ9.m3u8",
-                          "type": "hls",
-                          "referrer":"https://embed15.streamc.xyz/",
-                          "default": true,
-                          "enableP2P": true,
-                          "subtitles": null,
-                          "remote_data": null,
-                          "request_headers": null,
-                          "comments": null
-                        }
-                      ]
+    "id": "zzz",
+    "name": "Zzz",
+    "url": "https://media.hth4nh.eu.org/home",
+    "color": "#000000",
+    "image": {
+        "url": "https://media.hth4nh.eu.org/static/img/logo-zzz.png",
+        "display": "cover"
+    },
+    "description": "Zzz",
+    "share": {
+        "url": "https://media.hth4nh.eu.org/home"
+    },
+    "notice": {
+        "closeable": true,
+        "icon": "https://media.hth4nh.eu.org/static/img/tele.png",
+        "id": "notice",
+        "link": "https://t.me/zzz_monplayer",
+        "text": "Zzz"
+    },
+    "groups": [
+{
+            "id": "film",
+            "name": "Xem phim thả ga, không lo quảng cáo",
+            "display": "horizontal",
+            "grid_number": 1,
+            "groups": [
+{
+                    "id": "zzz-kkphim",
+                    "name": "KKPhim",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://media.hth4nh.eu.org/static/img/logo-kk-2.png",
+                        "display": "cover",
+                        "width": 80,
+                        "height": 80
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Fmedia.hth4nh.eu.org%2Fkkphim&type=provider",
+                        "external": true
                     }
-                  ]
+                },
+{
+                    "id": "zzz-ophim",
+                    "name": "Ophim",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://media.hth4nh.eu.org/static/img/logo-ophim.png",
+                        "display": "cover",
+                        "width": 80,
+                        "height": 80
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Fmedia.hth4nh.eu.org%2Fophim&type=provider",
+                        "external": true
+                    }
+                },
+{
+                    "id": "zzz-nguonc",
+                    "name": "NguonC",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://media.hth4nh.eu.org/static/img/logo-nguonc.png",
+                        "display": "cover",
+                        "width": 80,
+                        "height": 80
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Fmedia.hth4nh.eu.org%2Fnguonc&type=provider",
+                        "external": true
+                    }
                 }
-              ],
-              "remote_data": null
-            }
-          ]
+            ]
         },
-        {
-          "id": "buck-2",
-          "name": "Big Buck Bunny - Episode 2",
-          "description": "An enormous, fluffy, and utterly adorable rabbit is heartlessly harassed by the ruthless, loud, bullying gang of a flying squirrel, who is determined to squash his happiness.\n",
-          "label": "Full",
-          "image": {
-            "url": "https://iptvschema.org/img/buck-2.jpg",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
-          },
-          "display": "default",
-          "type": "single",
-          "enable_detail": true,
-          "sources": [
-            {
-              "id": "source-2",
-              "name": "Source 2",
-              "image": null,
-              "contents": [
-                {
-                  "id": "content-2",
-                  "name": "Content 2",
-                  "image": null,
-                  "streams": [
-                    {
-                      "id": "buck-ep-2",
-                      "name": "Full",
-                      "image": {
-                        "url": "https://iptvschema.org/img/buck-2.jpg",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
-                      },
-                      "stream_links": [
-                        {
-                          "id": "buck-ep-2-s1",
-                          "name": "Server 1",
-                          "url": "https://iptvschema.org/videos/buck-2.mp4",
-                          "type": "hls",
-                          "default": true,
-                          "enableP2P": true,
-                          "subtitles": null,
-                          "remote_data": null,
-                          "request_headers": null,
-                          "comments": null
+{
+            "id": "music-vn",
+            "name": "Nhạc Việt",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [
+{
+                    "id": "10443",
+                    "name": "V-POP",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/8/e/4/08e4104877db6c9a77d6fc42f0a17a8b.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [
+{
+                            "id": "10443",
+                            "name": "",
+                            "contents": [
+{
+                                    "id": "10443",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [
+{
+                                            "id": "10443",
+                                            "name": "Nhạc Việt thời nay, rất \"hay ho\" và \"này nọ\"!",
+                                            "stream_links": [
+{
+                                                    "id": "10443",
+                                                    "default": true,
+                                                    "url": "https://www.youtube.com/embed/8SK6daWrHLo?si=Ko9Spxd-Ei6DK721",
+                                                    "name": "Mặc định",
+                                                    "type": "webview"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
-                      ]
-                    }
-                  ]
+                    ]
+                },
+{
+                    "id": "10568",
+                    "name": "Chạm",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/5/4/0/7540c1a177ce70af53aa417cba1462ed.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [
+{
+                            "id": "10568",
+                            "name": "",
+                            "contents": [
+{
+                                    "id": "10568",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [
+{
+                                            "id": "10568",
+                                            "name": "Chạm - Nơi chia sẻ cảm xúc qua âm nhạc.",
+                                            "stream_links": [
+{
+                                                    "id": "10568",
+                                                    "default": true,
+                                                    "url": "https://multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-realtime/59a2ee0ed24b3b15625a/index.m3u8",
+                                                    "name": "Mặc định",
+                                                    "type": "hls"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+{
+                    "id": "10449",
+                    "name": "Bolero",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/8/e/3/98e374cc9603ce9894782f4b36f3cba9.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [
+{
+                            "id": "10449",
+                            "name": "",
+                            "contents": [
+{
+                                    "id": "10449",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [
+{
+                                            "id": "10449",
+                                            "name": "Dành tặng bạn, những tuyệt phẩm nhạc trữ tình và bolero hay nhất mọi thời đại.",
+                                            "stream_links": [
+{
+                                                    "id": "10449",
+                                                    "default": true,
+                                                    "url": "https://multi-playlist-zmp3.zmdcdn.me/ioZs7yhxUxk/zhls/playback-realtime/5bace800d4453d1b6454/index.m3u8",
+                                                    "name": "Mặc định",
+                                                    "type": "hls"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+{
+                    "id": "10560",
+                    "name": "Acoustic",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/2/d/c/42dc85df71a175bf2e826b08dd0084af.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [
+{
+                            "id": "10560",
+                            "name": "",
+                            "contents": [
+{
+                                    "id": "10560",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [
+{
+                                            "id": "10560",
+                                            "name": "Nếu đang tìm chút mộc mạc, hãy nghe Acoustic playlist mà Zzz đã chuẩn bị cho bạn.",
+                                            "stream_links": [
+{
+                                                    "id": "10560",
+                                                    "default": true,
+                                                    "url": "https://multi-playlist-zmp3.zmdcdn.me/AiekixzmitQ/zhls/playback-realtime/9b7b55d7699280ccd983/index.m3u8",
+                                                    "name": "Mặc định",
+                                                    "type": "hls"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+{
+                    "id": "10518",
+                    "name": "Rap Việt",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/5/2/4/f5242b2f63e785bb1ce8256a1b976007.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [
+{
+                            "id": "10518",
+                            "name": "",
+                            "contents": [
+{
+                                    "id": "10518",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [
+{
+                                            "id": "10518",
+                                            "name": "Ở đây có rap Việt mới nhất, chất nhất cho bạn cháy hết mình!",
+                                            "stream_links": [
+{
+                                                    "id": "10518",
+                                                    "default": true,
+                                                    "url": "https://multi-playlist-zmp3.zmdcdn.me/XHOosOJ-f8g/zhls/playback-realtime/cef1015d3d18d4468d09/index.m3u8",
+                                                    "name": "Mặc định",
+                                                    "type": "hls"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+{
+                    "id": "10556",
+                    "name": "Indie",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/5/5/b/955b98868b8b29e1e782fc0913d857d2.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [
+{
+                            "id": "10556",
+                            "name": "",
+                            "contents": [
+{
+                                    "id": "10556",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [
+{
+                                            "id": "10556",
+                                            "name": "Đây là trạm sạc Indie. Cùng Zzz mang đến những ca khúc giúp bạn sạc pin cho trái tim.",
+                                            "stream_links": [
+{
+                                                    "id": "10556",
+                                                    "default": true,
+                                                    "url": "https://multi-playlist-zmp3.zmdcdn.me/VV55kkJD6Qo/zhls/playback-realtime/eeff2a531616ff48a607/index.m3u8",
+                                                    "name": "Mặc định",
+                                                    "type": "hls"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+{
+                    "id": "10585",
+                    "name": "Nhạc thiếu nhi vui nhộn",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/d/d/6/edd6b56e8f79898dd98acfcf55c5564a.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [
+{
+                            "id": "10585",
+                            "name": "",
+                            "contents": [
+{
+                                    "id": "10585",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [
+{
+                                            "id": "10585",
+                                            "name": "Không chỉ là giai điệu tạo nên niềm vui cho trẻ nhỏ. Đây còn là mảnh ghép tuổi thơ của người lớn.",
+                                            "stream_links": [
+{
+                                                    "id": "10585",
+                                                    "default": true,
+                                                    "url": "https://multi-playlist-zmp3.zmdcdn.me/UKk_cQEl314/zhls/playback-realtime/ef512afd16b8ffe6a6a9/index.m3u8",
+                                                    "name": "Mặc định",
+                                                    "type": "hls"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ],
-              "remote_data": null
-            }
-          ]
+            ]
         },
-        {
-          "id": "buck-3",
-          "name": "Big Buck Bunny - Episode 3",
-          "description": "An enormous, fluffy, and utterly adorable rabbit is heartlessly harassed by the ruthless, loud, bullying gang of a flying squirrel, who is determined to squash his happiness.\n",
-          "label": "Full",
-          "image": {
-            "url": "https://iptvschema.org/img/buck-3.jpg",
-            "type": "contain",
-            "width": 1920,
-            "height": 1080
-          },
-          "display": "default",
-          "type": "single",
-          "enable_detail": true,
-          "sources": [
-            {
-              "id": "source-3",
-              "name": "Source 3",
-              "image": null,
-              "contents": [
-                {
-                  "id": "content-2",
-                  "name": "Content 2",
-                  "image": null,
-                  "streams": [
-                    {
-                      "id": "buck-ep-3",
-                      "name": "Full",
-                      "image": {
-                        "url": "https://iptvschema.org/img/buck-2.jpg",
-                        "type": "contain",
-                        "width": 1920,
-                        "height": 1080
-                      },
-                      "stream_links": [
-                        {
-                          "id": "buck-ep-2-s1",
-                          "name": "Server 1",
-                          "url": "https://iptvschema.org/videos/buck-3.mp4",
-                          "type": "hls",
-                          "default": true,
-                          "enableP2P": true,
-                          "subtitles": null,
-                          "remote_data": null,
-                          "request_headers": null,
-                          "comments": null
+{
+            "id": "music-other",
+            "name": "Nhạc nước ngoài",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [
+{
+                    "id": "10626",
+                    "name": "US-UK",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/4/9/6/84964df6d030510a675f05110e8db166.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [
+{
+                            "id": "10626",
+                            "name": "",
+                            "contents": [
+{
+                                    "id": "10626",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [
+{
+                                            "id": "10626",
+                                            "name": "Nhạc hay từ Âu đến Mỹ, cùng Zzz khám phá xem thế giới đang nghe gì.",
+                                            "stream_links": [
+{
+                                                    "id": "10626",
+                                                    "default": true,
+                                                    "url": "https://multi-playlist-zmp3.zmdcdn.me/-XosZVJX9XA/zhls/playback-realtime/f49e38320477ed29b466/index.m3u8",
+                                                    "name": "Mặc định",
+                                                    "type": "hls"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
-                      ]
-                    }
-                  ]
+                    ]
+                },
+{
+                    "id": "10444",
+                    "name": "K-POP",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/8/f/e/68feac6764ce3018854f2a2ca313326d.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [
+{
+                            "id": "10444",
+                            "name": "",
+                            "contents": [
+{
+                                    "id": "10444",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [
+{
+                                            "id": "10444",
+                                            "name": "Fan K-POP mau bơi hết vào đây nào các bạn !!!",
+                                            "stream_links": [
+{
+                                                    "id": "10444",
+                                                    "default": true,
+                                                    "url": "https://multi-playlist-zmp3.zmdcdn.me/rTbzjcKEO1A/zhls/playback-realtime/6600baac86e96fb736f8/index.m3u8",
+                                                    "name": "Mặc định",
+                                                    "type": "hls"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+{
+                    "id": "10522",
+                    "name": "EDM",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/a/5/9/5a590ac34ef8655bae41a8cf72813935.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [
+{
+                            "id": "10522",
+                            "name": "",
+                            "contents": [
+{
+                                    "id": "10522",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [
+{
+                                            "id": "10522",
+                                            "name": "Đây là \"sàn\" EDM. Các bạn đã sẵn sàng chưa? Nhạc lên rồi, cùng nhảy thôi!",
+                                            "stream_links": [
+{
+                                                    "id": "10522",
+                                                    "default": true,
+                                                    "url": "https://multi-playlist-zmp3.zmdcdn.me/lupi_x8-Su4/zhls/playback-realtime/7386bb2a876f6e31377e/index.m3u8",
+                                                    "name": "Mặc định",
+                                                    "type": "hls"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+{
+                    "id": "10508",
+                    "name": "C-Pop",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/f/1/5/4f15f3ea2765456e3446117c48eebeea.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [
+{
+                            "id": "10508",
+                            "name": "",
+                            "contents": [
+{
+                                    "id": "10508",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [
+{
+                                            "id": "10508",
+                                            "name": "Âm nhạc Trung Hoa từ xưa đến nay, từ cổ phong cho đến C-Pop.",
+                                            "stream_links": [
+{
+                                                    "id": "10508",
+                                                    "default": true,
+                                                    "url": "https://multi-playlist-zmp3.zmdcdn.me/_TAVBRh_ce4/zhls/playback-realtime/97b35e1f625a8b04d24b/index.m3u8",
+                                                    "name": "Mặc định",
+                                                    "type": "hls"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+{
+                    "id": "11038",
+                    "name": "Nhạc không lời",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/d/f/9/8df97d41cccb3171587de9cd29be28dd.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [
+{
+                            "id": "11038",
+                            "name": "",
+                            "contents": [
+{
+                                    "id": "11038",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [
+{
+                                            "id": "11038",
+                                            "name": "",
+                                            "stream_links": [
+{
+                                                    "id": "11038",
+                                                    "default": true,
+                                                    "url": "https://multi-playlist-zmp3.zmdcdn.me/4WEUr_3aq8I/zhls/playback-realtime/1f36d59ae9df008159ce/index.m3u8",
+                                                    "name": "Mặc định",
+                                                    "type": "hls"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ],
-              "remote_data": null
-            }
-          ]
+            ]
         }
-      ]
+    ],
+    "option": {
+        "save_history": false,
+        "save_search_history": false,
+        "save_wishlist": false
     }
-  ]
 }
