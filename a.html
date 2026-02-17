@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="vi-VN">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <link rel="shortcut icon" href="https://www.google.com/favicon.ico" />
+    <link rel="stylesheet" href="netflix.css?ver=1.0" />
+    <script src="https://ssl.p.jwpcdn.com/player/v/8.38.2/jwplayer.js"></script>
+    <script id="_waup2s">var _wau = _wau || []; _wau.push(["dynamic", "s0tswmpfb3", "p2s", "c4302bffffff", "small"]);</script>
+    <script async src="//waust.at/d.js"></script>
+</head>
+<body>
+    <div id="player" data-obf="eyJzVWIiOiJleUpvSWpvaVl6YzBPRFEyWkRRek56Y3daR0ppWkRSbE9UWmlZVFF6TkdNeU9ERmpNR01pTENKMElqb2lNbVExTURJMU1tWTVOVEV5TkRjNU5EZzBPVGRqWlRkaE56ZzRaVE0yT0RjM00yWXpPV1UyTkdJNFlqSTVNelJqTm1JNFpERmxOR015WmpOaU9EVXlNU0o5IiwiaEQiOiJjNzQ4NDZkNDM3NzBkYmJkNGU5NmJhNDM0YzI4MWMwYyJ9"></div>
+    
+    <script src="devtools.js" defer></script>
+    <script src="player1.js?ver=3.0" defer></script>
+    
+    <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+        const playerEl = document.getElementById('player');
+        const streamData = JSON.parse(atob(playerEl.dataset.obf));
+        const hash = streamData.hD;
+        const isMobile = /android|iphone|ipod|ipad|iemobile|mobile/i.test(navigator.userAgent);
+        const streamUrl = `${streamData.sUb}${isMobile ? '.m3u9' : '.m3u8'}`;
+        window.streamURL = streamUrl;
+        window.videoHash = hash; 
+
+        if (typeof devtoolsDetector === "undefined") {
+            location.reload();
+            return;
+        }
+        
+        devtoolsDetector.launch();
+        devtoolsDetector.addListener(isOpen => { if (isOpen) location.reload(); });
+        
+        window.oncontextmenu = () => false;
+        document.addEventListener('keydown', e => {
+            const key = e.key.toLowerCase();
+            if (e.ctrlKey && (key === 'u' || (e.shiftKey && ['i', 'c', 'j'].includes(key))) ||
+                e.key === 'F12' || (e.key === 'I' && e.ctrlKey && e.shiftKey)) {
+                e.preventDefault();
+            }
+        });
+    });
+    </script>
+</body>
+<iframe width="560" height="315" src="//ok.ru/videoembed/7636260752010?nochat=1" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+
+</html>
