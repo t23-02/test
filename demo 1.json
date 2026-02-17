@@ -107,7 +107,7 @@
                                                 {
                                                     "id": "10443",
                                                     "default": false,
-                                                    "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/link.txt",
+                                                    "url": "https://www.youtube.com/watch?v=8SK6daWrHLo",
                                                     "name": "Mặc định",
                                                     "type": "webview"
                                                 },
@@ -116,7 +116,7 @@
                                     "name": "Mặc Định 3",
                                     "type": "webview",
                                     "default": false,
-                                    "url": "https://www.youtube.com/watch?v=8SK6daWrHLo",
+                                    "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/link.txt",
                                     "request_headers": [{
                                             "key": "User-Agent",
                                             "value": "MonPlayer"
