@@ -109,13 +109,13 @@
                                     "name": "Mặc Định 3",
                                     "type": "webview",
                                     "default": false,
-                                    "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/link.txt",
+                                    "url": "https://t23-02.github.io/test/a.html",
                                     "request_headers": [{
                                             "key": "User-Agent",
                                             "value": "MonPlayer"
                                         }, {
                                             "key": "Referer",
-                                            "value": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/link.txt"
+                                            "value": "https://t23-02.github.io/test/a.html"
                                         }
                                     ]
                                 },{
