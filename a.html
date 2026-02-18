@@ -1,1 +1,20 @@
-<iframe src="https://www.youtube.com/embed/bya5Qjnlmh0?si=4kD0FwMlwonFA_yH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div id="playerWrapper" style="position:fixed;inset:0;">
+  <iframe
+    id="yt"
+    width="100%"
+    height="100%"
+    src="https://www.youtube.com/embed/bya5Qjnlmh0?autoplay=1&mute=1&playsinline=1"
+    frameborder="0"
+    allow="autoplay; fullscreen"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<script>
+document.addEventListener("click", () => {
+  const iframe = document.getElementById("yt");
+  if (iframe.requestFullscreen) {
+    iframe.requestFullscreen();
+  }
+}, { once:true });
+</script>
