@@ -1,4 +1,3 @@
-<div id="playerWrapper" style="position:fixed;inset:0;">
   <iframe
     id="yt"
     width="100%"
@@ -8,13 +7,3 @@
     allow="autoplay; fullscreen"
     allowfullscreen>
   </iframe>
-</div>
-
-<script>
-document.addEventListener("click", () => {
-  const iframe = document.getElementById("yt");
-  if (iframe.requestFullscreen) {
-    iframe.requestFullscreen();
-  }
-}, { once:true });
-</script>
