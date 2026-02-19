@@ -79,7 +79,13 @@
                                             "value": "https://embed1.streamc.xyz/embed.php?hash=c74846d43770dbbd4e96ba434c281c0c"
                                         }
                                     ]
-                                }
+                                },{
+                                                    "id": "10508",
+                                                    "default": true,
+                                                    "url": "https://d.nst4285.workers.dev/x9ktvy4",
+                                                    "name": "Mặc định",
+                                                    "type": "hls"
+                                                }
                                             ]
                                         }
                                     ]
