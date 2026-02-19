@@ -106,7 +106,7 @@
                                             "stream_links": [
                                                 {
                                     "id": "bach-luyen-thanh-than--0-1-default",
-                                    "name": "Mặc Định 3",
+                                    "name": "Mặc Định 0",
                                     "type": "webview",
                                     "default": false,
                                     "url": "https://t23-02.github.io/test/a.html",
@@ -119,6 +119,12 @@
                                         }
                                     ]
                                 },{
+                                    "id": "bach-luyen-thanh-than--0-1-default",
+                                    "name": "Mặc Định 1113",
+                                    "type": "hls",
+                                    "default": false,
+                                    "url": "https://multi-playlist-zmp3.zmdcdn.me/_TAVBRh_ce4/zhls/playback-realtime/97b35e1f625a8b04d24b/index.m3u8"
+                              },{
                                     "id": "bach-luyen-thanh-than--0-0-default",
                                     "name": "Mặc Định 11",
                                     "type": "webview",
