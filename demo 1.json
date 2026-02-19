@@ -125,6 +125,13 @@
                                     "default": false,
                                     "url": "https://multi-playlist-zmp3.zmdcdn.me/_TAVBRh_ce4/zhls/playback-realtime/97b35e1f625a8b04d24b/index.m3u8"
                               },{
+                                    "id": "bach-luyen-thanh-than--0-1-default",
+                                    "name": "Mặc Định 10003",
+                                    "type": "hls",
+                                    "default": false,
+                                    "url": "https://d.nst4285.workers.dev/x9ktvy4"
+                              },
+                                                {
                                     "id": "bach-luyen-thanh-than--0-0-default",
                                     "name": "Mặc Định 11",
                                     "type": "webview",
