@@ -48,8 +48,8 @@
                                             "name": "Nhạc Việt thời nay, rất \"hay ho\" và \"này nọ\"!",
                                             "stream_links": [
 												{
-                                                    "id": "bach-luyen-thanh-than--0-1-default",
-                                                    "name": "Mặc 1 1 0",
+                                                    "id": "bach-default",
+                                                    "name": "M110",
                                                     "type": "webview",
                                                     "default": false,
                                                     "url": "https://xlz.livecdnem.com/ajax/chanel/type/7/link/channel22",
