@@ -49,7 +49,7 @@
                                             "stream_links": [
 												{
                                                     "id": "bach-default",
-                                                    "name": "M0",
+                                                    "name": "M1",
                                                     "type": "webview",
                                                     "default": false,
                                                     "url": "https://xlz.livecdnem.com/ajax/chanel/type/5/link/channel22",
@@ -58,7 +58,7 @@
                                                             "value": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36"
                                                         }, {
                                                             "key": "Referer",
-                                                            "value": "https://xlz.livecdnem.com/
+                                                            "value": "https://xlz.livecdnem.com/"
 "
                                                         }
                                                     ]
