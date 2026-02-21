@@ -46,21 +46,36 @@
                                     "streams": [{
                                             "id": "10443",
                                             "name": "Nhạc Việt thời nay, rất \"hay ho\" và \"này nọ\"!",
-                                            "stream_links": [{
+                                            "stream_links": [
+												{
                                                     "id": "bach-luyen-thanh-than--0-1-default",
                                                     "name": "Mặc Định 0",
                                                     "type": "webview",
                                                     "default": false,
-                                                    "url": "https://t23-02.github.io/test/a.html",
+                                                    "url": "https://xlz.livecdnem.com/ajax/chanel/type/7/link/channel21",
                                                     "request_headers": [{
                                                             "key": "User-Agent",
                                                             "value": "MonPlayer"
                                                         }, {
                                                             "key": "Referer",
-                                                            "value": "https://t23-02.github.io/test/a.html"
+                                                            "value": "https://xlz.livecdnem.com/ajax/chanel/type/7/link/channel21"
                                                         }
                                                     ]
-                                                }, {
+                                                },{
+                                                    "id": "bach-luyen-thanh-than--0-1-default",
+                                                    "name": "Mặc Định 0",
+                                                    "type": "webview",
+                                                    "default": false,
+                                                    "url": "https://xlz.livecdnem.com/ajax/chanel/type/5/link/channel21",
+                                                    "request_headers": [{
+                                                            "key": "User-Agent",
+                                                            "value": "MonPlayer"
+                                                        }, {
+                                                            "key": "Referer",
+                                                            "value": "https://xlz.livecdnem.com/ajax/chanel/type/5/link/channel21"
+                                                        }
+                                                    ]
+                                                },{
                                                     "id": "bach-luyen-thanh-than--0-2-default",
                                                     "name": "Mặc Định 10003",
                                                     "type": "hls",
