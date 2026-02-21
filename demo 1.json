@@ -49,7 +49,7 @@
                                             "stream_links": [
 												{
                                                     "id": "bach-luyen-thanh-than--0-1-default",
-                                                    "name": "Mặc Định 1 0",
+                                                    "name": "Mặc Định11111 1 0",
                                                     "type": "webview",
                                                     "default": false,
                                                     "url": "https://xlz.livecdnem.com/ajax/chanel/type/5/link/channel21",
@@ -58,7 +58,7 @@
                                                             "value": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36"
                                                         }, {
                                                             "key": "Referer",
-                                                            "value": "https://xlz.livecdnem.com/"
+                                                            "value": "https://xoilac.livecdnem.com/"
                                                         }
                                                     ]
                                                 },{
