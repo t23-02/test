@@ -49,7 +49,7 @@
                                             "stream_links": [
 												{
                                                     "id": "bach-default",
-                                                    "name": "M110",
+                                                    "name": "M0",
                                                     "type": "webview",
                                                     "default": false,
                                                     "url": "https://xlz.livecdnem.com/ajax/chanel/type/5/link/channel22",
