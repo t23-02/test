@@ -1,3 +1,4 @@
+//https://monplayer.org/demo.json
 {
   "id": "films-demo",
   "name": "Demo Provider",
@@ -259,7 +260,7 @@
                         {
                           "id": "charge-1-s1",
                           "name": "Server 1",
-                          "url": "https://vod.likefootnight.xyz/hls/monplay/charge.mp4/playlist.m3u8",
+                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
                           "type": "hls",
                           "default": true,
                           "enableP2P": false,
@@ -316,7 +317,7 @@
                         {
                           "id": "coffee-run-1-s1",
                           "name": "Server 1",
-                          "url": "https://vod.likefootnight.xyz/hls/monplay/coffee_run.mp4/playlist.m3u8",
+                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
                           "type": "hls",
                           "default": true,
                           "enableP2P": false,
@@ -373,7 +374,7 @@
                         {
                           "id": "spring-1-s1",
                           "name": "Server 1",
-                          "url": "https://vod.likefootnight.xyz/hls/monplay/spring.mp4/playlist.m3u8",
+                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
                           "type": "hls",
                           "default": true,
                           "enableP2P": false,
@@ -385,7 +386,7 @@
                         {
                           "id": "spring-1-s2",
                           "name": "Server 2",
-                          "url": "https://vod.likefootnight.xyz/hls/monplay/spring.mp4/playlist.m3u8",
+                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
                           "type": "hls",
                           "default": false,
                           "enableP2P": false,
@@ -442,7 +443,7 @@
                         {
                           "id": "sprite-fight-1-s1",
                           "name": "Server 1",
-                          "url": "https://vod.likefootnight.xyz/hls/monplay/sprite_fight.mp4/playlist.m3u8",
+                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
                           "type": "hls",
                           "default": true,
                           "enableP2P": false,
@@ -454,7 +455,7 @@
                         {
                           "id": "sprite-fight-1-s2",
                           "name": "Server 2",
-                          "url": "https://vod.likefootnight.xyz/hls/monplay/sprite_fight.mp4/playlist.m3u8",
+                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
                           "type": "hls",
                           "default": false,
                           "enableP2P": false,
@@ -511,7 +512,7 @@
                         {
                           "id": "daily-dweebs-1-s1",
                           "name": "Server 1",
-                          "url": "https://vod.likefootnight.xyz/hls/monplay/daily_dweebs.mp4/playlist.m3u8",
+                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
                           "type": "hls",
                           "default": true,
                           "enableP2P": false,
@@ -523,7 +524,7 @@
                         {
                           "id": "daily-dweebs-1-s2",
                           "name": "Server 2",
-                          "url": "https://vod.likefootnight.xyz/hls/monplay/daily_dweebs.mp4/playlist.m3u8",
+                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
                           "type": "hls",
                           "default": false,
                           "enableP2P": false,
@@ -580,7 +581,7 @@
                         {
                           "id": "wing-it-1-s1",
                           "name": "Server 1",
-                          "url": "https://vod.likefootnight.xyz/hls/monplay/wing_it.mp4/playlist.m3u8",
+                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
                           "type": "hls",
                           "default": true,
                           "enableP2P": false,
@@ -592,7 +593,7 @@
                         {
                           "id": "wing-it-1-s2",
                           "name": "Server 2",
-                          "url": "https://vod.likefootnight.xyz/hls/monplay/wing_it.mp4/playlist.m3u8",
+                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
                           "type": "hls",
                           "default": false,
                           "enableP2P": false,
