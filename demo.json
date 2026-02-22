@@ -1,429 +1,101 @@
 {
-  "id": "films-demo",
-  "name": "Demo Provider",
-  "description": "A curated list of animations",
-  "url": "https://monplayer.org/demo.json",
-  "color": "#66CDAA",
-  "image": {
-    "url": "https://monplayer.org/images/film.jpg",
-    "type": "contain",
-    "height": 1000,
-    "width": 1000
-  },
-  "grid_number": 2,
-  "groups": [
-    {
-      "id": "films-demo-all",
-      "name": "Videos",
-      "display": "vertical",
-      "image": {
-        "url": "https://monplayer.org/images/roll.jpg",
-        "type": "cover",
-        "width": 410,
-        "height": 590
-      },
-      "grid_number": 3,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "charge",
-          "name": "Charge2",
-          "description": "A thrilling story set in a dystopian world.",
-          "label": "Live",
-          "image": {
-            "url": "https://monplayer.org/images/demo/charge.jpg",
-            "type": "cover",
-            "width": 410,
-            "height": 590
-          },
-          "display": "default",
-          "type": "single",
-          "enable_detail": false,
-          "sources": [
-            {
-              "id": "source-1",
-              "name": "Source 1",
-              "image": null,
-              "contents": [
-                {
-                  "id": "content-1",
-                  "name": "Content 1",
-                  "image": null,
-                  "grid_number": 3,
-                  "streams": [
-                    {
-                      "id": "charge-full",
-                      "name": "Charge Full",
-                      "image": {
-                        "url": "https://monplayer.org/images/demo/charge.jpg",
-                        "type": "cover",
-                        "width": 1920,
-                        "height": 1080
-                      },
-                      "stream_links": [
-                        {
-                          "id": "charge-1-s1",
-                          "name": "Server 1",
-                          "url": "https://embed12.streamc.xyz/eyJoIjoiODE0ZDllODE5NjU5Njc2YmMyMzkzMTUyYWRiYWVlNjkiLCJ0IjoiOWVjZjZmNTQzNzI5NDQ2NjYwNGE0MTk0ZTZhZDY0MGRjMTUzYjQ0ZTNlZDgwOTBkNzU1YzM2OTNmMjc0NTVhYiJ9.m3u8",
-                          "type": "hls",
-                          "default": true,
-                          "enableP2P": false,
-                          "subtitles": null,
-                          "remote_data": null,
-                          "request_headers": null,
-						  "request_headers": [{
-							  "key": "User-Agent",
-							  "value": "Mozilla Nexus AppleWebKit Chrome Mobile Safari"
-							}, {
-								  "key": "Referer",
-								  "value": "https://embed12.streamc.xyz/"
-							}
-							]
-                          "comments": null
+    "id": "zzz",
+    "name": "Zzz",
+    "url": "https://media.hth4nh.eu.org/home",
+    "color": "#000000",
+    "image": {
+        "url": "https://media.hth4nh.eu.org/static/img/logo-zzz.png",
+        "display": "cover"
+    },
+    "description": "Zzz",
+    "share": {
+        "url": "https://media.hth4nh.eu.org/home"
+    },
+    "notice": {
+        "closeable": true,
+        "icon": "https://media.hth4nh.eu.org/static/img/tele.png",
+        "id": "notice",
+        "link": "https://t.me/zzz_monplayer",
+        "text": "Zzz"
+    },
+    "groups": [
+	{
+            "id": "music-vn",
+            "name": "Nhạc Việt",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [{
+                    "id": "10443",
+                    "name": "V-POP",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/8/e/4/08e4104877db6c9a77d6fc42f0a17a8b.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [{
+                            "id": "10443",
+                            "name": "",
+                            "contents": [{
+                                    "id": "10443",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [{
+                                            "id": "10443",
+                                            "name": "Nhạc Việt thời nay, rất \"hay ho\" và \"này nọ\"!",
+                                            "stream_links": [
+												{
+                                                    "id": "bach-default",
+                                                    "name": "M1",
+                                                    "type": "webview",
+                                                    "default": false,
+                                                    "url": "https://xlz.livecdnem.com/ajax/chanel/type/5/link/channel22",
+                                                    "request_headers": [{
+                                                            "key": "User-Agent",
+                                                            "value": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36"
+                                                        }, {
+                                                            "key": "Referer",
+                                                            "value": "https://xlz.livecdnem.com/"
+                                                        }
+                                                    ]
+                                                },{
+                                                    "id": "bach-luyen-thanh-than--0-2-default",
+                                                    "name": "Mặc Định 10003",
+                                                    "type": "hls",
+                                                    "default": false,
+                                                    "url": "https://d.nst4285.workers.dev/x9ktvy4"
+                                                }, {
+                                                    "id": "bach-luyen-thanh-than--0-0-default",
+                                                    "name": "Mặc Định 11",
+                                                    "type": "hls",
+                                                    "default": false,
+                                                    "url": "https://embed12.streamc.xyz/eyJoIjoiODE0ZDllODE5NjU5Njc2YmMyMzkzMTUyYWRiYWVlNjkiLCJ0IjoiOWVjZjZmNTQzNzI5NDQ2NjYwNGE0MTk0ZTZhZDY0MGRjMTUzYjQ0ZTNlZDgwOTBkNzU1YzM2OTNmMjc0NTVhYiJ9.m3u8",
+                                                    "request_headers": [{
+                                                            "key": "User-Agent",
+                                                            "value": "MonPlayer"
+                                                        }, {
+                                                            "key": "Referer",
+                                                            "value": "https://embed12.streamc.xyz/"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
-                      ]
-                    }
-                  ]
+                    ]
                 }
-              ],
-              "remote_data": null
-            }
-          ]
-        },
-        {
-          "id": "coffee-run",
-          "name": "Coffee Run",
-          "description": "A journey through memories fueled by caffeine.",
-          "label": "Live",
-          "image": {
-            "url": "https://monplayer.org/images/demo/coffee-run.jpg",
-            "type": "cover",
-            "width": 410,
-            "height": 590
-          },
-          "display": "default",
-          "type": "single",
-          "enable_detail": true,
-          "sources": [
-            {
-              "id": "source-1",
-              "name": "Source 1",
-              "image": null,
-              "contents": [
-                {
-                  "id": "content-1",
-                  "name": "Content 1",
-                  "image": null,
-                  "grid_number": 3,
-                  "streams": [
-                    {
-                      "id": "coffee-run-full",
-                      "name": "Coffee Run",
-                      "image": {
-                        "url": "https://monplayer.org/images/demo/coffee-run.jpg",
-                        "type": "cover",
-                        "width": 410,
-                        "height": 590
-                      },
-                      "stream_links": [
-                        {
-                          "id": "coffee-run-1-s1",
-                          "name": "Server 1",
-                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
-                          "type": "hls",
-                          "default": true,
-                          "enableP2P": false,
-                          "subtitles": null,
-                          "remote_data": null,
-                          "request_headers": null,
-                          "comments": null
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "remote_data": null
-            }
-          ]
-        },
-        {
-          "id": "spring",
-          "name": "Spring",
-          "description": "A tale of a shepherd girl and her dog facing ancient spirits.",
-          "label": "Live",
-          "image": {
-            "url": "https://monplayer.org/images/demo/spring.jpg",
-            "type": "cover",
-            "width": 410,
-            "height": 590
-          },
-          "display": "default",
-          "type": "single",
-          "enable_detail": true,
-          "sources": [
-            {
-              "id": "source-1",
-              "name": "Source 1",
-              "image": null,
-              "contents": [
-                {
-                  "id": "content-1",
-                  "name": "Content 1",
-                  "image": null,
-                  "grid_number": 3,
-                  "streams": [
-                    {
-                      "id": "spring-full",
-                      "name": "Spring Full",
-                      "image": {
-                        "url": "https://monplayer.org/images/demo/spring.jpg",
-                        "type": "cover",
-                        "width": 410,
-                        "height": 590
-                      },
-                      "stream_links": [
-                        {
-                          "id": "spring-1-s1",
-                          "name": "Server 1",
-                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
-                          "type": "hls",
-                          "default": true,
-                          "enableP2P": false,
-                          "subtitles": null,
-                          "remote_data": null,
-                          "request_headers": null,
-                          "comments": null
-                        },
-                        {
-                          "id": "spring-1-s2",
-                          "name": "Server 2",
-                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
-                          "type": "hls",
-                          "default": false,
-                          "enableP2P": false,
-                          "subtitles": null,
-                          "remote_data": null,
-                          "request_headers": null,
-                          "comments": null
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "remote_data": null
-            }
-          ]
-        },
-        {
-          "id": "sprite-fight",
-          "name": "Sprite Fight",
-          "description": "Teenagers encounter mushroom creatures in a forest.",
-          "label": "Live",
-          "image": {
-            "url": "https://monplayer.org/images/demo/sprite-fight.jpg",
-            "type": "cover",
-            "width": 410,
-            "height": 590
-          },
-          "display": "default",
-          "type": "single",
-          "enable_detail": true,
-          "sources": [
-            {
-              "id": "source-1",
-              "name": "Source 1",
-              "image": null,
-              "contents": [
-                {
-                  "id": "content-1",
-                  "name": "Content 1",
-                  "image": null,
-                  "grid_number": 3,
-                  "streams": [
-                    {
-                      "id": "sprite-fight-full",
-                      "name": "Sprite Fight",
-                      "image": {
-                        "url": "https://monplayer.org/images/demo/sprite-fight.jpg",
-                        "type": "cover",
-                        "width": 410,
-                        "height": 590
-                      },
-                      "stream_links": [
-                        {
-                          "id": "sprite-fight-1-s1",
-                          "name": "Server 1",
-                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
-                          "type": "hls",
-                          "default": true,
-                          "enableP2P": false,
-                          "subtitles": null,
-                          "remote_data": null,
-                          "request_headers": null,
-                          "comments": null
-                        },
-                        {
-                          "id": "sprite-fight-1-s2",
-                          "name": "Server 2",
-                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
-                          "type": "hls",
-                          "default": false,
-                          "enableP2P": false,
-                          "subtitles": null,
-                          "remote_data": null,
-                          "request_headers": null,
-                          "comments": null
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "remote_data": null
-            }
-          ]
-        },
-        {
-          "id": "daily-dweebs",
-          "name": "Daily Dweebs",
-          "description": "An animation about a dog's emotional journey.",
-          "label": "Live",
-          "image": {
-            "url": "https://monplayer.org/images/demo/daily-dweebs.jpg",
-            "type": "cover",
-            "width": 410,
-            "height": 590
-          },
-          "display": "default",
-          "type": "single",
-          "enable_detail": true,
-          "sources": [
-            {
-              "id": "source-1",
-              "name": "Source 1",
-              "image": null,
-              "contents": [
-                {
-                  "id": "content-1",
-                  "name": "Content 1",
-                  "image": null,
-                  "grid_number": 3,
-                  "streams": [
-                    {
-                      "id": "daily-dweebs-full",
-                      "name": "Daily Dweebs",
-                      "image": {
-                        "url": "https://monplayer.org/images/demo/daily-dweebs.jpg",
-                        "type": "cover",
-                        "width": 410,
-                        "height": 590
-                      },
-                      "stream_links": [
-                        {
-                          "id": "daily-dweebs-1-s1",
-                          "name": "Server 1",
-                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
-                          "type": "hls",
-                          "default": true,
-                          "enableP2P": false,
-                          "subtitles": null,
-                          "remote_data": null,
-                          "request_headers": null,
-                          "comments": null
-                        },
-                        {
-                          "id": "daily-dweebs-1-s2",
-                          "name": "Server 2",
-                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
-                          "type": "hls",
-                          "default": false,
-                          "enableP2P": false,
-                          "subtitles": null,
-                          "remote_data": null,
-                          "request_headers": null,
-                          "comments": null
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "remote_data": null
-            }
-          ]
-        },
-        {
-          "id": "wing-it",
-          "name": "Wing It",
-          "description": "An engineer and a wannabe-pilot in an out-of-control shuttle.",
-          "label": "Live",
-          "image": {
-            "url": "https://monplayer.org/images/demo/wing-it.jpg",
-            "type": "cover",
-            "width": 410,
-            "height": 590
-          },
-          "display": "default",
-          "type": "single",
-          "enable_detail": true,
-          "sources": [
-            {
-              "id": "source-1",
-              "name": "Source 1",
-              "image": null,
-              "contents": [
-                {
-                  "id": "content-1",
-                  "name": "Content 1",
-                  "image": null,
-                  "grid_number": 3,
-                  "streams": [
-                    {
-                      "id": "wing-it-full",
-                      "name": "Wing It",
-                      "image": {
-                        "url": "https://monplayer.org/images/demo/wing-it.jpg",
-                        "type": "cover",
-                        "width": 410,
-                        "height": 590
-                      },
-                      "stream_links": [
-                        {
-                          "id": "wing-it-1-s1",
-                          "name": "Server 1",
-                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
-                          "type": "hls",
-                          "default": true,
-                          "enableP2P": false,
-                          "subtitles": null,
-                          "remote_data": null,
-                          "request_headers": null,
-                          "comments": null
-                        },
-                        {
-                          "id": "wing-it-1-s2",
-                          "name": "Server 2",
-                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
-                          "type": "hls",
-                          "default": false,
-                          "enableP2P": false,
-                          "subtitles": null,
-                          "remote_data": null,
-                          "request_headers": null,
-                          "comments": null
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "remote_data": null
-            }
-          ]
+            ]
         }
-      ]
+    ],
+    "option": {
+        "save_history": false,
+        "save_search_history": false,
+        "save_wishlist": false
     }
-  ]
 }
