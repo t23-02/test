@@ -32,28 +32,22 @@
                     },
                     "enable_detail": false,
                     "sources": [{
-                            "contents": [{
-                                    "streams": [{
-                                            "image": {
-                                                "display": "contain",
-                                                "shape": "square",
-                                                "url": "https://ibg_JJ9VTmg_1770427203107.webp",
-                                                "height": 101,
-                                                "width": 155
-                                            },
-                                            "stream_links": [
-												{
-                                                    "url": "https://xlz.livecdnem.com/ajannel43.m3u8",
-                                                    "type": "hls",
-                                                    "default": true
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
+						"name": "",
+						"contents": [{
+							"name": "",
+							"grid_number": 1,
+							"streams": [{
+								"name": "",
+								"stream_links": [{
+									"default": true,
+									"name": "Mặc định",
+									"url": "https://multi-playlist-zmp3.zmdcdn.me/odi6UBatld4/zhls/playback-realtime/6ddadf76e3330a6d5322/index.m3u8",
+                                    "type": "hls",
+                                    "default": true
+								}]
+							}]
+						}]
+					}]
                 },
 				{
                     "name": "Netherlands (w)U16 B",
