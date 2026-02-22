@@ -63,7 +63,7 @@
                       "stream_links": [
                         {
                           "id": "charge-1-s1",
-                          "name": "Streamc",
+                          "name": "Server 1",
                           "url": "https://embed12.streamc.xyz/eyJoIjoiODE0ZDllODE5NjU5Njc2YmMyMzkzMTUyYWRiYWVlNjkiLCJ0IjoiOWVjZjZmNTQzNzI5NDQ2NjYwNGE0MTk0ZTZhZDY0MGRjMTUzYjQ0ZTNlZDgwOTBkNzU1YzM2OTNmMjc0NTVhYiJ9.m3u8",
                           "type": "hls",
                           "default": true,
@@ -73,7 +73,7 @@
                           "request_headers": null,
 						  "request_headers": [{
 							  "key": "User-Agent",
-							  "value": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36"
+							  "value": "Mozilla Nexus AppleWebKit Chrome Mobile Safari"
 							}, {
 								  "key": "Referer",
 								  "value": "https://embed12.streamc.xyz/"
