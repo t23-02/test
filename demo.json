@@ -1,669 +1,616 @@
 {
-    "id": "xoilacz",
-    "name": "Xoilacz",
-    "description": "Trực tiếp Bóng Đá",
-    "color": "#01912f",
-    "url": "https://xoilacz.ai/",
-    "disable_ads": true,
-    "grid_number": 3,
-    "image": {
+  "id": "films-demo",
+  "name": "Demo Provider",
+  "description": "A curated list of animations",
+  "url": "https://monplayer.org/demo.json",
+  "color": "#66CDAA",
+  "image": {
+    "url": "https://monplayer.org/images/film.jpg",
+    "type": "contain",
+    "height": 1000,
+    "width": 1000
+  },
+  "grid_number": 2,
+  "groups": [
+    {
+      "id": "articles-demo-all",
+      "name": "Articles",
+      "display": "horizontal",
+      "image": {
+        "url": "https://monplayer.org/images/articles.png",
         "type": "cover",
-        "url": "https://static.savethislife.com/images/logo.ai.png"
-    },
-    "groups": [
-		{
-            "id": "volleyball",
-            "name": "Bóng chuyền",
-            "display": "horizontal",
-            "grid_number": 2,
-            "enable_detail": false,
-            "channels": [
-{
-                    "name": "⚽ Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-                    "sources": [],
-                    "labels": [{
-                            "text": "⏳ Sắp Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-                        }
-                    ],
-                    "share": {
-                        "url": "https://vbtv.pro/match/JJ9VTmg"
-                    },
-                    "remote_data": {
-                        "url": "https://vbtv.pro/match/JJ9VTmg"
-                    },
-                    "org_metadata": {
-                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
-                        "title": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
-                        "description": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02"
+        "width": 256,
+        "height": 256
+      },
+      "grid_number": 1,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "7-natural-wonders",
+          "name": "The 7 Natural Wonders of the World",
+          "description": "An overview of the Seven Natural Wonders, showcasing Earth's diverse splendor.",
+          "image": {
+            "url": "https://monplayer.org/images/demo/7-natural-wonders.webp",
+            "type": "cover",
+            "width": 750,
+            "height": 500
+          },
+          "display": "text-below",
+          "type": "text",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content",
+                  "image": null,
+                  "streams": [
+                    {
+                      "id": "7-natural-wonders-full",
+                      "name": "7 Natural Wonders",
+                      "text": "<h2>The 7 Natural Wonders of the World</h2><br/><p>These spectacular spots reveal the diverse splendor of planet Earth.</p><img src='https://www.treehugger.com/thmb/wbHULhzd3FmelCIpRs985GvaXMA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1222641963-a15da5f1dc6147ad8fc1f5056be8e21b.jpg' width='2121' height='1414' alt='Aerial view of snow-capped Mount Everest' /> <br/><p>The practice of compiling 'wonders' into groups of seven dates back to Ancient Greece, when the list we now know as the Seven Ancient Wonders of the World was first created. Today, we also have the Seven Modern Wonders of the World and several other groupings.</p> <br/><p>For nature lovers, the seven <em>natural</em> wonders of the world are particularly exciting. These sites are all naturally formed, without significant alteration by humans.</p> <br/><p>There are several different versions of the seven natural wonders of the world list. We'll focus on the most commonly accepted list, which originated in a 1997 CNN article and is promoted by the conservation organization <a href='http://sevennaturalwonders.org/world-seven-wonders/' target='_blank' rel='noopener'>Seven Natural Wonders</a>.</p> <br/><p>Here's what you need to know about the seven natural wonders of the world.</p> <br/><h2>Grand Canyon</h2> <img src='https://www.treehugger.com/thmb/JyjDJ1y3OfLtDNcFYTA13CG0Q10=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-858637934-620585f8aa3942afa11b0916aa860161.jpg' width='2119' height='1415' alt='View of Colorado River in Grand Canyon National Park' /> <br/><p>The Grand Canyon in the southwestern United States is called 'grand' for good reason. At more than a mile deep, 277 river miles long, and between four and 18 miles wide, it is one of the largest and longest canyons in the world. It covers an area of over 9.5 million square miles. For perspective, that's bigger than the state of Rhode Island.</p> <br/><p>This natural wonder was formed through erosion by the Colorado River, with geologists using its distinct layers to estimate its impressive age—between 30 and 70 million years old. The rocks hide more than 1,000 caves, some functioning as hideouts for animals and others revealing prehistoric artifacts. Not surprisingly, there are countless fossils, some dating back as far as the Precambrian period, 1,200 million to 740 million years ago.</p> <br/><p>Visitors can see the Grand Canyon in person by going to <a href='https://www.treehugger.com/grand-canyon-national-park-a-users-guide-4859742'>Grand Canyon National Park</a> in Arizona and viewing it from a lookout, or they can get up close and personal by white water rafting in the river or hiking through the canyon. You should dress properly in layers. Sudden changes in elevation can affect precipitation and temperature, and it can be far colder inside the canyon than above.</p> <br/><h2>Great Barrier Reef</h2> <img src='https://www.treehugger.com/thmb/qRENBpdSFEcZK2T3tmOQzcLP08w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-158714547-b7b802a00f2c4d3e9412e14103a39ac3.jpg' width='2141' height='1401' alt='Great Barrier Reef Australia' /> <br/><p>Covering roughly 216,000 square miles of the Coral Sea, the Great Barrier Reef is the largest coral reef system in the world. More than 2,500 individual reefs and 900 islands make up this natural wonder, which stretches over 1,200 miles along the coastline of northeastern Australia.</p> <br/><p>This reef is incredibly biodiverse. More than 1,500 species of fish, 4,000 species of mollusk, and 400 species of coral can be found in the reef's extensive ecosystems. The reef serves as a crucial habitat for species that many people rely on for protein, and it functions as a natural storm break that's far more effective than anything human-made.</p> <br/><p>Despite its immense size, the reef is in trouble. Warming seas pose a threat to corals, which are sensitive to changes in water temperatures. Several <a href='https://www.treehugger.com/great-barrier-reef-threats-4868728'>mass bleaching events</a> have killed significant swaths of coral, with an estimated 50% already lost and as much as 67% in the northern part of the reef region. UNESCO wants to add the Great Barrier Reef to a list of natural sites in danger, but Australia has <a href='https://www.treehugger.com/australia-keep-great-barrier-reef-off-in-danger-list-5194408'>pushed back</a> against that. Some individuals are taking matters into their own hands, trying to <a href='https://www.treehugger.com/diving-tour-operators-australia-planting-corals-4859395'>replant coral</a> to replace ones that have been lost.</p> <br/><h2>Harbor of Rio de Janeiro</h2> <img src='https://www.treehugger.com/thmb/N-FPzev85yGhSuAF2l79FMh9NLE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-524181098-25f892abc46b4952ba894a074570e076.jpg' width='2186' height='1371' alt='Aerial view of Rio de Janeiro from Sugarloaf Mountain' /> <br/><p>The harbor that wraps around Rio de Janeiro, Brazil, is the largest natural bay in the world and a sight to behold. Erosion by the Atlantic Ocean carved out this natural wonder, which is also known as Guanabara Bay. The land around the harbor is dotted with mountains, among them the Hills of Tijuca at 3,350 tall, Corcovado Peak at 2,310 feet tall, and Sugar Loaf at 1,296 feet tall.</p> <br/><p>Large cargo ships and recreational yachts can often be seen in Rio de Janeiro's harbor. It is both a critical waterway for shipping and a popular tourist destination, with stunning sandy beaches nearby (you've probably heard of Ipanema and Copacabana).</p> <br/><p>Unfortunately, Guanabara Bay is threatened by pollution. Large amounts of raw sewage (from underserved communities, or <em>favelas</em>, without proper sanitation services) and industrial waste from facilities such as oil terminals, two airports, and thousands of factories wash into the harbor daily. The stench can be overwhelming, especially in hot weather.</p> <br/><h2>Mount Everest</h2> <img src='https://www.treehugger.com/thmb/I5SPA-63t_nD8AGC1G1aw842RqE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1209795114-e24a5c063cce4fb683fcf026b7e02de7.jpg' width='2121' height='1414' alt='Mount Everest in Tibet' /> <br/><p>Mount Everest on the border of Nepal and Tibet is the tallest mountain in the world. Its peak is the highest point above sea level on Earth with an altitude of almost 29,032 feet. This mountain is still growing as shifting tectonic plates continue pushing it upward, the same way it first began forming millions of years ago.</p> <br/><p>Brave visitors can hike Mount Everest, but not without plenty of experience and the accompaniment of trained guides. Such high altitudes deprive the body of oxygen, making an already difficult trek even more physically taxing, and expeditions take months to complete. Climbing Mount Everest is dangerous and only for highly skilled climbers.</p> <br/><p>Recently, scientists have <a href='https://www.treehugger.com/microplastics-top-mount-everest-5088428'>discovered microplastics</a> on top of Everest—an alarming reminder of just how far afield human-induced pollution can travel.</p> <br/><h2>The Northern Lights</h2> <img src='https://www.treehugger.com/thmb/KG-5HGU3cURIoBNxaEymHAZrlqI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AuroraBorealis-9ba092b128644b54b9475dd0e55223e9.jpg' width='1024' height='683' alt='Aurora Borealis over Finland' /> <br/><p>The Northern Lights <a href='https://www.treehugger.com/best-places-to-see-the-northern-lights-4869001'>generally appear</a> in the Arctic around Iceland, Greenland, Canada, and the northernmost portions of Scandinavia. Denali National Park in Alaska is another great spot to see them. They can be seen as wave- or sheet-like lights in the sky (conditions), often greenish or reddish in color and magnificently bright, at altitudes as great as 620 miles. Auroras are caused by the emission of photons or particles of light by electrons in the atmosphere.</p> <br/><p>These lights, called <em>Aurora borealis</em>, are largely unpredictable, but scientists count on their appearance for researching interactions between magnetism and optics. The best time to see these dancing lights is between the months of March and April or between September and October.</p> <br/><p>If you're seeking them, be sure to dress warmly. It can be a long night out there, in frigid temperatures; layers of well-insulated clothing and a thermos with a hot drink will go a long way toward making it a special experience.</p> <br/><h2>Paricutin Volcano</h2> <img src='https://www.treehugger.com/thmb/_9nJYu-tJzJi0DzKWiXzBJN8SWk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ParicutinVolcano-076b8561b8414bd1a7cb0f00cc560ccf.jpg' width='3011' height='2000' alt='Paricutin Volcano in Mexico' /> <br/><p>The Paricutin Volcano is a cinder cone volcano located in Michoacán, Mexico. The world has watched this volcano grow since it began forming in 1943 in farmer Dionisio Pulido's cornfield, and it is actually the youngest volcano in the world. According to Pulido, it grew between two and 2.5 meters in height within the first 24 hours of its formation. As of 2021, it is estimated to be between 9,101 and 10,397 feet tall. Paricutin erupted from 1943 to 1952.</p> <br/><p>Visitors can view this natural wonder from its base or even from its crater. They can even see a partially buried church, San Juan Parangaricutiro, at the edge of the village named Paricutin that was buried by the volcano as it rose from the earth. A second village and hundreds of homes were destroyed, as well.</p> <br/><h2>Victoria Falls</h2> <img src='https://www.treehugger.com/thmb/3-tDvCStoemjULeoB4CHoANpYnU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-544370329-67ba40c156534c66b5aa9c56085702c0.jpg' width='2232' height='1343' alt='Victoria Falls in Africa from above' /> <br/><p>Victoria Falls, the largest waterfall in the world, is located in southern Africa on the borders of Zambia and Zimbabwe. The Zambezi River serves as the falls' water source. Victoria Falls measures over 5,600 feet across and 3,000 feet high, and it has an average depth of about 328 feet. This sprawling natural wonder occupies portions of the Victoria Falls National Park of Zimbabwe, the Zambezi National Park of Zimbabwe, and the Mosi-oa-Tunya National Park of Zambia.</p> <br/><p>Rainbows can often be seen arching over these falls, even at night when the water refracts the light of the moon (these are referred to as 'moonbows'). If you do visit, be prepared to get wet—the Victoria Falls spray plume has been known to reach a height of 1,640 feet. Even views of the spray emitted from these falls can be seen up to 30 miles away.</p>"   
                     }
-                },
-{
-                    "name": "⚽ ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-                    "sources": [],
-                    "labels": [{
-                            "text": "⏳ Sắp Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-                        }
-                    ],
-                    "share": {
-                        "url": "https://vbtv.pro/match/qLZ8OSS"
-                    },
-                    "remote_data": {
-                        "url": "https://vbtv.pro/match/qLZ8OSS"
-                    },
-                    "org_metadata": {
-                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
-                        "title": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
-                        "description": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02"
-                    }
-                },
-{
-                    "name": "⚽ Brabrand vs Kisvarda II | 19:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-                    "sources": [],
-                    "labels": [{
-                            "text": "⏳ Sắp Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-                        }
-                    ],
-                    "share": {
-                        "url": "https://vbtv.pro/match/dMpaFnH"
-                    },
-                    "remote_data": {
-                        "url": "https://vbtv.pro/match/dMpaFnH"
-                    },
-                    "org_metadata": {
-                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
-                        "title": "Brabrand vs Kisvarda II | 19:00 09/02",
-                        "description": "Brabrand vs Kisvarda II | 19:00 09/02"
-                    }
+                  ]
                 }
-            ]
+              ],
+              "remote_data": null
+            }
+          ]
         },
-		{
-            "id": "football",
-            "name": "Bóng đá",
-            "display": "horizontal",
-            "grid_number": 2,
-            "enable_detail": false,
-            "channels": [
-{
-                    "name": "⚽ Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-                    "sources": [],
-                    "labels": [{
-                            "text": "⏳ Sắp Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-                        }
-                    ],
-                    "share": {
-                        "url": "https://vbtv.pro/match/JJ9VTmg"
-                    },
-                    "remote_data": {
-                        "url": "https://vbtv.pro/match/JJ9VTmg"
-                    },
-                    "org_metadata": {
-                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
-                        "title": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
-                        "description": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02"
+        {
+          "id": "regenerative-travel",
+          "name": "Regenerative Travel: What It Is and How It's Outperforming Sustainable Tourism",
+          "description": "An exploration of regenerative travel and its benefits.",
+          "image": {
+            "url": "https://monplayer.org/images/demo/regenerative-travel.webp",
+            "type": "cover",
+            "width": 750,
+            "height": 500
+          },
+          "display": "text-below",
+          "type": "text",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content",
+                  "image": null,
+                  "streams": [
+                    {
+                      "id": "regenerative-travel-full",
+                      "name": "Regenerative Travel: What It Is and How It's Outperforming Sustainable Tourism",
+                      "text": "<h2>Regenerative Travel: What It Is and How It's Outperforming Sustainable Tourism</h2><img src='https://www.treehugger.com/thmb/VFBn2VBVd8v1P7d6i7d-SGLRAVo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KlausVedfelt-009ad2bab14c4cc5b16f3d7da38019d7.jpg' width='2121' height='1414' alt='Person collecting trash from beach and putting it in bag' /><br/> <p>Regenerative travel became a ubiquitous term after pandemic lockdowns, as destinations once overrun by tourists began to see improvements in air quality and a decline in pollution because of worldwide travel interruptions. Abandoned by all except those who inhabit them, cities—like Venice, Italy, for instance—were able to recover from <a href='https://www.treehugger.com/what-is-overtourism-definition-and-examples-5181255'>overtourism</a> in some ways and reclaim their cultural identities. Regenerative travel entered the public domain as an aspiration—to continue nourishing these places even as crowds returned.</p><br/> <p>In response, six nongovernmental organizations came together to form the Future of Tourism Coalition in 2020. The coalition, under the advisory of the <a href='https://www.gstcouncil.org/' target='_blank' rel='noopener'>Global Sustainable Tourism Council</a>, published a <a href='https://www.futureoftourism.org/guiding-principles' target='_blank' rel='nofollow noopener'>list of 13 principles</a> that seek to guide the global tourism industry into a more regenerative future. Among them are 'demand fair income distribution,' 'choose quality over quantity,' and 'contain tourism's land use.' So far, about 600 organizations—governmental, nongovernmental, businesses, academic institutions, media, and investors—have signed up.</p><br/> <p>Here's what regenerative tourism means, how it could benefit the environment and local communities, and how to incorporate its principles into your own travels.</p><br/> <h2>What Is Regenerative Travel?</h2><img src='https://www.treehugger.com/thmb/b7_bia3bmKjCBddx1c6vP_elMrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/volunteers-are-planting-a-saplings-of-a-trees-in-the-forest-1147298181-137f58cd3b8a424c8ac1a82a2b728244.jpg' width='2199' height='1363' alt='Volunteers are planting a saplings of a trees in the forest' /><br/> <p>Regenerative travel urges governments, tour operators, and businesses to give more to the planet and their local communities than they take. It challenges the travelers themselves to leave their destinations not just how they found them but better by treading lightly and spending with intention. 'When tourism adds value to a destination, by enhancing the quality of life of residents and the health of the ecosystem, it can be considered regenerative,' says Jeremy Sampson, chair of the Future of Tourism Coalition and CEO of the Travel Foundation.</p><br/> <p>For businesses, adopting a more regenerative model could mean ensuring infrastructure meets the <a href='https://www.treehugger.com/us-green-building-council-announces-new-standards-green-construction-certification-4849338'>U.S. Green Building Council's LEED standards</a>, that tourism dollars are being circulated within the community, that visitors are presented with green choices (such as traveling by electric car and recycling), and that success is measured not just by money but also by the well-being of the local people and nature.</p><br/> <p>Regenerative travel isn't synonymous with <a href='https://www.treehugger.com/sustainable-travel-awards-2021-5114770'>sustainable travel</a>, either. The United Nations World Tourism Organization defines the latter as 'tourism that takes full account of its current and future economic, social and environmental impacts, addressing the needs of visitors, the industry, the environment and host communities.' Gregory Miller, executive director of the <a href='https://www.responsibletravel.org/' target='_blank' rel='noopener'>Center for Responsible Travel</a>, one of the coalition's six founders, says regenerative travel builds on a foundation of sustainable tourism, rather, ultimately 'putting us on a path of achieving true sustainability.'</p><br/> <p>In other words, it's an obligation to travel not just in a way that can be maintained without putting a strain on places and communities, but to do so in a way that actually benefits the destination and its people.</p><br/> <h2>Benefits of Regenerative Travel</h2><img src='https://www.treehugger.com/thmb/c8E_9JStroBFZwHEVAVo-yqYiSQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1286257112-8c623da8c7284e2ea416285fbf4d59d4.jpg' width='2120' height='1414' alt='Person exchanging money with a market vendor in Hong Kong' /><br/> <p>The benefits of regenerative tourism are twofold: When travelers support locally driven, sustainable tour operators and businesses, communities then receive the resources needed to care for and protect their natural spaces. And when tourists share meaningful experiences with the land and community members, they're perhaps more driven to respect and protect them while traveling.</p><br/> <p>'At its very best, I think tourism can be one of the most progressive ways of transferring wealth from the north to the south,' says Jamie Sweeting, vice president of responsible travel and social enterprise at G Adventures, a founding signatory of the Future of Tourism's 13 Guiding Principles, 'but it has to be done deliberately—and if you're not doing that, then your carbon footprint is not getting a good return on its investment.'</p><br/> <p>Over the years, tourism has earned an unfavorable reputation. Constant interference with nature has led to soil erosion, habitat loss, degradation of environmental resources, and wildlife exploitation, and aviation itself accounts for 2.4% of global carbon dioxide emissions. Moreover, tourism can lead to the commodification of culture, in which cultural traditions and artifacts are sold for profit to benefit the local economy—and acculturation, occurs when the presence of an outside, more dominant culture modifies an existing culture.</p><br/> <p>The Future of Tourism Coalition's 13 Guiding Principles for Tourism's New Future address these issues. They urge signees to redefine economic success, ensure investments positively impact communities and the environment, enhance destination identity, invest in green infrastructure, and reduce their transportation emissions.</p><br/> <p>G Adventures makes public the percentage of money spent locally for most of its tours with its <a href='https://www.treehugger.com/the-ripple-score-ranks-how-many-tourist-dollars-stay-in-a-local-economy-5073584'>Ripple Score</a>, which it created with its nonprofit partner Planeterra and Sustainable Travel International. The average across all trips is currently 93 out of 100. Likewise, the travel company has worked with animal welfare organizations like the <a href='https://janegoodall.org/' target='_blank' rel='noopener'>Jane Goodall Institute</a> and the <a href='https://worldcetaceanalliance.org/' target='_blank' rel='noopener'>World Cetacean Alliance</a> to ensure all animal encounters are humane, and was the first global travel company to be granted a ChildSafe certification from <a href='https://friends-international.org/childsafe-movement/' target='_blank' rel='noopener'>Friends-International</a>.</p><br/> <p>'International travel can be a force for peace and good and poverty alleviation,' Sweeting says. 'It can be a win-win for both the traveler and the local communities.'</p><br/> <h2>Regenerative Practices in Action</h2><img src='https://www.treehugger.com/thmb/I9nBXtHTPGHOOkHQ16BVN0E3PcQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1254564400-472d92baf85f46c081674001eeb73ad4.jpg' width='2121' height='1414' alt='Two hikers walking along reflective lake in front of volcano' /><br/> <p>Leading the way to a regenerative future are destinations like New Zealand and Hawaii, whose governments measure success in the tourism sector not just by visitation numbers but also by residents' happiness. In New Zealand, that sentiment is safeguarded by the <a href='https://www.newzealand.com/uk/feature/tiaki-care-for-new-zealand/' target='_blank' rel='noopener'>Tiaki Promise</a>, a commitment seven governmental organizations made to residents in 2018 that their land and heritage will be preserved for future generations. It asks all visitors, of which there are almost four million annually, to drive safely, keep the country clean, and show respect for local communities. The <a href='https://www.hawaiitourismauthority.org/' target='_blank' rel='noopener'>Hawaii Tourism Authority</a> also formulates its tourism goals around resident sentiment, measured by the Resident Sentiment Survey it's been conducting since 1999.</p><br/> <p>More recently, Venice, Italy, has vowed to combat overtourism by charging day-trippers entry fees (up to $12) starting January 1, 2022. The fabled city has historically seen as many as 30 million visitors per year, which has not only caused plastic pollution from Venice's hospitality sector to surge and its housing market to plummet but it's also posed a threat to the local culture—so much so that UNESCO held a workshop on restoring Venetian heritage back in 2011. By requiring entry fees, the city aims to reduce the negative cultural and environmental impacts of tourism while simultaneously boosting the economy.</p><br/> <p>These changes are also happening at the company level. Take the international tour operator <a href='https://www.treehugger.com/intrepid-travel-wants-the-post-covid-tourism-industry-to-rebuild-itself-responsibly-5072474'>Intrepid Travel</a>, for instance: The group offers a multitude of '<a href='https://www.treehugger.com/what-is-community-based-tourism-5181555'>community-based tourism</a>'—or CBT—experiences specifically designed to benefit people and places. One, notes Natalie Kidd, Intrepid's chief people and purpose officer, is a CBT lodge in <a href='https://www.intrepidtravel.com/adventures/community-based-tourism-cbt-myanmar/' target='_blank' rel='nofollow noopener'>Myaing, Myanmar</a>, a joint project between Intrepid and the Myanmar nonprofit ActionAid. It was created 'to give communities living in poverty from villages near Myaing the opportunity to earn an alternative income and grow as a community, while giving travelers from around the world a genuine insight into rural living in Myanmar,' Kidd says. As a bonus, the company one-upped its decade-long carbon neutral commitment in 2020—it will now offset 125% of its CO2 emissions.</p><br/> <h2>How to Travel Greener</h2><img src='https://www.treehugger.com/thmb/AbqcK_c84mwclosGz4bDfvPfrpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-carrying-daughter--looking-at-goats-475149625-80ba7990ca784c17a73cec460aa63675.jpg' width='2121' height='1414' alt='Man carrying daughter, looking at goats' /><br/> <p>The collective shift to a more regenerative future of travel requires participation from all levels. Kidd says individuals can do that by making sure they're staying in locally owned properties and supporting locally owned businesses. Sweeting suggests <a href='https://www.treehugger.com/top-agritourism-destinations-in-the-world-4869255'>staying at an <em>agritourism</em></a> or local farm and participating in <a href='https://www.treehugger.com/what-is-regenerative-agriculture-5112853'>regenerative agriculture</a> while traveling.</p><br/> <p>'Maybe you're doing some <a href='https://www.treehugger.com/what-is-voluntourism-pros-and-cons-5181256'>voluntourism</a> activities,' he says. 'You're certainly not taking jobs away from local people when you're doing that, but you're helping with the fabric of the local economy and the local experience.'</p><br/> <p>Other ways include offsetting your carbon emissions—which you can do easily through companies like Sustainable Travel International—prioritizing meaningful experiences that connect you to the locals and the landscape, participating in group cleanup events, choosing responsible tour operators, and following <a href='https://lnt.org/why/7-principles/' target='_blank' rel='noopener'>Leave No Trace principles</a>.</p><br/> <p>'Tourists and travelers should adopt the same responsible behaviors they do at home, whilst also being mindful of the new sensitivities of their chosen destination,' Sampson says, citing water shortages, recycling infrastructure, and fragile natural habitats as important things to research before you go. 'Also, use your consumer power and choose responsible businesses, go for longer, and spend your money on locally produced or locally owned, authentic experiences. That way you’ll help to shape a better world and also have a much better time.'</p>"   
                     }
-                },
-{
-                    "name": "⚽ ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-                    "sources": [],
-                    "labels": [{
-                            "text": "⏳ Sắp Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-                        }
-                    ],
-                    "share": {
-                        "url": "https://vbtv.pro/match/qLZ8OSS"
-                    },
-                    "remote_data": {
-                        "url": "https://vbtv.pro/match/qLZ8OSS"
-                    },
-                    "org_metadata": {
-                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
-                        "title": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
-                        "description": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02"
-                    }
-                },
-{
-                    "name": "⚽ Brabrand vs Kisvarda II | 19:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-                    "sources": [],
-                    "labels": [{
-                            "text": "⏳ Sắp Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-                        }
-                    ],
-                    "share": {
-                        "url": "https://vbtv.pro/match/dMpaFnH"
-                    },
-                    "remote_data": {
-                        "url": "https://vbtv.pro/match/dMpaFnH"
-                    },
-                    "org_metadata": {
-                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
-                        "title": "Brabrand vs Kisvarda II | 19:00 09/02",
-                        "description": "Brabrand vs Kisvarda II | 19:00 09/02"
-                    }
+                  ]
                 }
-            ]
+              ],
+              "remote_data": null
+            }
+          ]
         },
-		{
-            "id": "tennis",
-            "name": "Tennisaa",
-            "display": "horizontal",
-            "grid_number": 2,
-            "enable_detail": false,
-            "channels": [
-{
-                    "name": "1 Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-					"sources": [],
-                    "labels": [{
-                            "text": "Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-							}],
-                    "remote_data": {"url": "http://wbd.x10.bz/xl/test.php"}
-                },
-{
-                    "name": "⚽ ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-                    "sources": [],
-                    "labels": [{
-                            "text": "⏳ Sắp Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-                        }
-                    ],
-                    "share": {
-                        "url": "https://vbtv.pro/match/qLZ8OSS"
-                    },
-                    "remote_data": {
-                        "url": "https://vbtv.pro/match/qLZ8OSS"
-                    },
-                    "org_metadata": {
-                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
-                        "title": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
-                        "description": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02"
+        {
+          "id": "experiential-tourism",
+          "name": "What Is Experiential Tourism?",
+          "description": "An introduction to experiential tourism and its impact.",
+          "image": {
+            "url": "https://monplayer.org/images/demo/experiential-tourism.webp",
+            "type": "cover",
+            "width": 750,
+            "height": 500
+          },
+          "display": "text-below",
+          "type": "text",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content",
+                  "image": null,
+                  "streams": [
+                    {
+                      "id": "experiential-tourism",
+                      "name": "What Is Experiential Tourism?",
+                      "text": "<h2>What Is Experiential Tourism?</h2><br/> <p>“Experiential tourism” has become a popular term for travel marketers, but it can mean different things to different people. For some, experiential travel means doing <em>anything</em> that falls outside of a standard sightseeing, museum-going itinerary. For others, it is defined by interactions with locals or by going to places that might not be considered tourist attractions at all.</p><br/> <p>The definitions might be different, but the goals of experiential travelers are usually similar: to immerse themselves in a way that leads to some sort of discovery, insight or inspiration. This travel philosophy is usually championed by fully independent travelers (those who travel without help from agents or guides), but tour companies and even non-profit organizations have embraced the trend, promising transformative experiences to people who buy their vacation packages or <a href='https://www.treehugger.com/green-design-4846020' rel='noopener noreferrer'>join their volun-tourism programs</a>.</p><br/> <p>Is experiential tourism redefining travel or is it a fad that will eventually fade? If it is a lasting travel trend, how will it affect off-the-beaten-path destinations that usually do not see many mainstream tourists?</p><br/> <h2>Leveling the field</h2><img src='https://www.treehugger.com/thmb/LvjcL0ITmLSFs0_M3tHXB6H5FYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__08__polarbear-ss-afafba39272a47fa9760e1bad3926820.jpg' width='2832' height='1848' alt='Photo: critterbiz/Shutterstock' /><br/> <p>For some places, the experiential travel trend could be a game-changer. Smaller destinations cannot hope to compete with tourism heavyweights when it comes to infrastructure, advertising budget and investment. They can, however, differentiate themselves by focusing on the unique experiences they offer.</p><br/> <p>Manitoba provides an example. The oft-forgotten Canadian province highlights how local tour companies and communities can use the experiential trend to gain an edge in the ultra-competitive travel marketplace. Travel Manitoba explains that small operators can “avoid unnecessary risks and major investments by shifting the opportunity focus from building more infrastructure to building the capacity of people who can tell your ‘story' and connect with the traveler.”</p><br/> <p>According to Manitoba’s tourism stakeholders, the “ingredients” of a successful experiential tourism strategy include hands-on activities and <a href='https://res-3.cloudinary.com/simpleview/image/upload/v1/clients/manitoba/Ingredients_of_a_Well-Crafted_Experience_2012_b61135a2-8648-409c-ada6-cce76cde9d1c.pdf' rel='noopener' target='_blank'>interactions with locals</a>. They also highlight the need for guides to change their approach to guiding. The goal should be to facilitate tours so that tourists can make discoveries and gain insights on their own.</p><br/> <h2>Can all smaller destinations benefit?</h2><img src='https://www.treehugger.com/thmb/HvIVaKG-9Zv9zVBxTRUAMSQbw_Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__08__kayak-ss-2cf186a8c4b346218dc2ef7a13b4d7fe.jpg' width='3000' height='2000' alt='Photo: Nicram Sabod/Shutterstock' /><br/> <p>On paper, the Manitoba approach sounds like a great idea, but is it practical? Some conscientious travelers might choose a destination because they want to support such grassroots efforts, but most are, first and foremost, seeking experiences. If they want to succeed, these destinations have to deliver.</p><br/> <p>New Zealand’s tourism development in recent decades suggests that experiential tourism can indeed help off-the-radar places develop into mainstream destinations. Admittedly, this Southern Hemisphere country was able to take advantage of the buzz from the 'Lord of the Rings' movies to help its tourism efforts. However, New Zealand has stuck with advertising campaigns that focus on <a href='https://mumbrella.com.au/tourism-new-zealand-sticks-with-100-pure-marketing-in-launch-of-new-global-campaign-294175' rel='noopener' target='_blank'>adventure and culture</a> rather than on attractions related to the popular films.</p><br/> <p>Adventure sports, culinary and wine tourism, and cultural excursions have led to a boom for New Zealand in both the U.S. and Asia Pacific markets. This has happened at a grassroots level, with more than nine out every 10 tour companies in the country having fewer than five employees. This means that even if people are there for the skiing or wine and nothing else, they will often be interacting directly with local people in a way that is more personal than in destinations with more traditional tourism infrastructure.</p><br/> <h2>An emotional connection</h2><img src='https://www.treehugger.com/thmb/K8SRycASUZUHWH7FU8I9yMRv3VM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__08__pariscafe-ss-b95d15a79d20488c8652c223e9e53eb8.jpg' width='2450' height='1633' alt='Photo: Vereshchagin Dmitry/Shutterstock' /><br/> <p>Nova Scotia’s Cape Breton Island has, like Manitoba, <a href='http://dcba-info.com/product-development/have-you-heard-the-buzz-about-experiential-tourism' rel='noopener nofollow' target='_blank'>published a list</a> of ingredients, which they call “essentials,” necessary for a successful experiential tourism sector. Keywords like “hands on” and “authentic” are part of this document, but so is something else: “emotion.” In other words, the goal of travelers is to find experiences that allow them to <em>feel</em> a connection to a place rather than to just see it.</p><br/> <p>This is not a new idea. You often hear people express affection for major world cities like Paris, Hong Kong or New York without ever mentioning the Eiffel Tower, Victoria Peak or Times Square. Perhaps the real allure of experiential tourism is that it makes it acceptable to seek out this kind of emotional connection.</p><br/> <h2>A win for sustainability</h2><img src='https://www.treehugger.com/thmb/UnGa2bVJHKKidxa-fOsLCFqXnW4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__08__orecapefalcon-ss-d5b254ead4a7418d8a36b77b8fda8a98.jpg' width='5184' height='3217' alt='Photo: Kevin Wells Photography/Shutterstock' /><br/> <p>The issue of sustainability might be important to travelers, but it might not always be practical to travel in a sustainable way and to support the preservation of local culture and ecosystems. This is especially true in mainstream tourist destinations.</p><br/> <p>Experiential tourism, on the other hand, can make sustainability more practical when it comes to both culture and the environment.</p><br/> <p>How is this possible?</p><br/> <p>Uniqueness is one of the biggest assets that a place can have when it comes to experiential tourism. Ideally, tourists who are interested in this kind of travel would reward a destination for preserving its nature, culture, historic architecture and other aspects of their destination by spending their travel budget there.</p><br/> <h2>Culinary tourism</h2><img src='https://www.treehugger.com/thmb/yuyRMmMikNwzzALRvFOiFRltePs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__08__LaBoqueriaBarcelona-flic-42e712734b984c858915ed37b89de9d8.jpg' width='1024' height='683' alt='people shopping a a street market' /><br/> <p>One of the most popular forms of experiential travel is culinary tourism. This can involve visiting neighborhood restaurants or markets with a local guide, or it could be more in-depth and include cooking classes, wine tastings and even picking trips to farms or gardens. La Boqueria, a classic market in Barcelona, has been successful at offering cooking classes and other immersive experiences to people who would otherwise only come there to sightsee.</p><br/> <p>Food tourism is currently one of the most accessible forms of experiential travel. <a href='http://www.travelagewest.com/News/Food-Tourism-With-Experiential-Focus-Still-on-the-Rise/#.WZM6idPytE5' rel='noopener' target='_blank'>Tourists seem drawn to culinary experiences</a>, proving that experiential travel can cross over into the mainstream. The foodie trend also shows that worries about the 'McDonald's-ization' of the world are unfounded.</p><br/> <h2>An authentic image</h2><img src='https://www.treehugger.com/thmb/1bjrKAIuzshFDr2lPuWyWw3iCe4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__08__phonephoto-flic-c7e82d55bf0f4dee83441f74724ae4f4.jpg' width='2048' height='1365' alt='person using smartphone at Buckingham Palace' /><br/> <p>Social media has played a part in the rise of culinary tourism. Whole social accounts are based on nothing but pictures of raw ingredients and beautifully plated dishes. This points to a larger trend that shows that, like it or not, social media is how people connect with and get inspired by like-minded travelers. What does this mean for experiential travel?</p><br/> <p>The “Instagram effect” is real, and marketing offices have started inviting photographers with large Instagram followings on press junkets. This has <a href='https://www.trekksoft.com/en/blog/rise-of-experiential-travel' rel='noopener' target='_blank'>helped to redefine travel</a>, with people wanting to have the same experiences as those they see on social media.</p><br/> <p>At a recent tourism event, the head of marketing for the Tourism Authority of Thailand, Chattan Kunjara na Ayudhya, pointed out that the process of taking images to post on social media can be beneficial for experiential travelers if the images are authentic. “An authentic image can tell a very complex story in a very simple way. These simple images are shared by travelers on a day to day basis.”</p><br/> <p>He went on the explain that destinations and tourism industry stakeholders should be responsible for presenting tourists with the opportunities to create such images. “We need to make sure that we are creating authentic experiences that are shareable.'</p><br/> <h2>Volunteer, see the world</h2><img src='https://www.treehugger.com/thmb/NS7tbAhZzf_ygD7k117PNu_Be2c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__08__voltourism-wiki-59db1e481cd74a8faa98d656a9174e2a.jpg' width='1024' height='683' alt='Photo: Tamara Baillie/AusAID/Wikimedia Commons' /><br/> <p>Another aspect of experiential tourism involves immersing yourself in something that you are truly passionate about. This could be cooking, pottery or something more obscure, like the conservation of wild plants. Such nature-based immersive experiences are offered in Southern Oregon by the <a href='http://blogs.oregonstate.edu/seagrantscholars/2017/06/25/this-place-is-ferntastic/' rel='noopener' target='_blank'>Wild River Coast Alliance</a>, which organizes programs that support communities and ecology in the region.</p><br/> <p>For some, simply getting beyond the tourist trail and seeing the real culture of a destination is the ultimate example of experiential tourism. This has always been a popular option for youth travelers or so-called “gap-year” tourists. Tour packages offering such experiences often have an <a href='http://www.transitionsabroad.com/navpages/links/best_cultural_immersion_travel_web_sites.shtml' rel='noopener' target='_blank'>educational angle</a> (studying abroad or participating in a language immersion program). Some involve homestays or volunteering on development projects while living abroad.</p><br/> <h2>Understanding the place</h2><img src='https://www.treehugger.com/thmb/2YtrwQeZG6oKoeLOgsBPRsgaQGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__08__monkslaos-ss-56c4113f3d1747ef88c3fc5654e6db5e.jpg' width='5600' height='3733' alt='Photo: Kiwisoul/Shutterstock' /><br/> <p>Are tourists simply ticking experiences off their to-do list just as they’d tick off sightseeing sites, or are they actually gaining understanding of the places that they visit? The criticism of the experiential trend is that immersion experiences are, in general, just another way to package tourism. The trend may allow smaller destinations to capitalize on their unique attributes, but the travelers are still short-term visitors whose travel experiences <a href='https://thoughtcatalog.com/erin-becker/2013/02/immersion-travel-experiences-are-naive-at-best-patronizing-at-worst/' rel='noopener nofollow' target='_blank'>are lacking</a>.</p><br/> <p>Is it possible to be overzealous in this pursuit of experiences? In Luang Prabang, an historic city and UNESCO World Heritage Site in Laos, one tradition has become quite popular with tourists. The practice of donating food to feed the city’s monks occurs every morning. Local people congregate at the roadside and put food into the monks’ bowls as they walk past. Tourists began coming early in the morning to photograph the procession-like practice. Some even take part, raising concerns that this once quiet, solemn religious affair has descended into a noisy spectacle.</p><br/> <p>The Luang Prabang Airport reportedly has signs that <a href='http://www.telegraph.co.uk/travel/destinations/asia/laos/articles/Luang-Prabang-Respecting-the-alms-giving-ritual/' rel='noopener' target='_blank'>offer advice</a> on how to participate in the almsgiving in a respectful way.</p><br/> <h2>The future of experiential tourism</h2><img src='https://www.treehugger.com/thmb/eLcbmfwg7ZKZtHKlgfSYXs9lza8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__08__croatia-airport-ss-8b97e68f4e394a06b85217751fc40a43.jpg' width='6000' height='4000' alt='Photo: Leon T/Shutterstock' /><br/> <p>The demand for air travel is <a href='https://www.usatoday.com/story/travel/flights/2015/06/08/demand-to-fly-will-likely-double-but-industry-may-not-be-ready/28680637/' rel='noopener' target='_blank'>expected to double</a> in the next two decades. Tourism is growing at a steady rate. Despite criticisms and drawbacks, the growth of experiential tourism could allow smaller players in the tourism industry to benefit from this growth without having to sacrifice their culture, sell their land to developers or change the way that they live.</p>"   
                     }
-                },
-{
-                    "name": "⚽ Brabrand vs Kisvarda II | 19:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-                    "sources": [],
-                    "labels": [{
-                            "text": "⏳ Sắp Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-                        }
-                    ],
-                    "share": {
-                        "url": "https://vbtv.pro/match/dMpaFnH"
-                    },
-                    "remote_data": {
-                        "url": "https://vbtv.pro/match/dMpaFnH"
-                    },
-                    "org_metadata": {
-                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
-                        "title": "Brabrand vs Kisvarda II | 19:00 09/02",
-                        "description": "Brabrand vs Kisvarda II | 19:00 09/02"
-                    }
+                  ]
                 }
-            ]
+              ],
+              "remote_data": null
+            }
+          ]
         },
-		{
-            "id": "basketball",
-            "name": "Bóng rổ",
-            "display": "horizontal",
-            "grid_number": 2,
-            "enable_detail": false,
-            "channels": [
-{
-                    "name": "⚽ Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-                    "sources": [],
-                    "labels": [{
-                            "text": "⏳ Sắp Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-                        }
-                    ],
-                    "share": {
-                        "url": "https://vbtv.pro/match/JJ9VTmg"
-                    },
-                    "remote_data": {
-                        "url": "https://vbtv.pro/match/JJ9VTmg"
-                    },
-                    "org_metadata": {
-                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
-                        "title": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
-                        "description": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02"
+        {
+          "id": "scuba-destinations",
+          "name": "8 of the World's Most Spectacular Scuba Destinations",
+          "description": "A look at some of the most breathtaking scuba diving locations.",
+          "image": {
+            "url": "https://monplayer.org/images/demo/scuba-destinations.webp",
+            "type": "cover",
+            "width": 750,
+            "height": 500
+          },
+          "display": "text-below",
+          "type": "text",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content",
+                  "image": null,
+                  "streams": [
+                    {
+                      "id": "scuba-destinations",
+                      "name": "8 of the World's Most Spectacular Scuba Destinations",
+                      "text": "<h2>8 of the World's Most Spectacular Scuba Destinations</h2><img src='https://www.treehugger.com/thmb/vS_sShj8QGej0hA5N6k1pIzRv9M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1279110759-d280cdc3b0b842c2bde02b8e5f7238a8.jpg' width='2000' height='1500' alt='scuba diver with a school of bright orange fish on a vibrant coral reef filled with hard and soft coral' /><br/> <p>Scuba diving is an exciting way to see parts of the planet where few travelers ever venture. Tank-aided diving opens the door to an underwater world where nature still dominates. The unique and <a href='https://www.treehugger.com/stunning-underwater-plants-and-sea-life-on-the-ocean-floor-4859219'>colorful life of coral reefs</a> and the vast variety of marine creatures found in ocean waters offer a thrill that’s impossible to replicate on land.</p><br/> <p>Not every scuba dive site can offer the same level of contact with <a href='https://www.treehugger.com/gorgeous-animals-of-the-coral-reef-4869111'>aquatic life</a>. However, a few standouts will thrill newly certified novices and expert divers alike, with swims through some of the world's most beautiful underwater attractions and a chance to see some of its most amazing creatures.</p><br/> <p>Here are eight of the world's most spectacular places to go scuba diving.</p><br/> <h2>Great Barrier Reef</h2><img src='https://www.treehugger.com/thmb/MG-8r0W3bTZIN_soCj0pLXRBoUM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1266132187-712d71df53d6485fb71775a09892c37e.jpg' width='2060' height='1456' alt='scuba diver exploring a variety of colorful coral on the Great Barrier Reef' /><br/> <p>The Great Barrier Reef is the ultimate dive destination. The world's largest reef (it can be <a href='https://www.treehugger.com/things-massive-enough-to-be-seen-from-space-4869301'>seen from space</a>), this haven for serious divers sits off the coast of Australia. Once underwater, divers will find that the reef lives up to its reputation, with thousands of species of fish and crystal clear waters that make seeing all the wildlife easy.</p><br/> <p>In an effort to conserve and protect this vibrant but fragile place, boat traffic is limited in certain areas, and fees are levied on companies that operate around the reef (with much of the money used to fund conservation initiatives). Most dive boats support the conversation efforts by using permanent anchor points so that they do not drop anchors on the reef itself.</p><br/> <h2>Palau</h2><img src='https://www.treehugger.com/thmb/D_5R5Q_gf9-174MT0iaBFn2pVrw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1125580211-0ac56c59a20a4249a26fe081413fdd86.jpg' width='3867' height='2573' alt='a school of orange squirrel fish on a colorful coral reef in Palau' /><br/> <p>Oceania's Palau is a great destination for open-water, wall, and reef diving. A place known as Blue Corner features nutrient-rich waters, which draw smaller reef fish and, in turn, larger fish, such as tuna, barracuda, and sharks. More advanced divers might tackle the caverns and tunnels known as the Blue Holes, which are located near the Blue Corner dive site. A number of other reefs and sandy-bottom channels are found around Palau. Divers can explore these areas and see a variety of small and large marine life, including sharks and manta rays.</p><br/> <p>The area may be best known for its famous snorkeling site: Jellyfish Lake. In this body of water, a unique species of golden jellyfish is found. While the jellyfish are not stingless, it is mild and harmless to humans. The lake is not technically a scuba diving site, since air tanks are not permitted for conservation reasons.</p><br/> <h2>Cayman Islands</h2><img src='https://www.treehugger.com/thmb/mb5trdi01FgeHgj7BmSgZg-Rp3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-959910508-2cc747a581c54bf1b4fdd75822b97551.jpg' width='2119' height='1414' alt='Scuba diver floating above a reef and a Hawksbill turtle in the Cayman Islands' /><br/> <p>The clear, warm waters of the Cayman Islands are a haven for divers seeking the perfect place to swim among colorful aquatic life. The most attractive aspect of this spot is the breadth of options. For serious divers, the headlining site is Bloody Bay Wall, a massive wall with a drop-off that starts only 10 or 20 feet below the surface. Divers can see distinctive wildlife on the upper portions of the wall and in the shallows before the drop-off.</p><br/> <p>The visibility that divers in Cayman waters enjoy is superior to any other dive site in the region, making it possible for novice divers in shallower water to see plenty of creatures. The Caymans are home to reefs and <a href='https://www.treehugger.com/how-shipwrecks-support-marine-predators-5078330'>shipwrecks</a>, offering visitors a wide variety of wildlife and experience unique underwater attractions.</p><br/> <h2>Maldives</h2><img src='https://www.treehugger.com/thmb/HG31Sja7NBocly_3P086sqX37kw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-659285451-6b9840a142b54954bceb22a4ae9e1fd9.jpg' width='2124' height='1411' alt='orange and black clown anemone fish in bright blue water swimming along the vibrant pink anemone and colorful coral reef' /><br/> <p>These islands of this remote nation in the Indian Ocean are home to some amazing beaches and the type of clear, warm water that draws tropical vacation aficionados from around the world. A variety of reefs and channels as well as changes in depth around the islands make for some very interesting dive sites. Fish flock here, thanks to nutrients and food sources being swept through the archipelago by ocean currents. The reefs are shallow and packed with a variety of sea life.</p><br/> <p>For divers seeking the kind of colorful reef life that is usually only seen on TV diving specials, the Maldives is idyllic. However, the reefs, as attractive as they are, are only part of the story of this Indian Ocean destination. Large marine species swim in the deeper waters near the Maldives. In channels and open water, divers can see huge manta rays, whale sharks, and more.</p><br/> <h2>Red Sea</h2><img src='https://www.treehugger.com/thmb/b4fDfoH52koNP6TOmdxcLxsEjog=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-547695899-5753d058e12a44bb80035e35723c80bb.jpg' width='2064' height='1453' alt='a reef teeming with orange fish amidst a variety of red, green, and tan hard and soft corals with the bright blue Red Sea above' /><br/> <p>In scuba diving circles, the waters of the Red Sea are not as well known as places like the South Pacific, Caribbean, and Mediterranean. However, there are a number of amazing dive sites in this region, including Egypt's Daedalus Reef. Great underwater visibility, warm waters, and a variety of reefs and open-water dive sites as well as ship- and plane wrecks provide a huge menu for serious and novice divers.</p><br/> <p>The headlining diving area is found in the waters around Ras Mohammed National Park. This marine sanctuary features high-table reefs and deep vertical overhangs. Divers who spend a lot of time underwater in Ras Mohammed will encounter large animals, such as sharks or dolphins, and small, colorful marine life, including sea fans, scorpionfish, and anemones.</p><br/> <h2>Malta</h2><img src='https://www.treehugger.com/thmb/v-dlZ-X4mkMt6ejK7ZNRkdpmvXc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-578101114-3fdf95ec29a94de8abda9f5909df7904.jpg' width='2121' height='1414' alt='Two scuba divers with bright lights swimming through the wreck Um El Faroud in Malta' /><br/> <p>Malta is one of the best places to dive in the Mediterranean. It is a relatively small nation, so getting to different dive sites by land is quite easy. One famous scuba and snorkel spot is the Blue Lagoon, a sheltered lagoon with vibrant marine life near the island of Comino. This area is shallow and attractive for fish-seekers because many young members of species like barracuda swim in these relatively safe, protected waters.</p><br/> <p>Underwater caverns, fish-filled bays, and shipwrecks round out the list of possible dive sites on Malta.</p><br/> <h2>Ko Tao</h2><img src='https://www.treehugger.com/thmb/6kwaTSO3qKE6sC79qv5RmE62JV4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-517462523-3146bf23afef44dd821bd4a72ce68bea.jpg' width='2119' height='1414' alt='two scuba divers with a school of small barracudas in blue water in Koh Tao, Chumporn, Thailand ' /><br/> <p>Ko Tao (also known as Koh Tao), in the Gulf of Thailand, is one of Southeast Asia's hottest dive sites. It boasts a diverse menu of dives, with options that will appeal to novice and experienced divers. From coral reefs and huge underwater rock formations to challenging open-water dives, Ko Tao has something for every level of diver. This popular dive destination boasts a high number of dive schools, so novices will be able to get the necessary certification quickly and accomplish their beginners’ level dives at world-class sites.</p><br/> <p>The shallow reefs, rock formations, and wildlife-filled coastal waters are certainly attractive spots to take a first tank-assisted dive, but the real magic of this island is found in the open waters where whale sharks (when in season), sea turtles, barracuda, and tuna swim.</p><br/> <h2>Seychelles</h2><img src='https://www.treehugger.com/thmb/1CX4dyi6veT3mY82hRaPeAgMjtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1223960605-0d0b57e8716d435c8d541ec553a4fe7f.jpg' width='2121' height='1414' alt='tropical coral reef on the white sandy ocean floor with a school of bright yellow Goldbelly Cardinalfish in Seychelles ' /><br/> <p>Located in the Indian Ocean off the coast of East Africa, the archipelago known as the Seychelles is one of the best diving destinations on Earth. Divers come to the warm and clear waters to see a variety of species, including different types of coral, small reef fish, sharks, groupers, and stingrays. Some of the shallower dive sites in Seychelles are ideal for newly certified divers. Colorful tropical fish are definitely a highlight in these underwater sightseeing spots.</p><br/> <p>Advanced divers can experience dives on the outer islands, which have deeper waters that feature larger marine species, including hammerhead and whale sharks. While most of the action takes place offshore, there is plenty of nature onshore as well. Some of the islands of the archipelago are <a href='https://www.treehugger.com/almost-deserted-islands-4869108'>sparsely populated</a>, or completely uninhabited, and dominated by seabirds and small exotic animals.</p>"   
                     }
-                },
-{
-                    "name": "⚽ ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-                    "sources": [],
-                    "labels": [{
-                            "text": "⏳ Sắp Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-                        }
-                    ],
-                    "share": {
-                        "url": "https://vbtv.pro/match/qLZ8OSS"
-                    },
-                    "remote_data": {
-                        "url": "https://vbtv.pro/match/qLZ8OSS"
-                    },
-                    "org_metadata": {
-                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
-                        "title": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
-                        "description": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02"
-                    }
-                },
-{
-                    "name": "⚽ Brabrand vs Kisvarda II | 19:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-                    "sources": [],
-                    "labels": [{
-                            "text": "⏳ Sắp Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-                        }
-                    ],
-                    "share": {
-                        "url": "https://vbtv.pro/match/dMpaFnH"
-                    },
-                    "remote_data": {
-                        "url": "https://vbtv.pro/match/dMpaFnH"
-                    },
-                    "org_metadata": {
-                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
-                        "title": "Brabrand vs Kisvarda II | 19:00 09/02",
-                        "description": "Brabrand vs Kisvarda II | 19:00 09/02"
-                    }
+                  ]
                 }
-            ]
+              ],
+              "remote_data": null
+            }
+          ]
         },
-		{
-            "id": "badminton",
-            "name": "Cầu lông",
-            "display": "horizontal",
-            "grid_number": 2,
-            "enable_detail": false,
-            "channels": [
-{
-                    "name": "⚽ Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-                    "sources": [],
-                    "labels": [{
-                            "text": "⏳ Sắp Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-                        }
-                    ],
-                    "share": {
-                        "url": "https://vbtv.pro/match/JJ9VTmg"
-                    },
-                    "remote_data": {
-                        "url": "https://vbtv.pro/match/JJ9VTmg"
-                    },
-                    "org_metadata": {
-                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
-                        "title": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
-                        "description": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02"
+        {
+          "id": "beautiful-cities",
+          "name": "10 Beautiful Cities to Explore by Foot",
+          "description": "Exploring a new city by car can be an expensive, stressful, and wasteful way to travel. With all the pedestrian-friendly destinations in the world, why not walk?...",
+          "image": {
+            "url": "https://monplayer.org/images/demo/beautiful-cities.webp",
+            "type": "cover",
+            "width": 750,
+            "height": 500
+          },
+          "display": "text-below",
+          "type": "text",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content",
+                  "image": null,
+                  "streams": [
+                    {
+                      "id": "beautiful-cities",
+                      "name": "10 Beautiful Cities to Explore by Foot",
+                      "text": "<h2>10 Beautiful Cities to Explore by Foot</h2><br/> <p>Exploring a new city by car can be an expensive, stressful, and <a href='https://www.treehugger.com/cars-are-causing-air-pollution-we-breathe-new-study-finds-4856825'>wasteful way to travel</a>. With all the pedestrian-friendly destinations in the world, why not walk? Online mapping apps and always-improving walking infrastructure make it easy enough for tourists to sightsee by foot without hiring a guide. Compact cities like San Francisco, California; Fez, Morocco; and the ever-epochal Big Apple seem to be built for vehicle-free travel, after all.</p><br/> <p>From Australia to the Balkins, from California to South Korea, here are 10 beautiful cities to explore by foot.</p><br/> <h2>New York City, New York</h2><img src='https://www.treehugger.com/thmb/DpYBdXtJ2qUv5S-ChMqoJsdTUrQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/crowds-of-people-crossing-street-on-zebra-crossing-in-new-york--usa-1161240357-a1fc6aa0a01e445185258357b369af79.jpg' width='2121' height='1414' alt='Crowd of people crossing the street in New York City' /><br/> <p>New York is often called 'America’s most walkable city.' Walk Score, a widely used walkability scoring service, has repeatedly ranked it <a href='https://www.walkscore.com/cities-and-neighborhoods/'>top in walkability</a>, and a pedestrian organization, Walk Friendly Communities, has tagged NYC with a <a href='http://walkfriendly.org/communities/new-york-city-ny/' rel='nofollow noopener' target='_blank'>'platinum' rating</a>; it's the only American city to receive such an accolade.</p><br/> <p>Rarely do residents, much less visitors, get behind a wheel in this city. The subway and bus system (plus occasional late-night taxi rides) are sufficient for traveling through all five boroughs. Major tourist sites like Times Square and Broadway are perfectly pedestrian-friendly, and the city continues to <a href='https://www1.nyc.gov/html/dot/html/pedestrians/pedestrian-projects.shtml'>improve its walking infrastructure</a> through sidewalk widening and adding more direct crosswalks. Neighborhoods like Little Italy, the Bowery, Chinatown, and NoHo are already conducive to traveling by foot.</p><br/> <h2>Mackinac Island, Michigan</h2><img src='https://www.treehugger.com/thmb/pU8kLEcduXJnaF9tqwrbYFGnsmA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-9472519139604219938499e8d1db2b64.jpg' width='2121' height='1414' alt='People walking and cycling through downtown Mackinac Island' /><br/> <p>Mackinac Island, just off the Michigan mainland in Lake Huron, is proof that smaller cities can be walkable, too. This popular tourist destination occupies barely four square miles of land. Its compactness makes hiking easy, but what truly stands out is its century-old <a href='https://www.treehugger.com/one-city-in-america-where-cars-have-been-banned-4857076'>car ban</a>. Not long after the first automobiles arrived on the island, locals decided to not allow them. The ban, in place since 1898, doesn't include emergency vehicles, but everyone else has to get around by bike or foot.</p><br/> <p>Instead of taxis, visitors can hail horse-drawn carriages. Paths, meanwhile, crisscross the island, but the main attraction is the eight-mile-long M185 — the only state highway in the country where motor vehicles are banned. For decades, it was also the only highway that had never seen a motor vehicle accident. Most tourists arrive via ferry and stay at one of the island’s numerous inns or bed-and-breakfasts.</p><br/> <h2>Barcelona, Spain</h2><img src='https://www.treehugger.com/thmb/ZfMAA_hEiiD9nRNYYHAVpnUrPhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2018__03__barcelona-fl-a3fd2d04ab7b4f389260a338ba258a82.jpg' width='2048' height='1366' alt='People sitting around fountain in Plaça Reial, Barcelona' /><br/> <p>Barcelona has become one of the most popular tourist destinations in the world, attracting some 12 million visitors per year. The biggest attractions in this Catalonian capital are the pedestrian areas: La Rambla, a carless, tree-lined promenade with shops, cafes, kiosks, and street performers, and Plaça de Catalunya, directly in the city center.</p><br/> <p>Barcelona continues to make improvements in an effort to lower pollution levels and expand walkability beyond its plazas and promenades. Since 2016, it has been introducing 'superblocks,' little automobile-free islands around the city. In 2020, it opened the largest low-emissions zone (about 60 square miles in which traffic is restricted) in southern Europe.</p><br/> <h2>Hong Kong, China</h2><img src='https://www.treehugger.com/thmb/bGZsklZ30OAIYr-eGXIL3rWFbBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nathan-road--hong-kong-1205693581-bbeae8065d38419e876b224ab21f3c80.jpg' width='2121' height='1414' alt='People crossing Nathan Road, Hong Kong, at night' /><br/> <p>Hong Kong is home to 7.5 million people and, therefore, some of the most densely-populated boroughs on Earth. With that many residents, the former British colony makes it easy to get around without a vehicle. Its subway and bus systems are superb and the crosswalks are sufficiently wide, often dotted with railed pedestrian refuge islands. Of course, the city is steep in some places. Instead of climbing or riding the always-crowded Peak Tram, pedestrians can take a half-mile-long outdoor escalator network up Victoria Peak.</p><br/> <p>Hong Kong's urban areas are certainly walkable, but the natural trails are what make it really stand out as a pedestrian paradise. Trails around the peaks on Hong Kong Island are quite accessible, and longer hikes are available in the New Territories and on the outlying islands. These rural areas can be reached via ferry from the population centers on Hong Kong Island and Kowloon.</p><br/> <h2>Dubrovnik, Croatia</h2><img src='https://www.treehugger.com/thmb/a2OxppILiLlEIBKYEouSFvSAQYM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-8b964472a5d94e0b88d0d799f6e6815c.jpg' width='2121' height='1414' alt='High angle view of tourist around Onofrio Fountain' /><br/> <p>Dubrovnik’s Old Town dates back to the car-free 13th century, when it was a major center for seagoing trade. Since being renovated and restored after it was besieged during the breakup of Yugoslavia in the early 1990s, it has become one of the most popular destinations on the Mediterranean. The scenic Adriatic coastline and city walls, which encircle the historic core, are partially to thank.</p><br/> <p>Old Town is pedestrian-friendly and relatively compact. In fact, vehicles aren’t even allowed, so Dubrovnik has developed into a walkable city out of necessity. Visitors might recognize the area near Pile Gate as the fictional King's Landing in HBO's 'Game of Thrones.'</p><br/> <h2>Fes el Bali (Fez), Morocco</h2><img src='https://www.treehugger.com/thmb/Lf5x_WCTxqrFDp6cYaK7y9JRNps=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545245029-f1f541732fc54f7995350eca67ba4388.jpg' width='2121' height='1414' alt='People walking through arch in Old Fez' /><br/> <p>Walking in Fes el Bali (in Fez), Morocco, is also sometimes a necessity. The Old Town is a UNESCO World Heritage site, so motorized vehicles are a no-no. The streets are so narrow, anyway, that garbage collectors must travel by donkeys instead of in trucks or with carts. It's believed to be the largest car-free urban area in the world.</p><br/> <p>Solo strolls through the labyrinthlike pathways, although daunting, are by no means impossible. Fes el Bali has an area of only about 1.5 square miles, and it has numerous access points that allow tourists to orient themselves. About 150,000 people call this Moroccan medina home, so you’ll never be far from a market, cafe, or shop. Fes el Bali is one of three districts in Fez, so visitors may opt to stay there instead of in the newer parts of the city to avoid having to travel by car.</p><br/> <h2>Cinque Terre, Italy</h2><img src='https://www.treehugger.com/thmb/uDFeJZAHdMgqZ0gZNJE7NuUR4Zo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2018__03__cinque-terre-ss-a5b1cefaadea4c17b083daaf59d2911e.jpg' width='1000' height='664' alt='Aerial view of the colorful buildings of Cinque Terre ' /><br/> <p>Cinque Terre is a collection of five villages on the coastline of Liguria, Italy (also known as the Italian Riviera). The five enclaves — Riomaggiore, Manarola, Corniglia, Vernazza, and Monterosso — are designated as a single UNESCO World Heritage site. Cars have been banned here for a decade, but the towns are connected by train and steep-but-passable coastal trails. A Cinque Terre Trekking Card is required and can be bought where Cinque Terre Train Cards are sold.</p><br/> <p>Many tourists choose to walk, though trails can sometimes be closed. The hike offers great views of the brightly colored buildings and rocky shoreline.</p><br/> <h2>Melbourne, Australia</h2><img src='https://www.treehugger.com/thmb/E3ZTS5TPqc0DlNnss04tRNRbdPw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-city-of-melbourne--australia--510193642-f48b2cdb757d46af8299e7e87a8eb86f.jpg' width='2120' height='1415' alt='Tourists take pictures of downtown Melbourne from viewpoint' /><br/> <p>Melbourne is a walker's paradise. It may not be as compact as the likes of New York City and San Francisco — occupying an area of 4,000 square miles as opposed to 300 and 50 square miles, respectively — but what can't be reached on foot can be accessed via a free trolley. The key is to pick one area to explore per day, be it the street art and historic buildings in the center, the beach promenade of St. Kilda, or the 100-acre Royal Botanic Gardens Victoria.</p><br/> <p>Dotted around the city center are hipster neighborhoods like the <a href='https://www.walkscore.com/AU-VIC/Melbourne'>highly walkable</a> Carlton, home to the city's Little Italy, Fitzroy, and Fitzroy North.</p><br/> <h2>San Francisco, California</h2><img src='https://www.treehugger.com/thmb/f_W5gvEsWseCRf9q5EfPQkKnmlA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/painted-ladies-victorian-houses-and-san-francisco-skyline--california--usa-1186171841-4b1c59b5c0f545c8ae93ee174244aac4.jpg' width='2121' height='1414' alt='Painted Ladies Victorian houses and San Francisco skyline' /><br/> <p>While notoriously hilly, San Francisco is entirely walkable. <a href='https://www.walkscore.com/CA/San_Francisco/Chinatown'>Walk Score</a> gives the Chinatown and Tenderloin neighborhoods a 100/100, noting their abundance of restaurants, shops, and museums — all within strolling distance. Union Square, North Beach, Polk Gulch, Castro, Nob Hill, Japan Town, and Union Street all received a Walk Score of 99/100.</p><br/> <p>The Bay Area Rapid Transit system, Muni metro, and bus services make it possible to travel around the city and other Bay Area enclaves without a car. Smaller Bay Area cities like Berkeley, Redwood City, San Mateo, and San Rafael have notably pedestrian-friendly cores that score higher, overall, than San Francisco.</p><br/> <h2>Seoul, South Korea</h2><img src='https://www.treehugger.com/thmb/GTHYa9-GhhlFUslOg4Fy-jmlA3s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3-d51f8b31e4e541fbacf3ae9eac6ba018.jpg' width='2119' height='1415' alt='People walking between neon-lit buildings at night' /><br/> <p>Seoul's walkability is demonstrated by its Seoullo 7017 Skygarden, a half mile-long, plant-covered pedestrian walkway built on a former highway overpass, similar to the New York City High Line. The South Korean capital is a city of neighborhoods, many of which are pedestrian-only or at least pedestrian-friendly. Also like New York City, it has a massive subway network (signposted in both English and Korean) that makes the idea of traveling by car or taxi obsolete. Because of the urban hills, vehicles are often much slower than the train anyway.</p>"   
                     }
-                },
-{
-                    "name": "⚽ ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-                    "sources": [],
-                    "labels": [{
-                            "text": "⏳ Sắp Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-                        }
-                    ],
-                    "share": {
-                        "url": "https://vbtv.pro/match/qLZ8OSS"
-                    },
-                    "remote_data": {
-                        "url": "https://vbtv.pro/match/qLZ8OSS"
-                    },
-                    "org_metadata": {
-                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
-                        "title": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
-                        "description": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02"
-                    }
-                },
-{
-                    "name": "⚽ Brabrand vs Kisvarda II | 19:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-                    "sources": [],
-                    "labels": [{
-                            "text": "⏳ Sắp Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-                        }
-                    ],
-                    "share": {
-                        "url": "https://vbtv.pro/match/dMpaFnH"
-                    },
-                    "remote_data": {
-                        "url": "https://vbtv.pro/match/dMpaFnH"
-                    },
-                    "org_metadata": {
-                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
-                        "title": "Brabrand vs Kisvarda II | 19:00 09/02",
-                        "description": "Brabrand vs Kisvarda II | 19:00 09/02"
-                    }
+                  ]
                 }
-            ]
-        },
-		{
-            "id": "esport",
-            "name": "Thể thao điện tử",
-            "display": "horizontal",
-            "grid_number": 2,
-            "enable_detail": false,
-            "channels": [
-{
-                    "name": "⚽ Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-                    "sources": [],
-                    "labels": [{
-                            "text": "⏳ Sắp Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-                        }
-                    ],
-                    "share": {
-                        "url": "https://vbtv.pro/match/JJ9VTmg"
-                    },
-                    "remote_data": {
-                        "url": "https://vbtv.pro/match/JJ9VTmg"
-                    },
-                    "org_metadata": {
-                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
-                        "title": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
-                        "description": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02"
-                    }
-                },
-{
-                    "name": "⚽ ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-                    "sources": [],
-                    "labels": [{
-                            "text": "⏳ Sắp Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-                        }
-                    ],
-                    "share": {
-                        "url": "https://vbtv.pro/match/qLZ8OSS"
-                    },
-                    "remote_data": {
-                        "url": "https://vbtv.pro/match/qLZ8OSS"
-                    },
-                    "org_metadata": {
-                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
-                        "title": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
-                        "description": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02"
-                    }
-                },
-{
-                    "name": "⚽ Brabrand vs Kisvarda II | 19:00 09/02",
-                    "type": "single",
-                    "display": "thumbnail-only",
-                    "image": {
-                        "padding": 1,
-                        "background_color": "#ececec",
-                        "display": "contain",
-                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
-                        "width": 760,
-                        "height": 616
-                    },
-                    "enable_detail": false,
-                    "sources": [],
-                    "labels": [{
-                            "text": "⏳ Sắp Live",
-                            "position": "bottom-right",
-                            "color": "#00ffffff",
-                            "text_color": "#d54f1a"
-                        }
-                    ],
-                    "share": {
-                        "url": "https://vbtv.pro/match/dMpaFnH"
-                    },
-                    "remote_data": {
-                        "url": "https://vbtv.pro/match/dMpaFnH"
-                    },
-                    "org_metadata": {
-                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
-                        "title": "Brabrand vs Kisvarda II | 19:00 09/02",
-                        "description": "Brabrand vs Kisvarda II | 19:00 09/02"
-                    }
-                }
-            ]
+              ],
+              "remote_data": null
+            }
+          ]
         }
-    ],
-    "org_metadata": {
-        "title": "Xoilacz AI",
-        "description": "Xoilacz AI - Trực tiếp Bóng Đá",
-        "image": "https://static.savethislife.com/images/logo.ai.png"
+      ]
     },
-    "notice": {
-        "id": "notice",
-        "link": "https://t.me/xemgicungshare",
-        "text": "",
-        "icon": "https://vbtv.pro/tele.png",
-        "closeable": true
-    },
-    "option": {
-        "save_history": false,
-        "save_search_history": false,
-        "save_wishlist": false
+    {
+      "id": "films-demo-all",
+      "name": "Videos",
+      "display": "vertical",
+      "image": {
+        "url": "https://monplayer.org/images/roll.jpg",
+        "type": "cover",
+        "width": 410,
+        "height": 590
+      },
+      "grid_number": 3,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "charge",
+          "name": "Charge",
+          "description": "A thrilling story set in a dystopian world.",
+          "label": "Full",
+          "image": {
+            "url": "https://monplayer.org/images/demo/charge.jpg",
+            "type": "cover",
+            "width": 410,
+            "height": 590
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": true,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source 1",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content 1",
+                  "image": null,
+                  "grid_number": 3,
+                  "streams": [
+                    {
+                      "id": "charge-full",
+                      "name": "Charge Full",
+                      "image": {
+                        "url": "https://monplayer.org/images/demo/charge.jpg",
+                        "type": "cover",
+                        "width": 1920,
+                        "height": 1080
+                      },
+                      "stream_links": [
+                        {
+                          "id": "charge-1-s1",
+                          "name": "Server 1",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/charge.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "coffee-run",
+          "name": "Coffee Run",
+          "description": "A journey through memories fueled by caffeine.",
+          "label": "Full",
+          "image": {
+            "url": "https://monplayer.org/images/demo/coffee-run.jpg",
+            "type": "cover",
+            "width": 410,
+            "height": 590
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": true,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source 1",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content 1",
+                  "image": null,
+                  "grid_number": 3,
+                  "streams": [
+                    {
+                      "id": "coffee-run-full",
+                      "name": "Coffee Run",
+                      "image": {
+                        "url": "https://monplayer.org/images/demo/coffee-run.jpg",
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
+                      },
+                      "stream_links": [
+                        {
+                          "id": "coffee-run-1-s1",
+                          "name": "Server 1",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/coffee_run.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "spring",
+          "name": "Spring",
+          "description": "A tale of a shepherd girl and her dog facing ancient spirits.",
+          "label": "Full",
+          "image": {
+            "url": "https://monplayer.org/images/demo/spring.jpg",
+            "type": "cover",
+            "width": 410,
+            "height": 590
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": true,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source 1",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content 1",
+                  "image": null,
+                  "grid_number": 3,
+                  "streams": [
+                    {
+                      "id": "spring-full",
+                      "name": "Spring Full",
+                      "image": {
+                        "url": "https://monplayer.org/images/demo/spring.jpg",
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
+                      },
+                      "stream_links": [
+                        {
+                          "id": "spring-1-s1",
+                          "name": "Server 1",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/spring.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        },
+                        {
+                          "id": "spring-1-s2",
+                          "name": "Server 2",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/spring.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": false,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sprite-fight",
+          "name": "Sprite Fight",
+          "description": "Teenagers encounter mushroom creatures in a forest.",
+          "label": "Full",
+          "image": {
+            "url": "https://monplayer.org/images/demo/sprite-fight.jpg",
+            "type": "cover",
+            "width": 410,
+            "height": 590
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": true,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source 1",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content 1",
+                  "image": null,
+                  "grid_number": 3,
+                  "streams": [
+                    {
+                      "id": "sprite-fight-full",
+                      "name": "Sprite Fight",
+                      "image": {
+                        "url": "https://monplayer.org/images/demo/sprite-fight.jpg",
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
+                      },
+                      "stream_links": [
+                        {
+                          "id": "sprite-fight-1-s1",
+                          "name": "Server 1",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/sprite_fight.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        },
+                        {
+                          "id": "sprite-fight-1-s2",
+                          "name": "Server 2",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/sprite_fight.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": false,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "daily-dweebs",
+          "name": "Daily Dweebs",
+          "description": "An animation about a dog's emotional journey.",
+          "label": "Full",
+          "image": {
+            "url": "https://monplayer.org/images/demo/daily-dweebs.jpg",
+            "type": "cover",
+            "width": 410,
+            "height": 590
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": true,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source 1",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content 1",
+                  "image": null,
+                  "grid_number": 3,
+                  "streams": [
+                    {
+                      "id": "daily-dweebs-full",
+                      "name": "Daily Dweebs",
+                      "image": {
+                        "url": "https://monplayer.org/images/demo/daily-dweebs.jpg",
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
+                      },
+                      "stream_links": [
+                        {
+                          "id": "daily-dweebs-1-s1",
+                          "name": "Server 1",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/daily_dweebs.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        },
+                        {
+                          "id": "daily-dweebs-1-s2",
+                          "name": "Server 2",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/daily_dweebs.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": false,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "wing-it",
+          "name": "Wing It",
+          "description": "An engineer and a wannabe-pilot in an out-of-control shuttle.",
+          "label": "Full",
+          "image": {
+            "url": "https://monplayer.org/images/demo/wing-it.jpg",
+            "type": "cover",
+            "width": 410,
+            "height": 590
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": true,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source 1",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content 1",
+                  "image": null,
+                  "grid_number": 3,
+                  "streams": [
+                    {
+                      "id": "wing-it-full",
+                      "name": "Wing It",
+                      "image": {
+                        "url": "https://monplayer.org/images/demo/wing-it.jpg",
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
+                      },
+                      "stream_links": [
+                        {
+                          "id": "wing-it-1-s1",
+                          "name": "Server 1",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/wing_it.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        },
+                        {
+                          "id": "wing-it-1-s2",
+                          "name": "Server 2",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/wing_it.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": false,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        }
+      ]
     }
+  ]
 }
