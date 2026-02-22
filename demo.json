@@ -235,7 +235,7 @@
             "enable_detail": false,
             "channels": [
 {
-                    "name": "⚽ Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
+                    "name": "1 Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
                     "type": "single",
                     "display": "thumbnail-only",
                     "image": {
@@ -247,6 +247,7 @@
                         "height": 616
                     },
                     "enable_detail": false,
+					"sources": [],
                     "labels": [{
                             "text": "Live",
                             "position": "bottom-right",
