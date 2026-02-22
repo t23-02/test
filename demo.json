@@ -26,8 +26,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "charge",
-          "name": "Charge",
+          "id": "charge1",
+          "name": "Charge2",
           "description": "A thrilling story set in a dystopian world.",
           "label": "Full",
           "image": {
