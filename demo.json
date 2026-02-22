@@ -26,10 +26,10 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "charge1",
+          "id": "charge",
           "name": "Charge2",
           "description": "A thrilling story set in a dystopian world.",
-          "label": "Full",
+          "label": "Live",
           "image": {
             "url": "https://monplayer.org/images/demo/charge.jpg",
             "type": "cover",
@@ -63,14 +63,22 @@
                       "stream_links": [
                         {
                           "id": "charge-1-s1",
-                          "name": "Server 1",
-                          "url": "https://d.nst4285.workers.dev/x9ktvy4",
+                          "name": "Streamc",
+                          "url": "https://embed12.streamc.xyz/eyJoIjoiODE0ZDllODE5NjU5Njc2YmMyMzkzMTUyYWRiYWVlNjkiLCJ0IjoiOWVjZjZmNTQzNzI5NDQ2NjYwNGE0MTk0ZTZhZDY0MGRjMTUzYjQ0ZTNlZDgwOTBkNzU1YzM2OTNmMjc0NTVhYiJ9.m3u8",
                           "type": "hls",
                           "default": true,
                           "enableP2P": false,
                           "subtitles": null,
                           "remote_data": null,
                           "request_headers": null,
+						  "request_headers": [{
+							  "key": "User-Agent",
+							  "value": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36"
+							}, {
+								  "key": "Referer",
+								  "value": "https://embed12.streamc.xyz/"
+							}
+							]
                           "comments": null
                         }
                       ]
@@ -86,7 +94,7 @@
           "id": "coffee-run",
           "name": "Coffee Run",
           "description": "A journey through memories fueled by caffeine.",
-          "label": "Full",
+          "label": "Live",
           "image": {
             "url": "https://monplayer.org/images/demo/coffee-run.jpg",
             "type": "cover",
@@ -143,7 +151,7 @@
           "id": "spring",
           "name": "Spring",
           "description": "A tale of a shepherd girl and her dog facing ancient spirits.",
-          "label": "Full",
+          "label": "Live",
           "image": {
             "url": "https://monplayer.org/images/demo/spring.jpg",
             "type": "cover",
@@ -212,7 +220,7 @@
           "id": "sprite-fight",
           "name": "Sprite Fight",
           "description": "Teenagers encounter mushroom creatures in a forest.",
-          "label": "Full",
+          "label": "Live",
           "image": {
             "url": "https://monplayer.org/images/demo/sprite-fight.jpg",
             "type": "cover",
@@ -281,7 +289,7 @@
           "id": "daily-dweebs",
           "name": "Daily Dweebs",
           "description": "An animation about a dog's emotional journey.",
-          "label": "Full",
+          "label": "Live",
           "image": {
             "url": "https://monplayer.org/images/demo/daily-dweebs.jpg",
             "type": "cover",
@@ -350,7 +358,7 @@
           "id": "wing-it",
           "name": "Wing It",
           "description": "An engineer and a wannabe-pilot in an out-of-control shuttle.",
-          "label": "Full",
+          "label": "Live",
           "image": {
             "url": "https://monplayer.org/images/demo/wing-it.jpg",
             "type": "cover",
