@@ -1,90 +1,51 @@
 {
-    "id": "zzz",
-    "name": "Zzz",
-    "url": "https://media.hth4nh.eu.org/home",
-    "color": "#000000",
+    "id": "xoilacz",
+    "name": "Xoilacz",
+    "description": "Trực tiếp Bóng Đá",
+    "color": "#01912f",
+    "url": "https://xoilacz.ai/",
+    "disable_ads": true,
+    "grid_number": 3,
     "image": {
-        "url": "https://media.hth4nh.eu.org/static/img/logo-zzz.png",
-        "display": "cover"
-    },
-    "description": "Zzz",
-    "share": {
-        "url": "https://media.hth4nh.eu.org/home"
-    },
-    "notice": {
-        "closeable": true,
-        "icon": "https://media.hth4nh.eu.org/static/img/tele.png",
-        "id": "notice",
-        "link": "https://t.me/zzz_monplayer",
-        "text": "Zzz"
+        "type": "cover",
+        "url": "https://static.savethislife.com/images/logo.ai.png"
     },
     "groups": [
-{
-            "id": "music-vn",
-            "name": "Nhạc Việt",
+		{
+            "id": "football",
+            "name": "Bóng đá",
             "display": "horizontal",
-            "grid_number": 1,
+            "grid_number": 2,
+            "enable_detail": false,
             "channels": [
-{
-                    "id": "10443",
-                    "name": "V-POP",
-                    "display": "text-below",
-                    "image": {
-                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/8/e/4/08e4104877db6c9a77d6fc42f0a17a8b.jpg",
-                        "display": "cover",
-                        "width": 240,
-                        "height": 240
-                    },
+				{
+                    "name": "Netherlands (w)U16 A",
                     "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://ibg_JJ9VTmg_1770427203107.webp",
+                        "width": 760,
+                        "height": 616
+                    },
                     "enable_detail": false,
-                    "sources": [
-{
-                            "id": "10443",
-                            "name": "",
-                            "contents": [
-{
-                                    "id": "10443",
-                                    "name": "",
-                                    "grid_number": 1,
-                                    "streams": [
-{
-                                            "id": "10443",
-                                            "name": "Nhạc Việt",
+                    "sources": [{
+                            "contents": [{
+                                    "streams": [{
+                                            "image": {
+                                                "display": "contain",
+                                                "shape": "square",
+                                                "url": "https://ibg_JJ9VTmg_1770427203107.webp",
+                                                "height": 101,
+                                                "width": 155
+                                            },
                                             "stream_links": [
-                                                {
-                                    "id": "bach-luyen-thanh-than--0-1-default",
-                                    "name": "Mặc Định 3",
-                                    "type": "webview",
-                                    "default": false,
-                                    "url": "https://t23-02.github.io/test/a.html",
-                                    "request_headers": [{
-                                            "key": "User-Agent",
-                                            "value": "MonPlayer"
-                                        }, {
-                                            "key": "Referer",
-                                            "value": "https://t23-02.github.io/test/a.html"
-                                        }
-                                    ]
-                                },{
-                                    "id": "bach-luyen-thanh-than--0-0-default",
-                                    "name": "Mặc Định 11",
-                                    "type": "webview",
-                                    "default": false,
-                                    "url": "https://embed1.streamc.xyz/embed.php?hash=c74846d43770dbbd4e96ba434c281c0c",
-                                    "request_headers": [{
-                                            "key": "User-Agent",
-                                            "value": "MonPlayer"
-                                        }, {
-                                            "key": "Referer",
-                                            "value": "https://embed1.streamc.xyz/embed.php?hash=c74846d43770dbbd4e96ba434c281c0c"
-                                        }
-                                    ]
-                                },{
-                                                    "id": "10508",
-                                                    "default": true,
-                                                    "url": "https://d.nst4285.workers.dev/x9ktvy4",
-                                                    "name": "Mặc định",
-                                                    "type": "hls"
+												{
+                                                    "url": "https://xlz.livecdnem.com/ajannel43.m3u8",
+                                                    "type": "hls",
+                                                    "default": true
                                                 }
                                             ]
                                         }
@@ -94,9 +55,635 @@
                         }
                     ]
                 },
+				{
+                    "name": "Netherlands (w)U16 B",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://ibg_JJ9VTmg_1770427203107.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [{
+                            "contents": [{
+                                    "streams": [{
+                                            "image": {
+                                                "display": "contain",
+                                                "shape": "square",
+                                                "url": "https://ibg_JJ9VTmg_1770427203107.webp",
+                                                "height": 101,
+                                                "width": 155
+                                            },
+                                            "stream_links": [
+												{
+                                                    "url": "https://xlz.livecdnem.com/ajannel43.m3u8",
+                                                    "type": "hls",
+                                                    "default": true
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+				{
+                    "name": "Netherlands (w)U16 C",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://ibg_JJ9VTmg_1770427203107.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [{
+                            "contents": [{
+                                    "streams": [{
+                                            "image": {
+                                                "display": "contain",
+                                                "shape": "square",
+                                                "url": "https://ibg_JJ9VTmg_1770427203107.webp",
+                                                "height": 101,
+                                                "width": 155
+                                            },
+                                            "stream_links": [
+												{
+                                                    "url": "https://xlz.livecdnem.com/ajannel43.m3u8",
+                                                    "type": "hls",
+                                                    "default": true
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+			]
+        },
+		{
+            "id": "volleyball",
+            "name": "Bóng chuyền",
+            "display": "horizontal",
+            "grid_number": 2,
+            "enable_detail": false,
+            "channels": [
+{
+                    "name": "⚽ Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/JJ9VTmg"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/JJ9VTmg"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
+                        "title": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
+                        "description": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02"
+                    }
+                },
+{
+                    "name": "⚽ ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/qLZ8OSS"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/qLZ8OSS"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
+                        "title": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
+                        "description": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02"
+                    }
+                },
+{
+                    "name": "⚽ Brabrand vs Kisvarda II | 19:00 09/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/dMpaFnH"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/dMpaFnH"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
+                        "title": "Brabrand vs Kisvarda II | 19:00 09/02",
+                        "description": "Brabrand vs Kisvarda II | 19:00 09/02"
+                    }
+                }
             ]
         },
+		{
+            "id": "tennis",
+            "name": "Tennis",
+            "display": "horizontal",
+            "grid_number": 2,
+            "enable_detail": false,
+            "channels": [
+{
+                    "name": "⚽ Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/JJ9VTmg"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/JJ9VTmg"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
+                        "title": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
+                        "description": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02"
+                    }
+                },
+{
+                    "name": "⚽ ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/qLZ8OSS"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/qLZ8OSS"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
+                        "title": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
+                        "description": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02"
+                    }
+                },
+{
+                    "name": "⚽ Brabrand vs Kisvarda II | 19:00 09/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/dMpaFnH"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/dMpaFnH"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
+                        "title": "Brabrand vs Kisvarda II | 19:00 09/02",
+                        "description": "Brabrand vs Kisvarda II | 19:00 09/02"
+                    }
+                }
+            ]
+        },
+		{
+            "id": "basketball",
+            "name": "Bóng rổ",
+            "display": "horizontal",
+            "grid_number": 2,
+            "enable_detail": false,
+            "channels": [
+{
+                    "name": "⚽ Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/JJ9VTmg"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/JJ9VTmg"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
+                        "title": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
+                        "description": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02"
+                    }
+                },
+{
+                    "name": "⚽ ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/qLZ8OSS"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/qLZ8OSS"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
+                        "title": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
+                        "description": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02"
+                    }
+                },
+{
+                    "name": "⚽ Brabrand vs Kisvarda II | 19:00 09/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/dMpaFnH"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/dMpaFnH"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
+                        "title": "Brabrand vs Kisvarda II | 19:00 09/02",
+                        "description": "Brabrand vs Kisvarda II | 19:00 09/02"
+                    }
+                }
+            ]
+        },
+		{
+            "id": "badminton",
+            "name": "Cầu lông",
+            "display": "horizontal",
+            "grid_number": 2,
+            "enable_detail": false,
+            "channels": [
+{
+                    "name": "⚽ Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/JJ9VTmg"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/JJ9VTmg"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
+                        "title": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
+                        "description": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02"
+                    }
+                },
+{
+                    "name": "⚽ ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/qLZ8OSS"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/qLZ8OSS"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
+                        "title": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
+                        "description": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02"
+                    }
+                },
+{
+                    "name": "⚽ Brabrand vs Kisvarda II | 19:00 09/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/dMpaFnH"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/dMpaFnH"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
+                        "title": "Brabrand vs Kisvarda II | 19:00 09/02",
+                        "description": "Brabrand vs Kisvarda II | 19:00 09/02"
+                    }
+                }
+            ]
+        },
+		{
+            "id": "esport",
+            "name": "Thể thao điện tử",
+            "display": "horizontal",
+            "grid_number": 2,
+            "enable_detail": false,
+            "channels": [
+{
+                    "name": "⚽ Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/JJ9VTmg"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/JJ9VTmg"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_JJ9VTmg_1770427203107.webp",
+                        "title": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02",
+                        "description": "Netherlands (w)U16 vs Mexico (W) U16 | 18:00 09/02"
+                    }
+                },
+{
+                    "name": "⚽ ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/qLZ8OSS"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/qLZ8OSS"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_qLZ8OSS_1770571922702.webp",
+                        "title": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02",
+                        "description": "ZFK Masinac (w) vs Zfk Ljuboten (w) | 19:00 09/02"
+                    }
+                },
+{
+                    "name": "⚽ Brabrand vs Kisvarda II | 19:00 09/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/dMpaFnH"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/dMpaFnH"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260209/bg_dMpaFnH_1770625441847.webp",
+                        "title": "Brabrand vs Kisvarda II | 19:00 09/02",
+                        "description": "Brabrand vs Kisvarda II | 19:00 09/02"
+                    }
+                }
+            ]
+        }
     ],
+    "org_metadata": {
+        "title": "Xoilacz AI",
+        "description": "Xoilacz AI - Trực tiếp Bóng Đá",
+        "image": "https://static.savethislife.com/images/logo.ai.png"
+    },
+    "notice": {
+        "id": "notice",
+        "link": "https://t.me/xemgicungshare",
+        "text": "",
+        "icon": "https://vbtv.pro/tele.png",
+        "closeable": true
+    },
     "option": {
         "save_history": false,
         "save_search_history": false,
