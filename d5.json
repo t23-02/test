@@ -1,0 +1,303 @@
+{
+    "id": "zzz",
+    "name": "Zzz",
+    "url": "https://media.hth4nh.eu.org/home",
+    "color": "#000000",
+    "image": {
+        "url": "https://media.hth4nh.eu.org/static/img/logo-zzz.png",
+        "display": "cover"
+    },
+    "description": "Zzz",
+    "share": {
+        "url": "https://media.hth4nh.eu.org/home"
+    },
+    "notice": {
+        "closeable": true,
+        "icon": "https://media.hth4nh.eu.org/static/img/tele.png",
+        "id": "notice",
+        "link": "https://t.me/zzz_monplayer",
+        "text": "Zzz"
+    },
+    "groups": [{
+            "id": "music-vn",
+            "name": "Nhạc Việt",
+            "channels": [
+			{
+                    "id": "10443",
+                    "name": "V-POP",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/8/e/4/08e4104877db6c9a77d6fc42f0a17a8b.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [{
+                            "id": "10443",
+                            "name": "",
+                            "contents": [{
+                                    "id": "10443",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [{
+                                            "id": "10443",
+                                            "name": "Nhạc Việt thời nay!",
+                                            "stream_links": [{
+                                                    "id": "bach-default",
+                                                    "name": "M1",
+                                                    "type": "webview",
+                                                    "default": false,
+                                                    "url": "https://xlz.livecdnem.com/ajax/chanel/type/5/link/channel22",
+                                                    "request_headers": [{
+                                                            "key": "User-Agent",
+                                                            "value": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36"
+                                                        }, {
+                                                            "key": "Referer",
+                                                            "value": "https://xlz.livecdnem.com/"
+                                                        }
+                                                    ]
+                                                }, {
+                                                    "id": "bach-luyen-thanh-than--0-2-default",
+                                                    "name": "Mặc Định 10003",
+                                                    "type": "hls",
+                                                    "default": false,
+                                                    "url": "https://d.nst4285.workers.dev/x9ktvy4"
+                                                }, {
+                                                    "id": "bach-luyen-thanh-than--0-2-default",
+                                                    "name": "Mặc Định 11",
+                                                    "type": "webview",
+                                                    "default": false,
+                                                    "url": "https://embed1.streamc.xyz/embed.php?hash=c74846d43770dbbd4e96ba434c281c0c",
+                                                    "request_headers": [{
+                                                            "key": "User-Agent",
+                                                            "value": "MonPlayer"
+                                                        }, {
+                                                            "key": "Referer",
+                                                            "value": "https://embed1.streamc.xyz/embed.php?hash=c74846d43770dbbd4e96ba434c281c0c"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+,
+			{
+                    "id": "10443",
+                    "name": "V-POP",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/8/e/4/08e4104877db6c9a77d6fc42f0a17a8b.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [{
+                            "id": "10443",
+                            "name": "",
+                            "contents": [{
+                                    "id": "10443",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [{
+                                            "id": "10443",
+                                            "name": "Nhạc Việt thời nay!",
+                                            "stream_links": [{
+                                                    "id": "bach-default",
+                                                    "name": "M1",
+                                                    "type": "webview",
+                                                    "default": false,
+                                                    "url": "https://xlz.livecdnem.com/ajax/chanel/type/5/link/channel22",
+                                                    "request_headers": [{
+                                                            "key": "User-Agent",
+                                                            "value": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36"
+                                                        }, {
+                                                            "key": "Referer",
+                                                            "value": "https://xlz.livecdnem.com/"
+                                                        }
+                                                    ]
+                                                }, {
+                                                    "id": "bach-luyen-thanh-than--0-2-default",
+                                                    "name": "Mặc Định 10003",
+                                                    "type": "hls",
+                                                    "default": false,
+                                                    "url": "https://d.nst4285.workers.dev/x9ktvy4"
+                                                }, {
+                                                    "id": "bach-luyen-thanh-than--0-2-default",
+                                                    "name": "Mặc Định 11",
+                                                    "type": "webview",
+                                                    "default": false,
+                                                    "url": "https://embed1.streamc.xyz/embed.php?hash=c74846d43770dbbd4e96ba434c281c0c",
+                                                    "request_headers": [{
+                                                            "key": "User-Agent",
+                                                            "value": "MonPlayer"
+                                                        }, {
+                                                            "key": "Referer",
+                                                            "value": "https://embed1.streamc.xyz/embed.php?hash=c74846d43770dbbd4e96ba434c281c0c"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+,
+			{
+                    "id": "10443",
+                    "name": "V-POP",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/8/e/4/08e4104877db6c9a77d6fc42f0a17a8b.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [{
+                            "id": "10443",
+                            "name": "",
+                            "contents": [{
+                                    "id": "10443",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [{
+                                            "id": "10443",
+                                            "name": "Nhạc Việt thời nay!",
+                                            "stream_links": [{
+                                                    "id": "bach-default",
+                                                    "name": "M1",
+                                                    "type": "webview",
+                                                    "default": false,
+                                                    "url": "https://xlz.livecdnem.com/ajax/chanel/type/5/link/channel22",
+                                                    "request_headers": [{
+                                                            "key": "User-Agent",
+                                                            "value": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36"
+                                                        }, {
+                                                            "key": "Referer",
+                                                            "value": "https://xlz.livecdnem.com/"
+                                                        }
+                                                    ]
+                                                }, {
+                                                    "id": "bach-luyen-thanh-than--0-2-default",
+                                                    "name": "Mặc Định 10003",
+                                                    "type": "hls",
+                                                    "default": false,
+                                                    "url": "https://d.nst4285.workers.dev/x9ktvy4"
+                                                }, {
+                                                    "id": "bach-luyen-thanh-than--0-2-default",
+                                                    "name": "Mặc Định 11",
+                                                    "type": "webview",
+                                                    "default": false,
+                                                    "url": "https://embed1.streamc.xyz/embed.php?hash=c74846d43770dbbd4e96ba434c281c0c",
+                                                    "request_headers": [{
+                                                            "key": "User-Agent",
+                                                            "value": "MonPlayer"
+                                                        }, {
+                                                            "key": "Referer",
+                                                            "value": "https://embed1.streamc.xyz/embed.php?hash=c74846d43770dbbd4e96ba434c281c0c"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+
+            ]
+        }, {
+            "id": "music-vn",
+            "name": "Nhạc V",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [{
+                    "id": "10443",
+                    "name": "V-POP",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/8/e/4/08e4104877db6c9a77d6fc42f0a17a8b.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [{
+                            "id": "10443",
+                            "name": "",
+                            "contents": [{
+                                    "id": "10443",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [{
+                                            "id": "10443",
+                                            "name": "Nhạc Việt thời nay!",
+                                            "stream_links": [{
+                                                    "id": "bach-default",
+                                                    "name": "M1",
+                                                    "type": "webview",
+                                                    "default": false,
+                                                    "url": "https://xlz.livecdnem.com/ajax/chanel/type/5/link/channel22",
+                                                    "request_headers": [{
+                                                            "key": "User-Agent",
+                                                            "value": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36"
+                                                        }, {
+                                                            "key": "Referer",
+                                                            "value": "https://xlz.livecdnem.com/"
+                                                        }
+                                                    ]
+                                                }, {
+                                                    "id": "bach-luyen-thanh-than--0-2-default",
+                                                    "name": "Mặc Định 10003",
+                                                    "type": "hls",
+                                                    "default": false,
+                                                    "url": "https://d.nst4285.workers.dev/x9ktvy4"
+                                                }, {
+                                                    "id": "bach-luyen-thanh-than--0-2-default",
+                                                    "name": "Mặc Định 11",
+                                                    "type": "webview",
+                                                    "default": false,
+                                                    "url": "https://embed1.streamc.xyz/embed.php?hash=c74846d43770dbbd4e96ba434c281c0c",
+                                                    "request_headers": [{
+                                                            "key": "User-Agent",
+                                                            "value": "MonPlayer"
+                                                        }, {
+                                                            "key": "Referer",
+                                                            "value": "https://embed1.streamc.xyz/embed.php?hash=c74846d43770dbbd4e96ba434c281c0c"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+
+    ],
+    "option": {
+        "save_history": false,
+        "save_search_history": false,
+        "save_wishlist": false
+    }
+}
