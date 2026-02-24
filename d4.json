@@ -1,0 +1,163 @@
+{
+    "id": "zzz",
+    "name": "Zzz ver 1",
+    "url": "https://media.hth4nh.eu.org/home",
+    "color": "#000000",
+    "image": {
+        "url": "https://media.hth4nh.eu.org/static/img/logo-zzz.png",
+        "display": "cover"
+    },
+    "description": "Link json Bún Chả",
+    "notice": {
+        "closeable": true,
+        "icon": "https://media.hth4nh.eu.org/static/img/tele.png",
+        "id": "notice",
+        "link": "https://t.me/zzz_monplayer",
+        "text": "Liên hệ nsx Zzz"
+    },
+    "groups": [
+		{
+            "id": "football",
+            "name": "Bóng đá",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [
+				{
+                    "id": "10443",
+                    "name": "A vs B",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/8/e/4/08e4104877db6c9a77d6fc42f0a17a8b.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [{
+                            "id": "10443",
+                            "name": "",
+                            "contents": [{
+                                    "id": "10443",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [{
+                                            "id": "10443",
+                                            "name": "Nhạc Việt thời nay",
+                                            "stream_links": [
+												{
+                                                    "id": "10443_1",
+                                                    "name": "Link 1",
+                                                    "type": "hls",
+                                                    "default": false,
+                                                    "url": "https://d.nst4285.workers.dev/x9ktvy4"
+                                                    "request_headers": [{
+                                                            "key": "User-Agent",
+                                                            "value": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36"
+                                                        }, {
+                                                            "key": "Referer",
+                                                            "value": "https://xlz.livecdnem.com/"
+                                                        }
+                                                    ]
+                                                },
+												{
+                                                    "id": "10443_2",
+                                                    "name": "Link 2",
+                                                    "type": "hls",
+                                                    "default": false,
+                                                    "url": "https://d.nst4285.workers.dev/x9ktvy4"
+                                                    "request_headers": [{
+                                                            "key": "User-Agent",
+                                                            "value": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36"
+                                                        }, {
+                                                            "key": "Referer",
+                                                            "value": "https://xlz.livecdnem.com/"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+		{
+            "id": "volleyball",
+            "name": "Bóng chuyền",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [
+				{
+                    "id": "10445",
+                    "name": "B vs C",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/8/e/4/08e4104877db6c9a77d6fc42f0a17a8b.jpg",
+                        "display": "cover",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "type": "single",
+                    "enable_detail": false,
+                    "sources": [{
+                            "id": "10445",
+                            "name": "",
+                            "contents": [{
+                                    "id": "10445",
+                                    "name": "",
+                                    "grid_number": 1,
+                                    "streams": [{
+                                            "id": "10445",
+                                            "name": "Trận B vs C",
+                                            "stream_links": [
+												{
+                                                    "id": "10445_1",
+                                                    "name": "Link 1",
+                                                    "type": "hls",
+                                                    "default": false,
+                                                    "url": "https://d.nst4285.workers.dev/x9ktvy4"
+                                                    "request_headers": [{
+                                                            "key": "User-Agent",
+                                                            "value": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36"
+                                                        }, {
+                                                            "key": "Referer",
+                                                            "value": "https://xlz.livecdnem.com/"
+                                                        }
+                                                    ]
+                                                },
+												{
+                                                    "id": "10445_2",
+                                                    "name": "Link 2",
+                                                    "type": "hls",
+                                                    "default": false,
+                                                    "url": "https://d.nst4285.workers.dev/x9ktvy4"
+                                                    "request_headers": [{
+                                                            "key": "User-Agent",
+                                                            "value": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36"
+                                                        }, {
+                                                            "key": "Referer",
+                                                            "value": "https://xlz.livecdnem.com/"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "option": {
+        "save_history": false,
+        "save_search_history": false,
+        "save_wishlist": false
+    }
+}
