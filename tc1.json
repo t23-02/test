@@ -1,6 +1,3 @@
-Hãy code php để đọc json thapcam.json và tạo json dạng như tc.json
-Với các giá trị channels được lấy từ biến id, name kèm thời gian lấy từ thapcam.json
-
 {
     "id": "thapcamtv",
     "name": "ThapcamTV",
@@ -724,3 +721,4 @@ Với các giá trị channels được lấy từ biến id, name kèm thời g
         "save_wishlist": false
     }
 }
+
