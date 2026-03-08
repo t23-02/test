@@ -1,0 +1,1263 @@
+{
+    "id": "thapcamtv",
+    "name": "ThapcamTV",
+    "description": "Trực tiếp Bóng Đá",
+    "color": "#01912f",
+    "url": "https://thapcamtvbc.mobi/",
+    "disable_ads": true,
+    "grid_number": 3,
+    "image": {
+        "type": "cover",
+        "url": "https://thapcamtvbc.mobi/img/favicon.png"
+    },
+    "groups": [
+		{
+            "id": "upcoming",
+            "name": "🔥 Live",
+            "image": null,
+            "display": "vertical",
+            "grid_number": 2,
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://vbtv.pro/group/upcoming"
+            },
+            "channels": [
+				{
+                    "id": "D7367K1",
+                    "name": "⚽ Monaco or Qarabağ vs Paris or Newcastle | 00:45 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_D7367K1_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/D7367K1"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/D7367K1"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_D7367K1_1770919202757.webp",
+                        "title": "Monaco or Qarabağ vs Paris or Newcastle | 00:45 19/02",
+                        "description": "Monaco or Qarabağ vs Paris or Newcastle | 00:45 19/02"
+                    }
+                }, {
+                    "id": "SKA2Oj9",
+                    "name": "⚽ Real Madrid (w) vs Paris FC (w) | 00:45 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_SKA2Oj9_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/SKA2Oj9"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/SKA2Oj9"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_SKA2Oj9_1770919202757.webp",
+                        "title": "Real Madrid (w) vs Paris FC (w) | 00:45 19/02",
+                        "description": "Real Madrid (w) vs Paris FC (w) | 00:45 19/02"
+                    }
+                }, {
+                    "id": "JkCaHCA",
+                    "name": "⚽ Winterthur vs St. Gallen | 01:00 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260118/bg_JkCaHCA_1768154162031.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/JkCaHCA"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/JkCaHCA"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260118/bg_JkCaHCA_1768154162031.webp",
+                        "title": "Winterthur vs St. Gallen | 01:00 19/02",
+                        "description": "Winterthur vs St. Gallen | 01:00 19/02"
+                    }
+                }, {
+                    "id": "K5TLl9C",
+                    "name": "⚽ Al Nassr vs Arkadag FK | 01:15 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_K5TLl9C_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/K5TLl9C"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/K5TLl9C"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_K5TLl9C_1770919202757.webp",
+                        "title": "Al Nassr vs Arkadag FK | 01:15 19/02",
+                        "description": "Al Nassr vs Arkadag FK | 01:15 19/02"
+                    }
+                }, {
+                    "id": "v2QhZFP",
+                    "name": "⚽ Al Ahli vs Sepahan | 01:15 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_v2QhZFP_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/v2QhZFP"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/v2QhZFP"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_v2QhZFP_1770919202757.webp",
+                        "title": "Al Ahli vs Sepahan | 01:15 19/02",
+                        "description": "Al Ahli vs Sepahan | 01:15 19/02"
+                    }
+                }, {
+                    "id": "C7iXkLz",
+                    "name": "⚽ Levante vs Villarreal | 02:00 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20251215/bg_C7iXkLz_1765216921608.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/C7iXkLz"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/C7iXkLz"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20251215/bg_C7iXkLz_1765216921608.webp",
+                        "title": "Levante vs Villarreal | 02:00 19/02",
+                        "description": "Levante vs Villarreal | 02:00 19/02"
+                    }
+                }, {
+                    "id": "SwgubCy",
+                    "name": "⚽ Porto BA vs Serra Branca EC | 02:00 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_SwgubCy_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/SwgubCy"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/SwgubCy"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_SwgubCy_1770919202757.webp",
+                        "title": "Porto BA vs Serra Branca EC | 02:00 19/02",
+                        "description": "Porto BA vs Serra Branca EC | 02:00 19/02"
+                    }
+                }, {
+                    "id": "QJfwK8y",
+                    "name": "⚽ Maguary PE vs Club Laguna SAF | 02:30 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_QJfwK8y_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/QJfwK8y"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/QJfwK8y"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_QJfwK8y_1770919202757.webp",
+                        "title": "Maguary PE vs Club Laguna SAF | 02:30 19/02",
+                        "description": "Maguary PE vs Club Laguna SAF | 02:30 19/02"
+                    }
+                }, {
+                    "id": "rgqwZ9I",
+                    "name": "⚽ Wigan Athletic vs Luton Town | 02:45 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_rgqwZ9I_1770919252945.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/rgqwZ9I"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/rgqwZ9I"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_rgqwZ9I_1770919252945.webp",
+                        "title": "Wigan Athletic vs Luton Town | 02:45 19/02",
+                        "description": "Wigan Athletic vs Luton Town | 02:45 19/02"
+                    }
+                }, {
+                    "id": "KjbOpPX",
+                    "name": "⚽ Aberdeen vs Motherwell | 02:45 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_KjbOpPX_1770919252945.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/KjbOpPX"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/KjbOpPX"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_KjbOpPX_1770919252945.webp",
+                        "title": "Aberdeen vs Motherwell | 02:45 19/02",
+                        "description": "Aberdeen vs Motherwell | 02:45 19/02"
+                    }
+                }, {
+                    "id": "IT0Fanx",
+                    "name": "⚽ Benfica or Bodø/Glimt vs Inter or Real Madrid | 03:00 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_IT0Fanx_1770919252945.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/IT0Fanx"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/IT0Fanx"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_IT0Fanx_1770919252945.webp",
+                        "title": "Benfica or Bodø/Glimt vs Inter or Real Madrid | 03:00 19/02",
+                        "description": "Benfica or Bodø/Glimt vs Inter or Real Madrid | 03:00 19/02"
+                    }
+                }, {
+                    "id": "PznFay6",
+                    "name": "⚽ Club Brugge or Galatasaray vs Juventus or Atleti | 03:00 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_PznFay6_1770919252945.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/PznFay6"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/PznFay6"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_PznFay6_1770919252945.webp",
+                        "title": "Club Brugge or Galatasaray vs Juventus or Atleti | 03:00 19/02",
+                        "description": "Club Brugge or Galatasaray vs Juventus or Atleti | 03:00 19/02"
+                    }
+                }
+            ]
+        },
+		{
+            "id": "upcoming",
+            "name": "🔥 Live",
+            "image": null,
+            "display": "vertical",
+            "grid_number": 2,
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://vbtv.pro/group/upcoming"
+            },
+            "channels": [
+				{
+                    "id": "D7367K1",
+                    "name": "⚽ Monaco or Qarabağ vs Paris or Newcastle | 00:45 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_D7367K1_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/D7367K1"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/D7367K1"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_D7367K1_1770919202757.webp",
+                        "title": "Monaco or Qarabağ vs Paris or Newcastle | 00:45 19/02",
+                        "description": "Monaco or Qarabağ vs Paris or Newcastle | 00:45 19/02"
+                    }
+                }, {
+                    "id": "SKA2Oj9",
+                    "name": "⚽ Real Madrid (w) vs Paris FC (w) | 00:45 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_SKA2Oj9_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/SKA2Oj9"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/SKA2Oj9"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_SKA2Oj9_1770919202757.webp",
+                        "title": "Real Madrid (w) vs Paris FC (w) | 00:45 19/02",
+                        "description": "Real Madrid (w) vs Paris FC (w) | 00:45 19/02"
+                    }
+                }, {
+                    "id": "JkCaHCA",
+                    "name": "⚽ Winterthur vs St. Gallen | 01:00 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260118/bg_JkCaHCA_1768154162031.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/JkCaHCA"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/JkCaHCA"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260118/bg_JkCaHCA_1768154162031.webp",
+                        "title": "Winterthur vs St. Gallen | 01:00 19/02",
+                        "description": "Winterthur vs St. Gallen | 01:00 19/02"
+                    }
+                }, {
+                    "id": "K5TLl9C",
+                    "name": "⚽ Al Nassr vs Arkadag FK | 01:15 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_K5TLl9C_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/K5TLl9C"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/K5TLl9C"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_K5TLl9C_1770919202757.webp",
+                        "title": "Al Nassr vs Arkadag FK | 01:15 19/02",
+                        "description": "Al Nassr vs Arkadag FK | 01:15 19/02"
+                    }
+                }, {
+                    "id": "v2QhZFP",
+                    "name": "⚽ Al Ahli vs Sepahan | 01:15 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_v2QhZFP_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/v2QhZFP"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/v2QhZFP"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_v2QhZFP_1770919202757.webp",
+                        "title": "Al Ahli vs Sepahan | 01:15 19/02",
+                        "description": "Al Ahli vs Sepahan | 01:15 19/02"
+                    }
+                }, {
+                    "id": "C7iXkLz",
+                    "name": "⚽ Levante vs Villarreal | 02:00 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20251215/bg_C7iXkLz_1765216921608.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/C7iXkLz"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/C7iXkLz"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20251215/bg_C7iXkLz_1765216921608.webp",
+                        "title": "Levante vs Villarreal | 02:00 19/02",
+                        "description": "Levante vs Villarreal | 02:00 19/02"
+                    }
+                }, {
+                    "id": "SwgubCy",
+                    "name": "⚽ Porto BA vs Serra Branca EC | 02:00 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_SwgubCy_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/SwgubCy"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/SwgubCy"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_SwgubCy_1770919202757.webp",
+                        "title": "Porto BA vs Serra Branca EC | 02:00 19/02",
+                        "description": "Porto BA vs Serra Branca EC | 02:00 19/02"
+                    }
+                }, {
+                    "id": "QJfwK8y",
+                    "name": "⚽ Maguary PE vs Club Laguna SAF | 02:30 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_QJfwK8y_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/QJfwK8y"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/QJfwK8y"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_QJfwK8y_1770919202757.webp",
+                        "title": "Maguary PE vs Club Laguna SAF | 02:30 19/02",
+                        "description": "Maguary PE vs Club Laguna SAF | 02:30 19/02"
+                    }
+                }, {
+                    "id": "rgqwZ9I",
+                    "name": "⚽ Wigan Athletic vs Luton Town | 02:45 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_rgqwZ9I_1770919252945.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/rgqwZ9I"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/rgqwZ9I"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_rgqwZ9I_1770919252945.webp",
+                        "title": "Wigan Athletic vs Luton Town | 02:45 19/02",
+                        "description": "Wigan Athletic vs Luton Town | 02:45 19/02"
+                    }
+                }, {
+                    "id": "KjbOpPX",
+                    "name": "⚽ Aberdeen vs Motherwell | 02:45 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_KjbOpPX_1770919252945.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/KjbOpPX"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/KjbOpPX"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_KjbOpPX_1770919252945.webp",
+                        "title": "Aberdeen vs Motherwell | 02:45 19/02",
+                        "description": "Aberdeen vs Motherwell | 02:45 19/02"
+                    }
+                }, {
+                    "id": "IT0Fanx",
+                    "name": "⚽ Benfica or Bodø/Glimt vs Inter or Real Madrid | 03:00 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_IT0Fanx_1770919252945.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/IT0Fanx"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/IT0Fanx"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_IT0Fanx_1770919252945.webp",
+                        "title": "Benfica or Bodø/Glimt vs Inter or Real Madrid | 03:00 19/02",
+                        "description": "Benfica or Bodø/Glimt vs Inter or Real Madrid | 03:00 19/02"
+                    }
+                }, {
+                    "id": "PznFay6",
+                    "name": "⚽ Club Brugge or Galatasaray vs Juventus or Atleti | 03:00 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_PznFay6_1770919252945.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/PznFay6"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/PznFay6"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_PznFay6_1770919252945.webp",
+                        "title": "Club Brugge or Galatasaray vs Juventus or Atleti | 03:00 19/02",
+                        "description": "Club Brugge or Galatasaray vs Juventus or Atleti | 03:00 19/02"
+                    }
+                }
+            ]
+        },
+		{
+            "id": "upcoming",
+            "name": "🔥 Live",
+            "image": null,
+            "display": "vertical",
+            "grid_number": 2,
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://vbtv.pro/group/upcoming"
+            },
+            "channels": [
+				{
+                    "id": "D7367K1",
+                    "name": "⚽ Monaco or Qarabağ vs Paris or Newcastle | 00:45 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_D7367K1_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/D7367K1"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/D7367K1"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_D7367K1_1770919202757.webp",
+                        "title": "Monaco or Qarabağ vs Paris or Newcastle | 00:45 19/02",
+                        "description": "Monaco or Qarabağ vs Paris or Newcastle | 00:45 19/02"
+                    }
+                }, {
+                    "id": "SKA2Oj9",
+                    "name": "⚽ Real Madrid (w) vs Paris FC (w) | 00:45 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_SKA2Oj9_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/SKA2Oj9"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/SKA2Oj9"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_SKA2Oj9_1770919202757.webp",
+                        "title": "Real Madrid (w) vs Paris FC (w) | 00:45 19/02",
+                        "description": "Real Madrid (w) vs Paris FC (w) | 00:45 19/02"
+                    }
+                }, {
+                    "id": "JkCaHCA",
+                    "name": "⚽ Winterthur vs St. Gallen | 01:00 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260118/bg_JkCaHCA_1768154162031.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/JkCaHCA"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/JkCaHCA"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260118/bg_JkCaHCA_1768154162031.webp",
+                        "title": "Winterthur vs St. Gallen | 01:00 19/02",
+                        "description": "Winterthur vs St. Gallen | 01:00 19/02"
+                    }
+                }, {
+                    "id": "K5TLl9C",
+                    "name": "⚽ Al Nassr vs Arkadag FK | 01:15 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_K5TLl9C_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/K5TLl9C"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/K5TLl9C"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_K5TLl9C_1770919202757.webp",
+                        "title": "Al Nassr vs Arkadag FK | 01:15 19/02",
+                        "description": "Al Nassr vs Arkadag FK | 01:15 19/02"
+                    }
+                }, {
+                    "id": "v2QhZFP",
+                    "name": "⚽ Al Ahli vs Sepahan | 01:15 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_v2QhZFP_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/v2QhZFP"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/v2QhZFP"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_v2QhZFP_1770919202757.webp",
+                        "title": "Al Ahli vs Sepahan | 01:15 19/02",
+                        "description": "Al Ahli vs Sepahan | 01:15 19/02"
+                    }
+                }, {
+                    "id": "C7iXkLz",
+                    "name": "⚽ Levante vs Villarreal | 02:00 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20251215/bg_C7iXkLz_1765216921608.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/C7iXkLz"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/C7iXkLz"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20251215/bg_C7iXkLz_1765216921608.webp",
+                        "title": "Levante vs Villarreal | 02:00 19/02",
+                        "description": "Levante vs Villarreal | 02:00 19/02"
+                    }
+                }, {
+                    "id": "SwgubCy",
+                    "name": "⚽ Porto BA vs Serra Branca EC | 02:00 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_SwgubCy_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/SwgubCy"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/SwgubCy"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_SwgubCy_1770919202757.webp",
+                        "title": "Porto BA vs Serra Branca EC | 02:00 19/02",
+                        "description": "Porto BA vs Serra Branca EC | 02:00 19/02"
+                    }
+                }, {
+                    "id": "QJfwK8y",
+                    "name": "⚽ Maguary PE vs Club Laguna SAF | 02:30 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_QJfwK8y_1770919202757.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/QJfwK8y"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/QJfwK8y"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_QJfwK8y_1770919202757.webp",
+                        "title": "Maguary PE vs Club Laguna SAF | 02:30 19/02",
+                        "description": "Maguary PE vs Club Laguna SAF | 02:30 19/02"
+                    }
+                }, {
+                    "id": "rgqwZ9I",
+                    "name": "⚽ Wigan Athletic vs Luton Town | 02:45 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_rgqwZ9I_1770919252945.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/rgqwZ9I"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/rgqwZ9I"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_rgqwZ9I_1770919252945.webp",
+                        "title": "Wigan Athletic vs Luton Town | 02:45 19/02",
+                        "description": "Wigan Athletic vs Luton Town | 02:45 19/02"
+                    }
+                }, {
+                    "id": "KjbOpPX",
+                    "name": "⚽ Aberdeen vs Motherwell | 02:45 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_KjbOpPX_1770919252945.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/KjbOpPX"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/KjbOpPX"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_KjbOpPX_1770919252945.webp",
+                        "title": "Aberdeen vs Motherwell | 02:45 19/02",
+                        "description": "Aberdeen vs Motherwell | 02:45 19/02"
+                    }
+                }, {
+                    "id": "IT0Fanx",
+                    "name": "⚽ Benfica or Bodø/Glimt vs Inter or Real Madrid | 03:00 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_IT0Fanx_1770919252945.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/IT0Fanx"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/IT0Fanx"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_IT0Fanx_1770919252945.webp",
+                        "title": "Benfica or Bodø/Glimt vs Inter or Real Madrid | 03:00 19/02",
+                        "description": "Benfica or Bodø/Glimt vs Inter or Real Madrid | 03:00 19/02"
+                    }
+                }, {
+                    "id": "PznFay6",
+                    "name": "⚽ Club Brugge or Galatasaray vs Juventus or Atleti | 03:00 19/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 1,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mvb/20260219/bg_PznFay6_1770919252945.webp",
+                        "width": 760,
+                        "height": 616
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [{
+                            "text": "⏳ Sắp Live",
+                            "position": "bottom-right",
+                            "color": "#00ffffff",
+                            "text_color": "#d54f1a"
+                        }
+                    ],
+                    "share": {
+                        "url": "https://vbtv.pro/match/PznFay6"
+                    },
+                    "remote_data": {
+                        "url": "https://vbtv.pro/match/PznFay6"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mvb/20260219/bg_PznFay6_1770919252945.webp",
+                        "title": "Club Brugge or Galatasaray vs Juventus or Atleti | 03:00 19/02",
+                        "description": "Club Brugge or Galatasaray vs Juventus or Atleti | 03:00 19/02"
+                    }
+                }
+            ]
+        }		
+    ],
+    "sorts": [],
+    "org_metadata": {
+        "title": "ThapcamTV",
+        "description": "ThapcamTV Trực tiếp Bóng Đá",
+        "image": "https://thapcamtvbc.mobi/img/favicon.png"
+    },
+    "notice": {
+        "id": "notice",
+        "link": "https://t.me/xemgicungshare",
+        "text": "",
+        "icon": "https://vbtv.pro/tele.png",
+        "closeable": true
+    },
+    "option": {
+        "save_history": false,
+        "save_search_history": false,
+        "save_wishlist": false
+    }
+}
