@@ -1,0 +1,1121 @@
+{
+    "grid_number": 3,
+    "channels": [{
+            "id": "ngheo",
+            "name": "Nghèo",
+            "description": "Sau vụ cướp máy bay IC-814 năm 1999 và vụ tấn công Quốc hội năm 2001, Giám...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/ngheo-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://wbd.x10.bz/monplayer/1.php"
+            },
+            "enable_detail": true
+        }, {
+            "id": "chuc-ban-vui-ve",
+            "name": "Chúc bạn vui vẻ",
+            "description": "Một tin đồn về một bà nội trợ bình dị đe dọa làm xáo trộn cuộc sống gia...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/chuc-ban-vui-ve-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/chuc-ban-vui-ve"
+            },
+            "enable_detail": true
+        }, {
+            "id": "citadel-honey-and-bunny",
+            "name": "Citadel: Honey & Bunny",
+            "description": "Citadel: Honey Bunny là phần phim truyền hình hành động gián điệp Ấn Độ nói...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/citadel-honey-and-bunny-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ 6 tập",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/citadel-honey-and-bunny"
+            },
+            "enable_detail": true
+        }, {
+            "id": "120-bahadur",
+            "name": "120 Bahadur",
+            "description": "Valiant Indian soldiers fight against Chinese troops during the 1962 Sino-Indian War, preventing a...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/120-bahadur-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/120-bahadur"
+            },
+            "enable_detail": true
+        }, {
+            "id": "taskaree-mang-luoi-buon-lau",
+            "name": "Taskaree: Mạng lưới buôn lậu",
+            "description": "Một viên chức hải quan tận tâm và đội của anh ta đối đầu với một tên...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/taskaree-mang-luoi-buon-lau-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ 7 tập",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/taskaree-mang-luoi-buon-lau"
+            },
+            "enable_detail": true
+        }, {
+            "id": "kantara-huyen-thoai-chuong-1",
+            "name": "Kantara - Huyền Thoại: Chương 1",
+            "description": "Trong thời kỳ trị vì của triều đại Kadamba, vua Vijayendra, người cai trị vùng...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/kantara-huyen-thoai-chuong-1-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trailer",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/kantara-huyen-thoai-chuong-1"
+            },
+            "enable_detail": true
+        }, {
+            "id": "baahubali-bo-phim-su-thi",
+            "name": "Baahubali: Bộ phim sử thi",
+            "description": "Khi một đứa trẻ bí ẩn được một cặp vợ chồng bộ lạc tìm thấy gần...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/baahubali-bo-phim-su-thi-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trailer",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/baahubali-bo-phim-su-thi"
+            },
+            "enable_detail": true
+        }, {
+            "id": "dau-nanh",
+            "name": "Đậu nành",
+            "description": "Phó cảnh sát trưởng Veer Sooryavanshi, người đứng đầu Đội Chống Khủng bố...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/dau-nanh-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/dau-nanh"
+            },
+            "enable_detail": true
+        }, {
+            "id": "dem-co-quanh-tham-sat-gia-dinh-bansal",
+            "name": "Đêm Cô Quạnh: Thảm Sát Gia Đình Bansal",
+            "description": "Khi các thành viên của gia đình Bansal được phát hiện bị sát hại, thanh tra...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/dem-co-quanh-tham-sat-gia-dinh-bansal-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/dem-co-quanh-tham-sat-gia-dinh-bansal"
+            },
+            "enable_detail": true
+        }, {
+            "id": "mai-moi-an-do-phan-2",
+            "name": "Mai mối Ấn Độ (Phần 2)",
+            "description": "Sima Taparia, bà mai yêu thích của mọi người, sẽ trở lại trong một mùa khác...",
+            "image": {
+                "url": "https://p21-ad-sg.ibyteimg.com/obj/ad-site-i18n-sg/202503195d0d7d0e4ede8ddc4e039fe0",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ 8 tập",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/mai-moi-an-do-phan-2"
+            },
+            "enable_detail": true
+        }, {
+            "id": "bo-don-than",
+            "name": "Bố Đơn Thân",
+            "description": "Khi tìm thấy một đứa bé ở phía sau xe, Gaurav buộc phải vượt qua gia đình...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/bo-don-than-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ 6 tập",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/bo-don-than"
+            },
+            "enable_detail": true
+        }, {
+            "id": "stephen",
+            "name": "Stephen",
+            "description": "Một bác sĩ tâm thần điều tra một sát nhân hàng loạt đã tự thú sau khi chín...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/stephen-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/stephen"
+            },
+            "enable_detail": true
+        }, {
+            "id": "them-4-ly-nua-nhe-phan-2",
+            "name": "Thêm 4 ly nữa nhé! (Phần 2)",
+            "description": "Bốn người bạn thân sẽ lại ôm nhau và bảo thế giới hãy ngồi xuống và chú...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/them-4-ly-nua-nhe-phan-2-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ 10 tập",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/them-4-ly-nua-nhe-phan-2"
+            },
+            "enable_detail": true
+        }, {
+            "id": "them-4-ly-nua-nhe-phan-1",
+            "name": "Thêm 4 ly nữa nhé! (Phần 1)",
+            "description": "Bốn người phụ nữ không hề có khuyết điểm sống, yêu, mắc sai lầm và khám...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/them-4-ly-nua-nhe-phan-1-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ 10 tập",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/them-4-ly-nua-nhe-phan-1"
+            },
+            "enable_detail": true
+        }, {
+            "id": "stitch-head",
+            "name": "Stitch Head",
+            "description": "Stitch Head, sinh vật “gần như sống” đầu tiên của giáo sư Erasmus, dành đời...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/stitch-head-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/stitch-head"
+            },
+            "enable_detail": true
+        }, {
+            "id": "mat-vu-nam-vung",
+            "name": "Mật Vụ Nằm Vùng",
+            "description": "Giết người thuê để phạm tội thì bạn đã giết người trái pháp luật. Họ...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/mat-vu-nam-vung-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trailer",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/mat-vu-nam-vung"
+            },
+            "enable_detail": true
+        }, {
+            "id": "dung-bua-cung-nha-kapoor",
+            "name": "Dùng Bữa Cùng Nhà Kapoor",
+            "description": "Tác phẩm đặc biệt này mang đến góc nhìn hiếm hoi về gia đình Kapoor, gia tộc...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/dung-bua-cung-nha-kapoor-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/dung-bua-cung-nha-kapoor"
+            },
+            "enable_detail": true
+        }, {
+            "id": "lamput-phan-4",
+            "name": "Lamput (Phần 4)",
+            "description": "Lamput là một chất lỏng màu cam nhớt nhớt thoát ra từ một phòng thí nghiệm bí...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/lamput-phan-4-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ 31 tập",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/lamput-phan-4"
+            },
+            "enable_detail": true
+        }, {
+            "id": "trong-dam-may",
+            "name": "Trong đám mây",
+            "description": "Sumi là một cô gái đang trong mối quan hệ đồng tính nữ. Akash trở thành một...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/trong-dam-may-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/trong-dam-may"
+            },
+            "enable_detail": true
+        }, {
+            "id": "baramulla",
+            "name": "Baramulla",
+            "description": "Baramulla ẩn chứa nhiều điều hơn bề ngoài. Khi một cảnh sát điều tra những...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/baramulla-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/baramulla"
+            },
+            "enable_detail": true
+        }, {
+            "id": "de-che-bao-thu",
+            "name": "Đế Chế Báo Thù",
+            "description": "Sau nhiều năm ẩn danh, Stephen Nedumpally – kẻ hai mặt giữa chính trị gia và trùm...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/de-che-bao-thu-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/de-che-bao-thu"
+            },
+            "enable_detail": true
+        }, {
+            "id": "veera-simha-reddy",
+            "name": "Veera Simha Reddy",
+            "description": "Jai Simha Reddy, một doanh nhân người Thổ Nhĩ Kỳ, con trai cưng của Meenakshi, đem...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/veera-simha-reddy-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/veera-simha-reddy"
+            },
+            "enable_detail": true
+        }, {
+            "id": "hoang-de-tro-lai",
+            "name": "Hoàng Đế Trở Lại",
+            "description": "Tại Sri Lanka, viên cảnh sát trẻ Suri được giao nhiệm vụ nguy hiểm — thâm...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/hoang-de-tro-lai-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/hoang-de-tro-lai"
+            },
+            "enable_detail": true
+        }, {
+            "id": "gangster-da-hoan-luong",
+            "name": "gangster đã hoàn lương",
+            "description": "Một tên gangster đã hoàn lương, giờ là tài xế taxi, vô tình trở thành mục...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/gangster-da-hoan-luong-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/gangster-da-hoan-luong"
+            },
+            "enable_detail": true
+        }, {
+            "id": "huyen-thoai-ben-cang",
+            "name": "Huyền Thoại Bến Cảng",
+            "description": "Một người đàn ông mang trong mình nỗi đau và thù hận từ thời niên thiếu,...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/huyen-thoai-ben-cang-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/huyen-thoai-ben-cang"
+            },
+            "enable_detail": true
+        }, {
+            "id": "truy-lung-trum-khung-bo-2",
+            "name": "Truy Lùng Trùm Khủng Bố 2",
+            "description": "Kabir, từng là biểu tượng của lực lượng đặc nhiệm Ấn Độ, nay trở thành...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/truy-lung-trum-khung-bo-2-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/truy-lung-trum-khung-bo-2"
+            },
+            "enable_detail": true
+        }, {
+            "id": "japan",
+            "name": "Japan",
+            "description": "Một phiên bản hư cấu về các sự kiện xoay quanh tên tội phạm khét tiếng...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/japan-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/japan"
+            },
+            "enable_detail": true
+        }, {
+            "id": "ke-hoach-cua-quy-du-2023",
+            "name": "Kế Hoạch Của Quỷ Dữ",
+            "description": "Một điệp viên Anh nhận nhiệm vụ giải quyết một bí ẩn đen tối. Anh bị...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/ke-hoach-cua-quy-du-2023-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/ke-hoach-cua-quy-du-2023"
+            },
+            "enable_detail": true
+        }, {
+            "id": "dai-uy-miller",
+            "name": "Đại Uý Miller",
+            "description": "Một người đàn ông đã rời bỏ quay lại quân đội Ấn Độ do Anh lãnh đạo...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/dai-uy-miller-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/dai-uy-miller"
+            },
+            "enable_detail": true
+        }, {
+            "id": "chien-binh-2024",
+            "name": "chiến binh",
+            "description": "Khi bọn khủng bố cướp một chiếc máy bay chở khách, một biệt kích bị đình...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/chien-binh-2024-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/chien-binh-2024"
+            },
+            "enable_detail": true
+        }, {
+            "id": "thu-bay-khong-du",
+            "name": "Thứ bảy không đủ",
+            "description": "Lấy bối cảnh ở Sokulapalem, bị ràng buộc bởi lời hứa với mẹ mình, Surya,...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/thu-bay-khong-du-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/thu-bay-khong-du"
+            },
+            "enable_detail": true
+        }, {
+            "id": "mathu-vadalara-2",
+            "name": "Đừng say rượu 2",
+            "description": "Babu and Yesu, former delivery agents, embark on a thrilling mission as special agents, facing...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/mathu-vadalara-2-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/mathu-vadalara-2"
+            },
+            "enable_detail": true
+        }, {
+            "id": "noi-loan-3",
+            "name": "nội loạn 3",
+            "description": "Một người đàn ông lao vào cuộc tàn sát đẫm máu để cứu người anh trai bị...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/noi-loan-3-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/noi-loan-3"
+            },
+            "enable_detail": true
+        }, {
+            "id": "agni",
+            "name": "Agni",
+            "description": "Trong một thành phố đang bị tàn phá bởi sự gia tăng bất thường của các vụ...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/agni-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/agni"
+            },
+            "enable_detail": true
+        }, {
+            "id": "rocky-anh-tho-may-ba-dao",
+            "name": "Rocky: Anh Thợ Máy Bá Đạo",
+            "description": "Câu chuyện xoay quanh Rakesh, biệt danh \"Rocky\", một thợ máy trẻ sống cùng cha...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/rocky-anh-tho-may-ba-dao-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/rocky-anh-tho-may-ba-dao"
+            },
+            "enable_detail": true
+        }, {
+            "id": "kurukshetra-dai-chien-mahabharata",
+            "name": "Kurukshetra: Đại Chiến Mahabharata",
+            "description": "Từ Arjun và Bheem đến Duryodhan và Karn, loạt phim hoạt hình tái hiện \"Mahabharata\"...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/kurukshetra-dai-chien-mahabharata-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Tập 9",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/kurukshetra-dai-chien-mahabharata"
+            },
+            "enable_detail": true
+        }, {
+            "id": "cuoc-dua-tinh-ai",
+            "name": "Cuộc đua tình ái",
+            "description": "Raghu và Zoya đang tận hưởng cuộc sống bên nhau cho đến khi một thủ lĩnh băng...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/cuoc-dua-tinh-ai-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/cuoc-dua-tinh-ai"
+            },
+            "enable_detail": true
+        }, {
+            "id": "dieu-370",
+            "name": "Điều 370",
+            "description": "Trước một quyết định hiến pháp quan trọng khiến Điều 370 của nhà nước...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/dieu-370-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Tập 0",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/dieu-370"
+            },
+            "enable_detail": true
+        }, {
+            "id": "khuay-dao-bollywood",
+            "name": "Khuấy Đảo Bollywood",
+            "description": "Trong loạt phim chính kịch đầy rủi ro này, một kẻ ngoại đạo tham vọng cùng...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/khuay-dao-bollywood-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ 7 tập",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/khuay-dao-bollywood"
+            },
+            "enable_detail": true
+        }, {
+            "id": "cuoc-chien",
+            "name": "Cuộc Chiến",
+            "description": "Một phi đội trưởng liều lĩnh nhưng tài giỏi và đội phi công chiến đấu ưu...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/cuoc-chien-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/cuoc-chien"
+            },
+            "enable_detail": true
+        }, {
+            "id": "quyen-quy",
+            "name": "Quyền Quý",
+            "description": "Một thỏa thuận kinh doanh nhanh chóng biến thành xung đột về quan điểm và...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/quyen-quy-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ 8 tập",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/quyen-quy"
+            },
+            "enable_detail": true
+        }, {
+            "id": "cid-phan-2",
+            "name": "C.I.D (phần 2)",
+            "description": "C.I.D. Sudhakaran is assigned to investigate the murder of Mukunda Menon, a wealthy planter.",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/cid-phan-2-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/cid-phan-2"
+            },
+            "enable_detail": true
+        }, {
+            "id": "devara-part-1",
+            "name": "Devara: Part 1",
+            "description": "Devara, a fearless man from a coastal region, embarks on a perilous journey into the treacherous...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/devara-part-1-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Tập 0",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/devara-part-1"
+            },
+            "enable_detail": true
+        }, {
+            "id": "bagheera",
+            "name": "Bagheera",
+            "description": "Dismayed by corruption and violence, a virtuous police officer becomes a masked vigilante to dliver...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/bagheera-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/bagheera"
+            },
+            "enable_detail": true
+        }, {
+            "id": "tin-hieu-vu-tru",
+            "name": "Tín Hiệu Vũ Trụ",
+            "description": "Hạ cánh khẩn cấp vì một tai nạn bất ngờ, anh ấy phải đi tìm “lẽ sống”...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/tin-hieu-vu-tru-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/tin-hieu-vu-tru"
+            },
+            "enable_detail": true
+        }, {
+            "id": "martin",
+            "name": "Martin",
+            "description": "Martin revolves around Lt. Brigadier Arjun Saxena, whose journey takes him from Pakistan to India...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/martin-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/martin"
+            },
+            "enable_detail": true
+        }, {
+            "id": "thanh-tra-zende",
+            "name": "Thanh tra Zende",
+            "description": "Khi kẻ giết người hàng loạt Carl Bhojraj vượt ngục và tái xuất ở Mumbai, thanh...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/thanh-tra-zende-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/thanh-tra-zende"
+            },
+            "enable_detail": true
+        }, {
+            "id": "singham-again",
+            "name": "Singham Again",
+            "description": "The cop universe expands with newer additions while the old ones return led by Bajirao Singham....",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/singham-again-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/singham-again"
+            },
+            "enable_detail": true
+        }, {
+            "id": "pushpa-2-the-rule",
+            "name": "Pushpa 2 - The Rule",
+            "description": "As his smuggling empire grows, a brazen Pushpa longs for power and respect on his vengeful journey,...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/pushpa-2-the-rule-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/pushpa-2-the-rule"
+            },
+            "enable_detail": true
+        }, {
+            "id": "retro",
+            "name": "Retro",
+            "description": "Raised by a criminal father, Paarivel Kannan leaves behind his adoptive family to build a quiet...",
+            "image": {
+                "url": "https://img.ophim.live/uploads/movies/ரெட்ரோ-thumb.jpg",
+                "type": "cover",
+                "width": 480,
+                "height": 640
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Trọn bộ",
+                "position": "top-left",
+                "color": "#35ba8b",
+                "text_color": "#ffffff"
+            },
+            "remote_data": {
+                "url": "https://media.hth4nh.eu.org/ophim/detail/retro"
+            },
+            "enable_detail": true
+        }
+    ],
+    "load_more": {
+        "remote_data": {
+            "url": "https://media.hth4nh.eu.org/ophim/sort/country/an-do",
+            "external": false
+        },
+        "paging": {
+            "page_key": "p",
+            "size_key": "s"
+        },
+        "pageInfo": {
+            "current_page": 1,
+            "total": 478,
+            "per_page": 50,
+            "last_page": 10
+        }
+    }
+}
