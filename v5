@@ -1,0 +1,1194 @@
+{
+    "id": "thapcamtv",
+    "color": "#dd5916",
+    "name": "Thập Cẩm TV",
+    "url": "https://tctv.pro/",
+    "description": "Kênh cập nhật link xem trực tiếp bóng đá, bóng chuyền, bóng rổ và các môn thể thao khác cho Fan hâm mộ Việt Nam và Quốc tế qua kết nối Internet",
+    "disable_ads": true,
+    "grid_number": 3,
+    "image": {
+        "type": "cover",
+        "url": "https://tctv.pro/10cam-logo-app-light.jpg"
+    },
+    "groups": [
+		{
+            "id": "upcoming",
+            "name": "🔥Tâm Điểm Thể Thao",
+            "image": null,
+            "channels": [
+		{
+                    "id": "VVQKYS6",
+                    "name": "🏐 Rush & Cash vs Kepco | 17:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_VVQKYS6_1770310850624.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/VVQKYS6"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/VVQKYS6"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_VVQKYS6_1770310850624.webp",
+                        "title": "Rush & Cash vs Kepco | 17:00 11/02",
+                        "description": "Rush & Cash vs Kepco | 17:00 11/02"
+                    }
+                }, {
+                    "id": "iauf2bo",
+                    "name": "🏐 GS Caltex W vs Pepper Savings Bank W | 17:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_iauf2bo_1770310850624.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/iauf2bo"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/iauf2bo"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_iauf2bo_1770310850624.webp",
+                        "title": "GS Caltex W vs Pepper Savings Bank W | 17:00 11/02",
+                        "description": "GS Caltex W vs Pepper Savings Bank W | 17:00 11/02"
+                    }
+                }, {
+                    "id": "U5f13pG",
+                    "name": "🏐 Novosibirsk vs Din. Moscow | 19:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_U5f13pG_1770307321412.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/U5f13pG"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/U5f13pG"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_U5f13pG_1770307321412.webp",
+                        "title": "Novosibirsk vs Din. Moscow | 19:00 11/02",
+                        "description": "Novosibirsk vs Din. Moscow | 19:00 11/02"
+                    }
+                }, {
+                    "id": "CSXBn1p",
+                    "name": "🏐 Kemerovo vs Ufa | 19:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_CSXBn1p_1770294721422.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/CSXBn1p"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/CSXBn1p"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_CSXBn1p_1770294721422.webp",
+                        "title": "Kemerovo vs Ufa | 19:00 11/02",
+                        "description": "Kemerovo vs Ufa | 19:00 11/02"
+                    }
+                }, {
+                    "id": "Hw5arsB",
+                    "name": "🏐 Omsk W vs Dynamo Kazan W | 20:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_Hw5arsB_1770310802203.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/Hw5arsB"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/Hw5arsB"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_Hw5arsB_1770310802203.webp",
+                        "title": "Omsk W vs Dynamo Kazan W | 20:00 11/02",
+                        "description": "Omsk W vs Dynamo Kazan W | 20:00 11/02"
+                    }
+                }, {
+                    "id": "ynTcmOH",
+                    "name": "🏐 Uralochka-NTMK W vs Metar Chelyabinsk W | 20:30 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_ynTcmOH_1770310802203.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/ynTcmOH"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/ynTcmOH"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_ynTcmOH_1770310802203.webp",
+                        "title": "Uralochka-NTMK W vs Metar Chelyabinsk W | 20:30 11/02",
+                        "description": "Uralochka-NTMK W vs Metar Chelyabinsk W | 20:30 11/02"
+                    }
+                }, {
+                    "id": "qOKNHcb",
+                    "name": "🏐 Novokuybyshevsk vs ASK N. Novgorod | 22:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_qOKNHcb_1770305521254.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/qOKNHcb"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/qOKNHcb"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_qOKNHcb_1770305521254.webp",
+                        "title": "Novokuybyshevsk vs ASK N. Novgorod | 22:00 11/02",
+                        "description": "Novokuybyshevsk vs ASK N. Novgorod | 22:00 11/02"
+                    }
+                }, {
+                    "id": "ouCpECH",
+                    "name": "🏐 Minchanka W vs Dynamo Moscow W | 22:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_ouCpECH_1770310802203.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/ouCpECH"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/ouCpECH"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_ouCpECH_1770310802203.webp",
+                        "title": "Minchanka W vs Dynamo Moscow W | 22:00 11/02",
+                        "description": "Minchanka W vs Dynamo Moscow W | 22:00 11/02"
+                    }
+                }, {
+                    "id": "KkltlSa",
+                    "name": "🏐 Dinamo-Lo vs Krasnoyarsk | 23:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_KkltlSa_1770293041487.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/KkltlSa"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/KkltlSa"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_KkltlSa_1770293041487.webp",
+                        "title": "Dinamo-Lo vs Krasnoyarsk | 23:00 11/02",
+                        "description": "Dinamo-Lo vs Krasnoyarsk | 23:00 11/02"
+                    }
+                }, {
+                    "id": "LGGsDAK",
+                    "name": "🏐 Zalau vs Altekma | 23:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_LGGsDAK_1770310802203.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/LGGsDAK"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/LGGsDAK"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_LGGsDAK_1770310802203.webp",
+                        "title": "Zalau vs Altekma | 23:00 11/02",
+                        "description": "Zalau vs Altekma | 23:00 11/02"
+                    }
+                }, {
+                    "id": "o2VhxdM",
+                    "name": "🏐 Belgorod vs Novyi Urengoy | 23:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_o2VhxdM_1770282121384.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/o2VhxdM"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/o2VhxdM"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_o2VhxdM_1770282121384.webp",
+                        "title": "Belgorod vs Novyi Urengoy | 23:00 11/02",
+                        "description": "Belgorod vs Novyi Urengoy | 23:00 11/02"
+                    }
+                }, {
+                    "id": "mCTjHIM",
+                    "name": "🏐 Budowlani Lodz W vs Wroclaw W | 23:30 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_mCTjHIM_1770310850624.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/mCTjHIM"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/mCTjHIM"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_mCTjHIM_1770310850624.webp",
+                        "title": "Budowlani Lodz W vs Wroclaw W | 23:30 11/02",
+                        "description": "Budowlani Lodz W vs Wroclaw W | 23:30 11/02"
+                    }
+                }
+            ],
+            "display": "vertical",
+            "grid_number": 2,
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://tctv.pro/group/upcoming"
+            }
+        }, {
+            "id": "volleyball",
+            "name": "🏐Bóng chuyền",
+            "image": null,
+            "channels": [
+		{
+                    "id": "VVQKYS6",
+                    "name": "🏐 Rush & Cash vs Kepco | 17:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_VVQKYS6_1770310850624.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/VVQKYS6"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/VVQKYS6"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_VVQKYS6_1770310850624.webp",
+                        "title": "Rush & Cash vs Kepco | 17:00 11/02",
+                        "description": "Rush & Cash vs Kepco | 17:00 11/02"
+                    }
+                }, {
+                    "id": "iauf2bo",
+                    "name": "🏐 GS Caltex W vs Pepper Savings Bank W | 17:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_iauf2bo_1770310850624.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/iauf2bo"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/iauf2bo"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_iauf2bo_1770310850624.webp",
+                        "title": "GS Caltex W vs Pepper Savings Bank W | 17:00 11/02",
+                        "description": "GS Caltex W vs Pepper Savings Bank W | 17:00 11/02"
+                    }
+                }, {
+                    "id": "U5f13pG",
+                    "name": "🏐 Novosibirsk vs Din. Moscow | 19:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_U5f13pG_1770307321412.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/U5f13pG"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/U5f13pG"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_U5f13pG_1770307321412.webp",
+                        "title": "Novosibirsk vs Din. Moscow | 19:00 11/02",
+                        "description": "Novosibirsk vs Din. Moscow | 19:00 11/02"
+                    }
+                }, {
+                    "id": "CSXBn1p",
+                    "name": "🏐 Kemerovo vs Ufa | 19:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_CSXBn1p_1770294721422.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/CSXBn1p"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/CSXBn1p"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_CSXBn1p_1770294721422.webp",
+                        "title": "Kemerovo vs Ufa | 19:00 11/02",
+                        "description": "Kemerovo vs Ufa | 19:00 11/02"
+                    }
+                }, {
+                    "id": "Hw5arsB",
+                    "name": "🏐 Omsk W vs Dynamo Kazan W | 20:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_Hw5arsB_1770310802203.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/Hw5arsB"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/Hw5arsB"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_Hw5arsB_1770310802203.webp",
+                        "title": "Omsk W vs Dynamo Kazan W | 20:00 11/02",
+                        "description": "Omsk W vs Dynamo Kazan W | 20:00 11/02"
+                    }
+                }, {
+                    "id": "ynTcmOH",
+                    "name": "🏐 Uralochka-NTMK W vs Metar Chelyabinsk W | 20:30 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_ynTcmOH_1770310802203.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/ynTcmOH"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/ynTcmOH"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_ynTcmOH_1770310802203.webp",
+                        "title": "Uralochka-NTMK W vs Metar Chelyabinsk W | 20:30 11/02",
+                        "description": "Uralochka-NTMK W vs Metar Chelyabinsk W | 20:30 11/02"
+                    }
+                }, {
+                    "id": "qOKNHcb",
+                    "name": "🏐 Novokuybyshevsk vs ASK N. Novgorod | 22:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_qOKNHcb_1770305521254.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/qOKNHcb"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/qOKNHcb"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_qOKNHcb_1770305521254.webp",
+                        "title": "Novokuybyshevsk vs ASK N. Novgorod | 22:00 11/02",
+                        "description": "Novokuybyshevsk vs ASK N. Novgorod | 22:00 11/02"
+                    }
+                }, {
+                    "id": "ouCpECH",
+                    "name": "🏐 Minchanka W vs Dynamo Moscow W | 22:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_ouCpECH_1770310802203.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/ouCpECH"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/ouCpECH"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_ouCpECH_1770310802203.webp",
+                        "title": "Minchanka W vs Dynamo Moscow W | 22:00 11/02",
+                        "description": "Minchanka W vs Dynamo Moscow W | 22:00 11/02"
+                    }
+                }, {
+                    "id": "KkltlSa",
+                    "name": "🏐 Dinamo-Lo vs Krasnoyarsk | 23:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_KkltlSa_1770293041487.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/KkltlSa"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/KkltlSa"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_KkltlSa_1770293041487.webp",
+                        "title": "Dinamo-Lo vs Krasnoyarsk | 23:00 11/02",
+                        "description": "Dinamo-Lo vs Krasnoyarsk | 23:00 11/02"
+                    }
+                }, {
+                    "id": "LGGsDAK",
+                    "name": "🏐 Zalau vs Altekma | 23:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_LGGsDAK_1770310802203.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/LGGsDAK"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/LGGsDAK"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_LGGsDAK_1770310802203.webp",
+                        "title": "Zalau vs Altekma | 23:00 11/02",
+                        "description": "Zalau vs Altekma | 23:00 11/02"
+                    }
+                }, {
+                    "id": "o2VhxdM",
+                    "name": "🏐 Belgorod vs Novyi Urengoy | 23:00 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_o2VhxdM_1770282121384.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/o2VhxdM"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/o2VhxdM"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_o2VhxdM_1770282121384.webp",
+                        "title": "Belgorod vs Novyi Urengoy | 23:00 11/02",
+                        "description": "Belgorod vs Novyi Urengoy | 23:00 11/02"
+                    }
+                }, {
+                    "id": "mCTjHIM",
+                    "name": "🏐 Budowlani Lodz W vs Wroclaw W | 23:30 11/02",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260211/bg_mCTjHIM_1770310850624.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/mCTjHIM"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/mCTjHIM"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260211/bg_mCTjHIM_1770310850624.webp",
+                        "title": "Budowlani Lodz W vs Wroclaw W | 23:30 11/02",
+                        "description": "Budowlani Lodz W vs Wroclaw W | 23:30 11/02"
+                    }
+                }, {
+                    "id": "l2p4CRf",
+                    "name": "🏐 Rzeszow vs Zawiercie | 00:00 12/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260212/bg_l2p4CRf_1770397202967.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/l2p4CRf"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/l2p4CRf"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260212/bg_l2p4CRf_1770397202967.webp",
+                        "title": "Rzeszow vs Zawiercie | 00:00 12/02/2026",
+                        "description": "Rzeszow vs Zawiercie | 00:00 12/02/2026"
+                    }
+                }, {
+                    "id": "boBjy6y",
+                    "name": "🏐 Cuneo W vs Bergamo W | 01:30 12/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260212/bg_boBjy6y_1770397202967.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/boBjy6y"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/boBjy6y"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260212/bg_boBjy6y_1770397202967.webp",
+                        "title": "Cuneo W vs Bergamo W | 01:30 12/02/2026",
+                        "description": "Cuneo W vs Bergamo W | 01:30 12/02/2026"
+                    }
+                }, {
+                    "id": "AM482GE",
+                    "name": "🏐 Slepsk Suwalki vs Kedzierzyn-Kozle | 02:00 12/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260212/bg_AM482GE_1770397259258.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/AM482GE"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/AM482GE"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260212/bg_AM482GE_1770397259258.webp",
+                        "title": "Slepsk Suwalki vs Kedzierzyn-Kozle | 02:00 12/02/2026",
+                        "description": "Slepsk Suwalki vs Kedzierzyn-Kozle | 02:00 12/02/2026"
+                    }
+                }, {
+                    "id": "ZW80H4v",
+                    "name": "🏐 Perugia W vs UYBA Busto Arsizio W | 02:00 12/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260212/bg_ZW80H4v_1770397202967.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/ZW80H4v"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/ZW80H4v"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260212/bg_ZW80H4v_1770397202967.webp",
+                        "title": "Perugia W vs UYBA Busto Arsizio W | 02:00 12/02/2026",
+                        "description": "Perugia W vs UYBA Busto Arsizio W | 02:00 12/02/2026"
+                    }
+                }, {
+                    "id": "UWD9Zr7",
+                    "name": "🏐 Bielsko-Biala W vs Mielec W | 02:00 12/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260110/bg_UWD9Zr7_1767538321572.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/UWD9Zr7"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/UWD9Zr7"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260110/bg_UWD9Zr7_1767538321572.webp",
+                        "title": "Bielsko-Biala W vs Mielec W | 02:00 12/02/2026",
+                        "description": "Bielsko-Biala W vs Mielec W | 02:00 12/02/2026"
+                    }
+                }, {
+                    "id": "Kiihrdp",
+                    "name": "🏐 Tours vs Ziraat Bankasi | 02:00 12/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260212/bg_Kiihrdp_1770397202967.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/Kiihrdp"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/Kiihrdp"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260212/bg_Kiihrdp_1770397202967.webp",
+                        "title": "Tours vs Ziraat Bankasi | 02:00 12/02/2026",
+                        "description": "Tours vs Ziraat Bankasi | 02:00 12/02/2026"
+                    }
+                }, {
+                    "id": "aGTmlqn",
+                    "name": "🏐 Milano W vs San Giovanni W | 02:00 12/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260212/bg_aGTmlqn_1770397202967.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/aGTmlqn"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/aGTmlqn"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260212/bg_aGTmlqn_1770397202967.webp",
+                        "title": "Milano W vs San Giovanni W | 02:00 12/02/2026",
+                        "description": "Milano W vs San Giovanni W | 02:00 12/02/2026"
+                    }
+                }, {
+                    "id": "GKuzrAy",
+                    "name": "🏐 Vallefoglia W vs Scandicci W | 02:30 12/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260212/bg_GKuzrAy_1770397202967.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/GKuzrAy"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/GKuzrAy"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260212/bg_GKuzrAy_1770397202967.webp",
+                        "title": "Vallefoglia W vs Scandicci W | 02:30 12/02/2026",
+                        "description": "Vallefoglia W vs Scandicci W | 02:30 12/02/2026"
+                    }
+                }, {
+                    "id": "c0OGmjA",
+                    "name": "🏐 Macerata W vs Novara W | 02:30 12/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260212/bg_c0OGmjA_1770397202967.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/c0OGmjA"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/c0OGmjA"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260212/bg_c0OGmjA_1770397202967.webp",
+                        "title": "Macerata W vs Novara W | 02:30 12/02/2026",
+                        "description": "Macerata W vs Novara W | 02:30 12/02/2026"
+                    }
+                }, {
+                    "id": "fTEdvnt",
+                    "name": "🏐 Pinerolo W vs Chieri '76 W | 02:30 12/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260212/bg_fTEdvnt_1770397202967.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/fTEdvnt"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/fTEdvnt"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260212/bg_fTEdvnt_1770397202967.webp",
+                        "title": "Pinerolo W vs Chieri '76 W | 02:30 12/02/2026",
+                        "description": "Pinerolo W vs Chieri '76 W | 02:30 12/02/2026"
+                    }
+                }, {
+                    "id": "kj2rifP",
+                    "name": "🏐 Haasrode Leuven vs Projekt Warszawa | 02:30 12/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260212/bg_kj2rifP_1770397202967.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/kj2rifP"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/kj2rifP"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260212/bg_kj2rifP_1770397202967.webp",
+                        "title": "Haasrode Leuven vs Projekt Warszawa | 02:30 12/02/2026",
+                        "description": "Haasrode Leuven vs Projekt Warszawa | 02:30 12/02/2026"
+                    }
+                }, {
+                    "id": "JJVZmHf",
+                    "name": "🏐 Jakarta Elektrik W vs Yogya Falcons W | 16:00 12/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260212/bg_JJVZmHf_1770397259258.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/JJVZmHf"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/JJVZmHf"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260212/bg_JJVZmHf_1770397259258.webp",
+                        "title": "Jakarta Elektrik W vs Yogya Falcons W | 16:00 12/02/2026",
+                        "description": "Jakarta Elektrik W vs Yogya Falcons W | 16:00 12/02/2026"
+                    }
+                }, {
+                    "id": "Ogpwr9E",
+                    "name": "🏐 Jakarta Lavani vs Surabaya Samator | 19:00 12/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260212/bg_Ogpwr9E_1770397259258.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/Ogpwr9E"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/Ogpwr9E"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260212/bg_Ogpwr9E_1770397259258.webp",
+                        "title": "Jakarta Lavani vs Surabaya Samator | 19:00 12/02/2026",
+                        "description": "Jakarta Lavani vs Surabaya Samator | 19:00 12/02/2026"
+                    }
+                }, {
+                    "id": "4dk8pxv",
+                    "name": "🏐 MGTU Moscow vs Yaroslavl | 23:00 12/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260212/bg_4dk8pxv_1770397259258.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/4dk8pxv"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/4dk8pxv"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260212/bg_4dk8pxv_1770397259258.webp",
+                        "title": "MGTU Moscow vs Yaroslavl | 23:00 12/02/2026",
+                        "description": "MGTU Moscow vs Yaroslavl | 23:00 12/02/2026"
+                    }
+                }, {
+                    "id": "lkuoboG",
+                    "name": "🏐 Halkbank vs Lublin | 23:30 12/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260213/bg_lkuoboG_1770465721534.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/lkuoboG"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/lkuoboG"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260213/bg_lkuoboG_1770465721534.webp",
+                        "title": "Halkbank vs Lublin | 23:30 12/02/2026",
+                        "description": "Halkbank vs Lublin | 23:30 12/02/2026"
+                    }
+                }, {
+                    "id": "r7XkBNr",
+                    "name": "🏐 Mogilno W vs Rzeszow W | 23:30 12/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260212/bg_r7XkBNr_1770397202967.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/r7XkBNr"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/r7XkBNr"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260212/bg_r7XkBNr_1770397202967.webp",
+                        "title": "Mogilno W vs Rzeszow W | 23:30 12/02/2026",
+                        "description": "Mogilno W vs Rzeszow W | 23:30 12/02/2026"
+                    }
+                }, {
+                    "id": "Lasjx4N",
+                    "name": "🏐 Odintsovo W vs St. Petersburg W | 23:30 12/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260212/bg_Lasjx4N_1770397259258.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/Lasjx4N"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/Lasjx4N"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260212/bg_Lasjx4N_1770397259258.webp",
+                        "title": "Odintsovo W vs St. Petersburg W | 23:30 12/02/2026",
+                        "description": "Odintsovo W vs St. Petersburg W | 23:30 12/02/2026"
+                    }
+                }, {
+                    "id": "obnnxic",
+                    "name": "🏐 VK Lvi Prague vs Perugia | 00:00 13/02/2026",
+                    "type": "single",
+                    "display": "thumbnail-only",
+                    "image": {
+                        "padding": 0,
+                        "background_color": "#ececec",
+                        "display": "contain",
+                        "url": "https://img-90p.4shares.live/mtc/20260213/bg_obnnxic_1770465841671.webp",
+                        "width": 820,
+                        "height": 540
+                    },
+                    "enable_detail": false,
+                    "sources": [],
+                    "labels": [],
+                    "share": {
+                        "url": "https://tctv.pro/match/obnnxic"
+                    },
+                    "remote_data": {
+                        "url": "https://tctv.pro/match/obnnxic"
+                    },
+                    "org_metadata": {
+                        "image": "https://img-90p.4shares.live/mtc/20260213/bg_obnnxic_1770465841671.webp",
+                        "title": "VK Lvi Prague vs Perugia | 00:00 13/02/2026",
+                        "description": "VK Lvi Prague vs Perugia | 00:00 13/02/2026"
+                    }
+                }
+            ],
+            "display": "horizontal",
+            "grid_number": 2,
+            "enable_detail": true,
+            "remote_data": {
+                "url": "https://tctv.pro/group/volleyball"
+            }
+        }
+    ],
+    "sorts": [],
+    "org_metadata": {
+        "title": "ThapCamTV - Kênh cập nhật link xem trực tiếp bóng đá, bóng chuyền, bóng rổ và các môn thể thao khác",
+        "description": "ThapCamTV - Kênh cập nhật link xem trực tiếp bóng đá, bóng chuyền, bóng rổ và các môn thể thao khác cho Fan hâm mộ Việt Nam và Quốc tế qua kết nối Internet",
+        "image": "https://tctv.pro/share-tc.jpg"
+    },
+    "notice": {
+        "id": "notice",
+        "link": "https://t.me/xemgicungshare",
+        "text": "",
+        "icon": "https://tctv.pro/tele.png",
+        "closeable": true
+    },
+    "option": {
+        "save_history": false,
+        "save_search_history": false,
+        "save_wishlist": false
+    }
+}
