@@ -1,0 +1,540 @@
+{
+    "id": "thapcamtv",
+    "name": "Thập Cẩm TV",
+    "url": "https://thapcamtvbc.mobi/",
+    "color": "#004444",
+    "image": {
+        "url": "https://thapcamtvbc.mobi/img/favicon.png",
+        "type": "cover"
+    },
+    "description": "Kênh xem bóng đá.",
+    "grid_number": 3,
+    "groups": [
+		{
+            "id": "phim-bo",
+            "name": "Phim Bộ",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [
+				{
+                    "id": "duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung",
+                    "name": "Đức Hạnh Đã Chết: Tình Yêu, Lòng Tôn Trọng, Sự Phục Tùng",
+                    "description": "Một kẻ lạ mặt đột nhập vào ngôi nhà của một cặp vợ chồng, trói người...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung"
+                    },
+                    "enable_detail": true
+                }, {
+                    "id": "tuan-tra-dem",
+                    "name": "Tuần Tra Đêm",
+                    "description": "Một cảnh sát ở Los Angeles phát hiện ra rằng một đội đặc nhiệm địa...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/tuan-tra-dem-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/tuan-tra-dem"
+                    },
+                    "enable_detail": true
+                }
+            ]
+        },{
+            "id": "phim-bo",
+            "name": "Phim Bộ",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [
+				{
+                    "id": "duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung",
+                    "name": "Đức Hạnh Đã Chết: Tình Yêu, Lòng Tôn Trọng, Sự Phục Tùng",
+                    "description": "Một kẻ lạ mặt đột nhập vào ngôi nhà của một cặp vợ chồng, trói người...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung"
+                    },
+                    "enable_detail": true
+                }, {
+                    "id": "tuan-tra-dem",
+                    "name": "Tuần Tra Đêm",
+                    "description": "Một cảnh sát ở Los Angeles phát hiện ra rằng một đội đặc nhiệm địa...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/tuan-tra-dem-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/tuan-tra-dem"
+                    },
+                    "enable_detail": true
+                }
+            ]
+        },{
+            "id": "phim-bo",
+            "name": "Phim Bộ",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [
+				{
+                    "id": "duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung",
+                    "name": "Đức Hạnh Đã Chết: Tình Yêu, Lòng Tôn Trọng, Sự Phục Tùng",
+                    "description": "Một kẻ lạ mặt đột nhập vào ngôi nhà của một cặp vợ chồng, trói người...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung"
+                    },
+                    "enable_detail": true
+                }, {
+                    "id": "tuan-tra-dem",
+                    "name": "Tuần Tra Đêm",
+                    "description": "Một cảnh sát ở Los Angeles phát hiện ra rằng một đội đặc nhiệm địa...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/tuan-tra-dem-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/tuan-tra-dem"
+                    },
+                    "enable_detail": true
+                }
+            ]
+        },{
+            "id": "phim-bo",
+            "name": "Phim Bộ",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [
+				{
+                    "id": "duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung",
+                    "name": "Đức Hạnh Đã Chết: Tình Yêu, Lòng Tôn Trọng, Sự Phục Tùng",
+                    "description": "Một kẻ lạ mặt đột nhập vào ngôi nhà của một cặp vợ chồng, trói người...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung"
+                    },
+                    "enable_detail": true
+                }, {
+                    "id": "tuan-tra-dem",
+                    "name": "Tuần Tra Đêm",
+                    "description": "Một cảnh sát ở Los Angeles phát hiện ra rằng một đội đặc nhiệm địa...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/tuan-tra-dem-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/tuan-tra-dem"
+                    },
+                    "enable_detail": true
+                }
+            ]
+        },{
+            "id": "phim-bo",
+            "name": "Phim Bộ",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [
+				{
+                    "id": "duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung",
+                    "name": "Đức Hạnh Đã Chết: Tình Yêu, Lòng Tôn Trọng, Sự Phục Tùng",
+                    "description": "Một kẻ lạ mặt đột nhập vào ngôi nhà của một cặp vợ chồng, trói người...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung"
+                    },
+                    "enable_detail": true
+                }, {
+                    "id": "tuan-tra-dem",
+                    "name": "Tuần Tra Đêm",
+                    "description": "Một cảnh sát ở Los Angeles phát hiện ra rằng một đội đặc nhiệm địa...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/tuan-tra-dem-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/tuan-tra-dem"
+                    },
+                    "enable_detail": true
+                }
+            ]
+        },{
+            "id": "phim-bo",
+            "name": "Phim Bộ",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [
+				{
+                    "id": "duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung",
+                    "name": "Đức Hạnh Đã Chết: Tình Yêu, Lòng Tôn Trọng, Sự Phục Tùng",
+                    "description": "Một kẻ lạ mặt đột nhập vào ngôi nhà của một cặp vợ chồng, trói người...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung"
+                    },
+                    "enable_detail": true
+                }, {
+                    "id": "tuan-tra-dem",
+                    "name": "Tuần Tra Đêm",
+                    "description": "Một cảnh sát ở Los Angeles phát hiện ra rằng một đội đặc nhiệm địa...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/tuan-tra-dem-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/tuan-tra-dem"
+                    },
+                    "enable_detail": true
+                }
+            ]
+        },{
+            "id": "phim-bo",
+            "name": "Phim Bộ",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [
+				{
+                    "id": "duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung",
+                    "name": "Đức Hạnh Đã Chết: Tình Yêu, Lòng Tôn Trọng, Sự Phục Tùng",
+                    "description": "Một kẻ lạ mặt đột nhập vào ngôi nhà của một cặp vợ chồng, trói người...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung"
+                    },
+                    "enable_detail": true
+                }, {
+                    "id": "tuan-tra-dem",
+                    "name": "Tuần Tra Đêm",
+                    "description": "Một cảnh sát ở Los Angeles phát hiện ra rằng một đội đặc nhiệm địa...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/tuan-tra-dem-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/tuan-tra-dem"
+                    },
+                    "enable_detail": true
+                }
+            ]
+        },{
+            "id": "phim-bo",
+            "name": "Phim Bộ",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [
+				{
+                    "id": "duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung",
+                    "name": "Đức Hạnh Đã Chết: Tình Yêu, Lòng Tôn Trọng, Sự Phục Tùng",
+                    "description": "Một kẻ lạ mặt đột nhập vào ngôi nhà của một cặp vợ chồng, trói người...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung"
+                    },
+                    "enable_detail": true
+                }, {
+                    "id": "tuan-tra-dem",
+                    "name": "Tuần Tra Đêm",
+                    "description": "Một cảnh sát ở Los Angeles phát hiện ra rằng một đội đặc nhiệm địa...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/tuan-tra-dem-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/tuan-tra-dem"
+                    },
+                    "enable_detail": true
+                }
+            ]
+        },{
+            "id": "phim-bo",
+            "name": "Phim Bộ",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [
+				{
+                    "id": "duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung",
+                    "name": "Đức Hạnh Đã Chết: Tình Yêu, Lòng Tôn Trọng, Sự Phục Tùng",
+                    "description": "Một kẻ lạ mặt đột nhập vào ngôi nhà của một cặp vợ chồng, trói người...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung"
+                    },
+                    "enable_detail": true
+                }, {
+                    "id": "tuan-tra-dem",
+                    "name": "Tuần Tra Đêm",
+                    "description": "Một cảnh sát ở Los Angeles phát hiện ra rằng một đội đặc nhiệm địa...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/tuan-tra-dem-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/tuan-tra-dem"
+                    },
+                    "enable_detail": true
+                }
+            ]
+        },{
+            "id": "phim-bo",
+            "name": "Phim Bộ",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [
+				{
+                    "id": "duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung",
+                    "name": "Đức Hạnh Đã Chết: Tình Yêu, Lòng Tôn Trọng, Sự Phục Tùng",
+                    "description": "Một kẻ lạ mặt đột nhập vào ngôi nhà của một cặp vợ chồng, trói người...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung"
+                    },
+                    "enable_detail": true
+                }, {
+                    "id": "tuan-tra-dem",
+                    "name": "Tuần Tra Đêm",
+                    "description": "Một cảnh sát ở Los Angeles phát hiện ra rằng một đội đặc nhiệm địa...",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/tuan-tra-dem-thumb.jpg",
+                        "type": "cover",
+                        "width": 480,
+                        "height": 640
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "Trailer",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://media.hth4nh.eu.org/ophim/detail/tuan-tra-dem"
+                    },
+                    "enable_detail": true
+                }
+            ]
+        }
+   ],
+    "option": {
+        "save_history": true,
+        "save_search_history": true,
+        "save_wishlist": true
+    }
+}
