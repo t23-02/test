@@ -1,0 +1,68 @@
+{
+    "id": "thapcamtv",
+    "name": "Thập Cẩm TV",
+    "url": "https://thapcamtvbc.mobi/",
+    "color": "#004444",
+    "image": {
+        "url": "https://thapcamtvbc.mobi/img/favicon.png",
+        "type": "cover"
+    },
+    "description": "Kênh xem bóng đá miễn phí.",
+    "grid_number": 3,
+    "groups": [
+		{
+            "id": "football",
+            "name": "Bóng đá",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [
+				{
+                    "id": "275350",
+                    "name": "C.S.D. Comunicaciones vs CD Achuapa",
+                    "description": "C.S.D. Comunicaciones vs CD Achuapa lúc 09:30 ngày 09/03/2026",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/duc-hanh-da-chet-tinh-yeu-long-ton-trong-su-phuc-tung-thumb.jpg",
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "live",
+                        "position": "top-left",
+                        "color": "#35ba8b",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://tc.nst4285.workers.dev/275350"
+                    },
+                    "enable_detail": false
+                }, {
+                    "id": "275353",
+                    "name": "Club Tijuana vs Santos Laguna",
+                    "description": "Club Tijuana vs Santos Laguna lúc 09:30 ngày 09/03/2026",
+                    "image": {
+                        "url": "https://img.ophim.live/uploads/movies/tuan-tra-dem-thumb.jpg",
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "upcoming",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "remote_data": {
+                        "url": "https://tc.nst4285.workers.dev/275353"
+                    },
+                    "enable_detail": false
+                }
+            ]
+        }
+   ],
+    "option": {
+        "save_history": true,
+        "save_search_history": true,
+        "save_wishlist": true
+    }
+}
