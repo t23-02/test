@@ -1,0 +1,1466 @@
+{
+    "id": "hang-truyen",
+    "name": "Hang Truyện",
+    "color": "#133E87",
+    "description": "HangTruyen là web đọc truyện tranh online hay miễn phí và nhanh nhất. Hang Truyện cập nhật truyện màu Manga,Manhua,Marvel Comics,Manhwa,DC Comics,Kho Truyện full... mới nhanh nhất",
+    "org_metadata": {
+        "image": "https://hangtruyen.co/images/favicon.png",
+        "title": "Hang Truyện",
+        "description": "Hang Truyện"
+    },
+    "image": {
+        "url": "https://ht.khotruyen.link/images/hangtruyen.png",
+        "type": "cover",
+        "width": 512,
+        "height": 512
+    },
+    "url": "http://ht.khotruyen.link",
+    "groups": [{
+            "id": "category-slider",
+            "name": "Thể loại",
+            "display": "slider",
+            "groups": [{
+                    "id": "banner-0",
+                    "name": "Truyện Manhua",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://hangtruyen.co/images/home/mb-52.png",
+                        "width": 550,
+                        "height": 425
+                    },
+                    "display": "text-above",
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/categories/manhua"
+                    }
+                }, {
+                    "id": "banner-1",
+                    "name": "Truyện DC Comics",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://hangtruyen.co/images/home/mb-22.png",
+                        "width": 550,
+                        "height": 425
+                    },
+                    "display": "text-above",
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/categories/dc-comics"
+                    }
+                }, {
+                    "id": "banner-2",
+                    "name": "Truyện Marvel Comics",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://hangtruyen.co/images/home/mb-42.png",
+                        "width": 550,
+                        "height": 425
+                    },
+                    "display": "text-above",
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/categories/marvel-comics"
+                    }
+                }, {
+                    "id": "banner-3",
+                    "name": "Truyện Manga",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://hangtruyen.co/images/home/mb-12.png",
+                        "width": 550,
+                        "height": 425
+                    },
+                    "display": "text-above",
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/categories/manga"
+                    }
+                }, {
+                    "id": "banner-4",
+                    "name": "Truyện Manhwa",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://hangtruyen.co/images/home/mb-33.jpg",
+                        "width": 550,
+                        "height": 425
+                    },
+                    "display": "text-above",
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/categories/manhwa"
+                    }
+                }
+            ],
+            "remote_data": {
+                "url": "http://ht.khotruyen.link/categories"
+            }
+        }, {
+            "id": "popular",
+            "name": "💯Top thịnh hành",
+            "display": "horizontal",
+            "enable_detail": false,
+            "grid_number": 2,
+            "channels": [{
+                    "id": "/truyen-tranh/vo-luyen-dinh-phong-162",
+                    "name": "Võ Luyện Đỉnh Phong",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/c8/1e/vo-luyen-dinh-phong.png",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Dương Khai được sinh ra trong một thế giới võ hiệp, nơi con người có thể tu luyện để đạt được những loại sức mạnh phi thường. Tuy nhiên, hắn lại là một phế vật chính hiệu, không có kinh mạch đồng nghĩa với không thể tu luyện võ công và thăng tiến sức mạnh. Nhưng cuộc đời của Dương Khai đã thay đổi hoàn toàn từ khi hắn vô tình có được một Khí Linh Trúc, giúp hắn khai mở kinh mạch và bắt đầu tu luyện. Với sự kiên trì và nỗ lực không ngừng, Dương Khai đã vượt qua nhiều thử thách gian nan, thu thập được nhiều bí kíp võ công quý hiếm, lập riêng cho mình một dàn mỹ nhân tuyệt sắc và dần trở thành một trong những cường giả mạnh nhất thế giới.",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/vo-luyen-dinh-phong/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/vo-luyen-dinh-phong"
+                    }
+                }, {
+                    "id": "/truyen-tranh/dai-quan-gia-la-ma-hoang-244",
+                    "name": "Đại Quản Gia Là Ma Hoàng",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/4b/24/dai-quan-gia-la-ma-hoang.png",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Thiên thượng thiên hạ, duy ngã độc tôn - Trác Nhất Phàm là kẻ đứng đầu bát hoàng nhưng trong một lần bị bao vây bởi 7 thế lực còn lại, anh đã bị ám sát và được trùng sinh trở thành một đại quản gia của gia tộc đang trên bờ sụp đổ. Dù tu vi đã bị phế bỏ, nhưng hắn lại có tri thức và tham vọng hơn người. Từ đó, Trác Nhất Phàm đã sử dụng tri thức cùng những hiểu biết từ tiền kiếp để tu luyện trở lại thời kỳ đỉnh cao và phục dựng lại gia tộc của mình.",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/dai-quan-gia-la-ma-hoang/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/dai-quan-gia-la-ma-hoang"
+                    }
+                }, {
+                    "id": "/truyen-tranh/chang-re-manh-nhat-lich-su-216",
+                    "name": "Chàng Rể Mạnh Nhất Lịch Sử",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/0d/92/chang-re-manh-nhat-lich-su.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "<p>Thẩm Lãng bị đuổi khỏi nhà vì tội lãng phí thức ăn và oxy, mọi chuyện xảy ra quá nhanh và anh ta bị đưa đến một nơi khác. Để tồn tại trong thế giới mới này, anh ta cần phải học võ thuật, nhưng vì quá lười biếng và yếu đuối nên anh ta quyết định rằng lựa chọn tốt nhất của mình là tìm một cô vợ xinh đẹp, tài giỏi và ở nhà làm một người chồng lý tưởng, tận hưởng cuộc sống sung túc! Và nếu ai dám làm phiền anh ta, anh ta sẽ bảo vợ mình đá đít kẻ đó!</p>",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/chang-re-manh-nhat-lich-su/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/chang-re-manh-nhat-lich-su"
+                    }
+                }, {
+                    "id": "/truyen-tranh/ta-co-mot-son-trai-356",
+                    "name": "Ta Có Một Sơn Trại",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/62/dc/ta-co-mot-son-trai.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Nhân vật chính là sinh viên đại học, trong một tối khi đang chơi con game cùng bạn bè thì đột nhiên anh bị xuyên không ngất đi và khi tỉnh lại anh đã trở thành Trình Đại Lôi, trại chủ của một sơn trại trên núi. Từ đây, anh phải đối mặt với nhiều tình huống dở khóc dở cười khi quản lý các thành viên của băng nhóm, đồng thời phát triển bản thân để bảo vệ ngôi làng của mình khỏi các mối đe dọa bên ngoài. ",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/ta-co-mot-son-trai/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/ta-co-mot-son-trai"
+                    }
+                }, {
+                    "id": "/truyen-tranh/one-punch-man-1269565",
+                    "name": "One Punch Man",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/2024.11.13/eFBaGhXD2T5EBvM4el.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "<p>Thánh Phồng Tôm, Một đấm là nằm, v.v... Tất cả những biệt danh đó nhằm ám chỉ đến tên hói Saitama, người rèn luyện bản thân mình đến hói cả đầu để trở thành siêu anh hùng. Hãy đến với HangTruyen để xem có bao nhiêu main sẽ bị thay bởi boss nhé.</p><p></p>",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/one-punch-man/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/one-punch-man"
+                    }
+                }, {
+                    "id": "/truyen-tranh/nguyen-ton-24",
+                    "name": "Nguyên Tôn",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/93/53/nguyen-ton.png",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Chu Nguyên là hoàng tử nhà họ Chu, sinh ra đã mang trong mình khí chất thánh long trong người. Nhưng anh bị đầu độc khiến cho kinh mạch bị khóa, vận may biến mất khiến bản thân không thể tu luyện và bị đuổi khỏi gia tộc. Anh dựa vào ý chí mạnh mẽ của bản thân để đi tiếp trên con đường mở lại kinh mạch, lấy lại sức mạnh và trên con đường đấy Chu Nguyên đã gặp được Yêu Yêu - định mệnh của đời mình. Từ đó anh tiếp tục bản thân mạnh mẽ hơn và cũng trở thành người đàn ông sợ vợ chính hiệu ",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/nguyen-ton/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/nguyen-ton"
+                    }
+                }, {
+                    "id": "/truyen-tranh/shangri-la-frontier-1184",
+                    "name": "Shangri-La Frontier",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/b4/61/crappy-game-hunter-challenges-god-tier-game.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Nam sinh Hizutome Rakuro, một game thủ chỉ quan tâm đến một chuyện duy nhất là tìm ra những trò chơi rác và phá đảo chúng. Kỹ năng chơi game của anh đã trở nên bất bại, không ai sánh kịp. Thế nên, khi được giới thiệu về game thực tế ảo VR mới, Shangri-La Frontier, anh đã bắt đầu chơi ngay lập tức và bỏ qua hướng dẫn mở đầu. Liệu lão làng game thủ rank thách đấu có thể phá đảo trò chơi này không?",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/shangri-la-frontier/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/shangri-la-frontier"
+                    }
+                }, {
+                    "id": "/truyen-tranh/nguoi-trong-giang-ho-19626",
+                    "name": "Người Trong Giang Hồ",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/18/e8/nguoi-trong-giang-ho.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Người Trong Giang Hồ là một cái tên không còn xa lạ với nhiều bạn đọc Việt Nam. Nhân vật chính của bộ truyện tên là Trần Hạo Nam, một kẻ bỏ học để trở thành giang hồ nhất đại kỳ nhân. Hạo Nam từ một con người chán ghét cảnh giang hồ chém giết tanh hôi, vì tình nghĩa, vì anh em mà phải đặt chân vào con đường không có lối thoát này. Hạo Nam từ một kẻ bảo kê bình thường đã bước lên vị trí Long Đầu Đệ Nhất Đại Bang. Trên con đường này, không chỉ có máu và nước mắt, còn có cả vận may, trí tuệ hơn người, can trường hiệp nghĩa, nhiệt huyết sục sôi, v.v. Ngoài Trần Hạo Nam, chúng ta biết đến các nhân vật khác như Đại Ca B, Gà Rừng, A Khôn,...",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/nguoi-trong-giang-ho/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/nguoi-trong-giang-ho"
+                    }
+                }
+            ]
+        }, {
+            "id": "group-genres",
+            "name": "Tags",
+            "display": "horizontal",
+            "enable_detail": true,
+            "grid_number": 1,
+            "remote_data": {
+                "url": "http://ht.khotruyen.link/genres"
+            },
+            "groups": [{
+                    "id": "action-undefined",
+                    "name": "Action",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/action.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/action"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "romance-undefined",
+                    "name": "Romance",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/romance.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/romance"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "comedy-undefined",
+                    "name": "Comedy",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/comedy.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/comedy"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "fantasy-undefined",
+                    "name": "Fantasy",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/fantasy.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/fantasy"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "drama-undefined",
+                    "name": "Drama",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/drama.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/drama"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "adventure-undefined",
+                    "name": "Adventure",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/adventure.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/adventure"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "ngon-tinh-undefined",
+                    "name": "Ngôn Tình",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/ngon-tinh.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/ngon-tinh"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "school-life-undefined",
+                    "name": "School Life",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/school-life.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/school-life"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "slice-of-life-undefined",
+                    "name": "Slice of Life",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/slice-of-life.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/slice-of-life"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "shoujo-undefined",
+                    "name": "Shoujo",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/shoujo.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/shoujo"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "supernatural-undefined",
+                    "name": "Supernatural",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/supernatural.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/supernatural"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "shounen-undefined",
+                    "name": "Shounen",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/shounen.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/shounen"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "xuyen-khong-undefined",
+                    "name": "Xuyên Không",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/xuyen-khong.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/xuyen-khong"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "mystery-undefined",
+                    "name": "Mystery",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/mystery.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/mystery"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "webtoon-undefined",
+                    "name": "Webtoon",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/webtoon.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/webtoon"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "seinen-undefined",
+                    "name": "Seinen",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/seinen.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/seinen"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "co-dai-undefined",
+                    "name": "Cổ Đại",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/co-dai.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/co-dai"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "horror-undefined",
+                    "name": "Horror",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/horror.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/horror"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "ecchi-undefined",
+                    "name": "Ecchi",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/ecchi.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/ecchi"
+                    },
+                    "display": "text-above"
+                }, {
+                    "id": "martial-arts-undefined",
+                    "name": "Martial Arts",
+                    "image": {
+                        "type": "contain",
+                        "url": "https://hangtruyen.co/images/home/tag-img/martial-arts.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/genres/martial-arts"
+                    },
+                    "display": "text-above"
+                }
+            ]
+        }, {
+            "id": "completed",
+            "name": "Truyện đã hoàn thành",
+            "display": "horizontal",
+            "enable_detail": true,
+            "grid_number": 1,
+            "remote_data": {
+                "url": "http://ht.khotruyen.link/truyen-tranh/completed"
+            },
+            "channels": [{
+                    "id": "/truyen-tranh/adabana-1277949",
+                    "name": "Adabana",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/37/8f/adabana.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "<p>Bộ truyện xoay quanh hai nữ sinh trung học Mizuki và Mako, và tình bạn của họ, cùng những bí mật đen tối liên quan đến một vụ án mạng rúng động...</p>",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/adabana/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/adabana"
+                    }
+                }, {
+                    "id": "/truyen-tranh/until-death-do-us-part-19405",
+                    "name": "Until Death Do Us Part",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/fd/b4/until-death-do-us-part.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Một cô bé có thể nhìn thấy trước tương lai,1 món quà từ thương đế hay thật sự là nỗi bất hạnh... Cô bé bị bọn yakuza bắt nhằm mưu lợi cá nhân và cô muốn thoát khỏi tay bọn chúng. Dựa vào năng lực của mình, cô tìm đến một người đàn ông bị mù mắt nhưng cực kỳ mạnh mẽ, người có thể giúp cô trốn thoát…",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/until-death-do-us-part/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/until-death-do-us-part"
+                    }
+                }, {
+                    "id": "/truyen-tranh/gantz-14214",
+                    "name": "Gantz",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/47/71/gantz.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Kei Kurono là 1 dạng học sinh trung học điển hình, ích kỷ, ko quan tâm đến bất kỳ ai ngoài bản thân. Tuy nhiên, vì 1 sự tình cờ, cậu ta bắt buộc phải giúp người bạn hồi nhỏ của cậu ta, katou Masaru, cứu 1 người say rượu ngã xuống đường ray của tàu, vì vậy cả cậu ta và katou đã chết...Hoặc là không phải. Sau khi bị cán bởi tàu, họ đột ngột được chuyển đến 1 căn phòng bị khóa với những người đã chết khác. Và bây giờ mạng sống của họ bị điều khiển bởi 1 quả bóng đen bí ẩn tên là GANTZ trong căn hộ đó> Bắt buộc phải tham gia \"trò chơi\" nguy hiểm và kinh hoàng chưa từng thấy,về sau kei nhận ra được sự sai lầm trong lối sống ích kỉ của mình và hồi tâm trở thành thủ lĩnh của đội gantz.",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/gantz/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/gantz"
+                    }
+                }, {
+                    "id": "/truyen-tranh/dai-chien-nguoi-khong-lo-20524",
+                    "name": "Đại Chiến Người Khổng Lồ",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/52/2f/dai-chien-nguoi-khong-lo.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Hơn 100 năm trước, giống người khổng lồ Titan đã tấn công và đẩy loài người tới bờ vực tuyệt chủng. Những con người sống sót tụ tập lại, xây bao quanh mình 1 tòa thành 3 lớp kiên cố và tự nhốt mình bên trong để trốn tránh những cuộc tấn công của người khổng lồ. Họ tìm mọi cách để tiêu diệt người khổng lồ nhưng không thành công. Và sau 1 thế kỉ hòa bình, giống khổng lồ đã xuất hiện trở lại, một lần nữa đe dọa sự tồn vong của con người.... Elen và cô em gái Mikasa phải chứng kiến một cảnh tượng cực kinh khủng - mẹ của mình bị ăn thịt ngay trước mắt. Elen thề rằng cậu sẽ giết tất cả những tên khổng lồ mà cậu gặp...",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/dai-chien-nguoi-khong-lo/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/dai-chien-nguoi-khong-lo"
+                    }
+                }, {
+                    "id": "/truyen-tranh/boku-no-hero-academia-1269914",
+                    "name": "Học Viện Anh Hùng",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/2024.11.13/17P9cqctmHiQ3UKgl3.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Vào tương lai, lúc mà con người với những sức mạnh siêu nhiên là điều thường thấy quanh thế giới. Đây là câu chuyện về Izuku Midoriya, từ một kẻ bất tài trở thành một siêu anh hùng. Tất cả ta cần là mơ ước.",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/boku-no-hero-academia/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/boku-no-hero-academia"
+                    }
+                }, {
+                    "id": "/truyen-tranh/minamoto-kun-monogatari-3822",
+                    "name": "Minamoto-kun Monogatari",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/4e/09/minamoto-kun-monogatari.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Một anh chàng sau khi bị con gái sờ soạng sàm sỡ đã mắc phải chứng bệnh sợ sữa và con gái. Sau khi lên đại học cậu quyết sẽ chữa khỏi căn bệnh này và làm tình với mọi cô gái mình gặp. Vì một sự kiện bất ngờ mà cậu bị chuyển đến sống chung với cô họ mình. Cô này thì bảo là sẽ chữa căn bệnh sợ gái của cậu bằng cách... thực hiện một vài thử nghiệm... và cậu sẽ phải abc với 14 cô gái (một phần trong thí nghiệm đó đấy). Một câu truyện thú vị hãy đọc đi thì biết.",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/minamoto-kun-monogatari/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/minamoto-kun-monogatari"
+                    }
+                }, {
+                    "id": "/truyen-tranh/kubo-san-wa-boku-mobu-wo-yurusanai-1631",
+                    "name": "Kubo-san Wa Boku (mobu) Wo Yurusanai",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/83/1f/kubo-san-wa-boku-mobu-wo-yurusanai.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Mọi người dường như không nhận ra được sự tồn tại của tôi nhưng mà tại sao Kubo-san lại...!!",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/kubo-san-wa-boku-mobu-wo-yurusanai/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/kubo-san-wa-boku-mobu-wo-yurusanai"
+                    }
+                }, {
+                    "id": "/truyen-tranh/dai-thien-tai-bat-kha-chien-bai-chinh-la-ta-3524",
+                    "name": "Đại Thiên Tài Bất Khả Chiến Bại Chính Là Ta",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/df/34/dai-thien-tai-bat-kha-chien-bai-chinh-la-5333.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Một chàng trai bị thất tình. Đang lang thang ngoài đường. Anh vô tình bị xe đụng. Linh hồn anh được đi đến một văn phòng. Tại đấy anh ký một bản hợp đồng và… Anh có một hệ thống bất diệt.",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/dai-thien-tai-bat-kha-chien-bai-chinh-la-ta/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/dai-thien-tai-bat-kha-chien-bai-chinh-la-ta"
+                    }
+                }, {
+                    "id": "/truyen-tranh/seinen-shoyo-yo-haru-wo-musabore-2572",
+                    "name": "Seinen Shoyo yo, Haru wo Musabore",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/58/81/seinen-shoyo-yo-haru-wo-musabore.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Katsuyuki, một học sinh trung học không biết yêu là gì, và Haru, cô gái dễ thương mới chuyển trường đến từ Tokyo. Và rồi 2 người họ ngày càng trở nên thân thiết với nhau hơn... Một câu chuyện về mối tình đầu tuy đẹp nhưng lại vô cùng mong manh và có cả nỗi buồn cùng sự đau đớn",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/seinen-shoyo-yo-haru-wo-musabore/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/seinen-shoyo-yo-haru-wo-musabore"
+                    }
+                }, {
+                    "id": "/truyen-tranh/co-gai-tu-ung-dung-nhan-tin-ngau-nhien-1277874",
+                    "name": "Cô Gái Từ Ứng Dụng Nhắn Tin Ngẫu Nhiên",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/ca/33/co-gai-tu-ung-dung-nhan-tin-ngau-nhien.png",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "<p>Joonwoo ghét trường học và khó kết bạn. Lần duy nhất anh ấy hạnh phúc là khi nói chuyện với người lạ trên ứng dụng điện thoại Trò chuyện ngẫu nhiên. Đó là cách Joonwoo kết bạn với một cô gái trên RanChat, người hóa ra là bạn cùng lớp của anh ấy Sungah nhưng cô ấy không biết gì về điều đó! Liệu Joonwoo có thể chống lại chứng lo âu xã hội của mình và trở nên thân thiết hơn với cô ấy trong cuộc sống thực?</p>",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/co-gai-tu-ung-dung-nhan-tin-ngau-nhien/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/co-gai-tu-ung-dung-nhan-tin-ngau-nhien"
+                    }
+                }, {
+                    "id": "/truyen-tranh/a-wonderful-new-world-1275446",
+                    "name": "A Wonderful New World",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/8d/30/a-wonderful-new-world.png",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Ho-Seung, một nhân viên văn phòng không được ưa chuộng làm việc cho một trong những tập đoàn lớn nhất Hàn Quốc, đang khom lưng như một tội đồ vì bị buộc tội lắp camera trong phòng vệ sinh nữ. Tuy nhiên, cuối cùng, anh đã được chứng minh là vô tội. Rồi một ngày, anh đột nhiên được quản lý nhóm thông báo về việc điều chuyển công tác. Có vẻ như cô ấy đã chiến thắng, cho đến khi…",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/a-wonderful-new-world/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/a-wonderful-new-world"
+                    }
+                }, {
+                    "id": "/truyen-tranh/toan-chuc-phap-su-258",
+                    "name": "Toàn Chức Pháp Sư",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/5a/7e/toan-chuc-phap-su.png",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Mạc Phàm sau khi tỉnh lại và phát hiện bản thân đang ở thế giới đại biến. Trường cấp 3 quen thuộc lại đang giảng dạy ma pháp, ai ai cũng muốn bản thân trở thành những ma pháp sư xuất sắc. Thế giới cũ vốn tôn sùng khoa học của cậu bỗng chốc trở thành thế giới tôn sùng ma pháp... Đi một vòng quanh trường, Mạc Phàm phát hiện hầu hết mọi người chỉ học và sử dụng được một hệ ma pháp, nhưng cậu lại là một pháp sư toàn năng... Từ đó anh nhanh chóng trở thành mục tiêu để các thế lực dòm ngó, ganh ghét và cả lợi dụng. ",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/toan-chuc-phap-su/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/toan-chuc-phap-su"
+                    }
+                }, {
+                    "id": "/truyen-tranh/springtime-for-blossom-1275329",
+                    "name": "Springtime for Blossom",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/db/e8/springtime-for-blossom.png",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Blossom là cô gái xinh đẹp nhất trường, và cô ấy muốn sống ở nhà tôi! Cái định mệnh!\r\nCuối cùng thì mùa xuân cũng đã đến với tôi rồi sao? Hẹ hẹ...",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/springtime-for-blossom/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/springtime-for-blossom"
+                    }
+                }, {
+                    "id": "/truyen-tranh/kurosagi-4042",
+                    "name": "Kurosagi",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/15/40/kurosagi.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Con diệc đen là câu chuyện kể về một chàng trai tên là Kurosaki chỉ đi lừa những tay lừa bịp chuyên nghiệp khác được biết dưới cái tên shirosagi (diệc trắng). Sau khi người cha bị rơi vào bẫy của diệc trắng và buộc phải bức tử cả gia đình, Kurosaki, người con trai duy nhất còn sống sót đã nung nấu quyết tâm trả thù. Mặc dù biết rõ Katsuragi Toshio là kẻ có dính dáng tới vụ lừa đảo làm hại gia đình, nhưng cậu vẫn hợp tác với hắn để lấy thông tin về bọn diệc trắng. Hận thù giống như con dao hai lưỡi, vừa khiến Kurosaki trở nên mạnh mẽ hơn, lại vừa khiến tâm hồn cậu ngày càng chai sạn. Kurosaki đã mất niềm tin vào pháp luật, cậu đang cố gắng mang lại công bằng cho xã hội bằng những cách riêng của mình. Nhưng người hàng xóm, cô nữ sinh luật, Yoshikawa Tsurara lại không ủng hộ cách làm của Kurosaki.",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/kurosagi/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/kurosagi"
+                    }
+                }, {
+                    "id": "/truyen-tranh/menh-lenh-bi-mat-tu-chi-sep-1276935",
+                    "name": "Mệnh Lệnh Bí Mật Từ Chị Sếp",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/23/67/menh-lenh-bi-mat-tu-chi-sep.png",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "<p><span style=\"font-size: 14px\">Chuyện gì sẽ xảy ra nếu anh trở thành thư ký mới của “Đại Ác Quỷ”, CEO Choi Jeong-woo?</span></p>",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/menh-lenh-bi-mat-tu-chi-sep/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/menh-lenh-bi-mat-tu-chi-sep"
+                    }
+                }, {
+                    "id": "/truyen-tranh/toi-cuong-thien-de-he-thong-1274173",
+                    "name": "Tối Cường Thiên Đế Hệ Thống",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/2025.04.03/PuKbyaQTvqUuYUfGto.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Xuyên qua làm thiên đế, đáng tiếc tiên tộc xuống dốc. Thần tiên không bằng chó. Ta phải làm sao?",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/toi-cuong-thien-de-he-thong/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/toi-cuong-thien-de-he-thong"
+                    }
+                }, {
+                    "id": "/truyen-tranh/ta-luyen-khi-ba-ngan-nam-487",
+                    "name": "Ta Luyện Khí Ba Ngàn Năm",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/cc/c4/ta-luyen-khi-ba-ngan-nam.png",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Phàm giới Cổ Châu mặt đất bao la rộng lớn, có một đại tông phái tu chân cổ xưa tên Thanh Minh Kiếm Tông. Kiếm Tông nay cứ cách mỗi 100 năm, lại có một nhóm hóa thần, hợp thể thậm chí có cả lão quái vật tu sĩ độ kiếp. Hơn ba ngàn năm trước, còn có một chưởng môn đột phá thiên kiếp, ban ngày phi thăng thành tiên! Mấy ngàn năm đến nay, mặc dù trải qua nhiều lần gặp thảm họa, nhưng Kiếm Tông đó vẫn vững như bàn thạch đến tận bây giờ.",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/ta-luyen-khi-ba-ngan-nam/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/ta-luyen-khi-ba-ngan-nam"
+                    }
+                }, {
+                    "id": "/truyen-tranh/nguoi-trong-giang-ho-19626",
+                    "name": "Người Trong Giang Hồ",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/18/e8/nguoi-trong-giang-ho.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Người Trong Giang Hồ là một cái tên không còn xa lạ với nhiều bạn đọc Việt Nam. Nhân vật chính của bộ truyện tên là Trần Hạo Nam, một kẻ bỏ học để trở thành giang hồ nhất đại kỳ nhân. Hạo Nam từ một con người chán ghét cảnh giang hồ chém giết tanh hôi, vì tình nghĩa, vì anh em mà phải đặt chân vào con đường không có lối thoát này. Hạo Nam từ một kẻ bảo kê bình thường đã bước lên vị trí Long Đầu Đệ Nhất Đại Bang. Trên con đường này, không chỉ có máu và nước mắt, còn có cả vận may, trí tuệ hơn người, can trường hiệp nghĩa, nhiệt huyết sục sôi, v.v. Ngoài Trần Hạo Nam, chúng ta biết đến các nhân vật khác như Đại Ca B, Gà Rừng, A Khôn,...",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/nguoi-trong-giang-ho/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/nguoi-trong-giang-ho"
+                    }
+                }, {
+                    "id": "/truyen-tranh/su-tro-lai-cua-phap-su-cap-8-2345",
+                    "name": "Sự Trở Lại Của Pháp Sư Cấp 8",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/fe/e3/su-tro-lai-cua-phap-su-cap-8.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Với mục đích thống nhất đế quốc cùng Hoàng Đế Ragnar, đôi tay của tôi đã nhuốm máu sau hàng năm trời. Tôi muốn được trở về quê nhà và sống một cuộc đời bình lặng để xám hối cho những tội lỗi của mình, tuy nhiên... Tôi đã bị Ragnar, hoàng đế đồng thời là một người bạn của mình, phản bội và dồn đến cửa tử. Cùng đường, tôi đành phải tự đâm vào tim mình bằng con dao đã yển chú thuật thời gian. Và lần này, tôi sẽ chuộc lại mọi lỗi lầm của mình. Tôi sẽ đặt lại mọi thứ về đúng vị trí vốn có của nó và bảo vệ những người thân yêu nhất của mình!",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/su-tro-lai-cua-phap-su-cap-8/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/su-tro-lai-cua-phap-su-cap-8"
+                    }
+                }, {
+                    "id": "/truyen-tranh/quai-vat-tai-chung-cu-xanh-21424",
+                    "name": "Quái vật tại Chung Cư Xanh",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/2024.08.20/QtygLibFUYwB1Nox7f.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Cha Hyun Soo, cậu học sinh cấp 3 ghét xã hội, có tiền sử tự tử, và sống ích kỷ. Vào 1 ngày đẹp trời, cậu mất tất cả người thân và phải tự mình bương trải với đời. Tuy nhiên, mọi chuyện không đơn giản như thế. Cậu nhận ra có những sinh vật đáng sợ đang tồn tại và ám ảnh chính mình.",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/quai-vat-tai-chung-cu-xanh/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/quai-vat-tai-chung-cu-xanh"
+                    }
+                }, {
+                    "id": "/truyen-tranh/nguyen-ton-24",
+                    "name": "Nguyên Tôn",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/93/53/nguyen-ton.png",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Chu Nguyên là hoàng tử nhà họ Chu, sinh ra đã mang trong mình khí chất thánh long trong người. Nhưng anh bị đầu độc khiến cho kinh mạch bị khóa, vận may biến mất khiến bản thân không thể tu luyện và bị đuổi khỏi gia tộc. Anh dựa vào ý chí mạnh mẽ của bản thân để đi tiếp trên con đường mở lại kinh mạch, lấy lại sức mạnh và trên con đường đấy Chu Nguyên đã gặp được Yêu Yêu - định mệnh của đời mình. Từ đó anh tiếp tục bản thân mạnh mẽ hơn và cũng trở thành người đàn ông sợ vợ chính hiệu ",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/nguyen-ton/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/nguyen-ton"
+                    }
+                }, {
+                    "id": "/truyen-tranh/hon-toi-di-ke-doi-tra-1275084",
+                    "name": "Hôn tôi đi, kẻ dối trá",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/bb/9a/hon-toi-di-ke-doi-tra.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Là một thư ký, còn gì bi thảm hơn việc phải lòng sếp của mình? Hơn nữa, ông chủ này là một Alpha học thuyết lớn. Ông ta còn tham gia vào chủ nghĩa phân biệt giới tính và từ chối Omega nam ở độ tuổi nào nữa! Ngay khi Yeon Woo nghĩ rằng mối tình thầm kín cay đắng của mình sẽ kết thúc trong vô vọng, anh phát hiện ra rằng ông chủ coi thường anh đã âm thầm lo liệu mọi thứ cho anh. Sau chu kỳ nhiệt tình, anh ta không chỉ tỏ ra kháng cự mà còn khiến cơ thể anh ta thực sự nóng lên…",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/hon-toi-di-ke-doi-tra/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/hon-toi-di-ke-doi-tra"
+                    }
+                }, {
+                    "id": "/truyen-tranh/vua-trom-mo-613",
+                    "name": "Vua Trộm mộ",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/d6/4e/vua-trom-mo-5069.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Hầm mộ của những vị thân xuất hiện ở khắp nơi trên thế giới, và ở những nơi đó cũng chôn cất rất nhiều thánh tích mang sức mạnh của những vị thần. Câu chuyện kể về một tên trộm với tài năng dị biệt muốn thu thập tất cả các thánh tích.",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/vua-trom-mo/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/vua-trom-mo"
+                    }
+                }, {
+                    "id": "/truyen-tranh/duoc-yeu-thuong-ma-con-ngai-ngung-sao-405",
+                    "name": "Được Yêu Thương Mà Còn Ngại Ngùng Sao!",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/07/34/duoc-yeu-thuong-ma-con-ngai-ngung-sao.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Một ngày nọ, người mẹ độc ác đã mang theo một cô gái. Cô ấy là con gái của công tước và cũng là nữ chính của bộ truyện Còn tôi là Melody, nhân vật phản diện đã bị mẹ trừng phạt vì quấy rối nữ chính. Tôi không muốn chết như vậy, vì vậy tôi phải đối xử tốt với cô ấy ngay bây giờ. Tôi cho Loretta ăn, cho cô ấy ngủ và chơi với cô ấy. Và sau đó phản ứng của cô ấy là…? “Tớ hy vọng sau này Melody sẽ kết hôn với tớ!” Tình cảm vô bờ bến đã khiến tôi cùng cô ấy đến trước mặt công tước và cô ấy nói. “Con sẽ ở cùng với Melody.” Bạn đã gặp ai là một đứa ngốc ‘chỉ vì Melody’ hơn cô ấy chưa? Tại sao tôi lại được yêu thương khi tôi chỉ đủ tử tế để khiến bản thân được sống yên bình chứ….!",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/duoc-yeu-thuong-ma-con-ngai-ngung-sao/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/duoc-yeu-thuong-ma-con-ngai-ngung-sao"
+                    }
+                }, {
+                    "id": "/truyen-tranh/mau-trang-19408",
+                    "name": "Máu trắng",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/18/62/mau-trang.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Tên khác: White blood Thế giới mà Park Hayan sống thường xuyên xuất hiện ma cà rồng và giết hại người vô tội. Vốn tưởng Hayan chỉ là một sinh viên bình thường lớn lên ở trại trẻ mồ côi, ai ngờ cô lại là 1 ma cà rồng ẩn thân với sức mạnh khó lường. Đời cô rồi sẽ lạc trôi về đâu? Hãy cùng đón xem bộ truyện Máu Trắng cho Tồm Meo Team trans và edit nhé.",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/mau-trang/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/mau-trang"
+                    }
+                }, {
+                    "id": "/truyen-tranh/chua-te-hoc-duong-19143",
+                    "name": "Chúa tể học đường",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/20/ad/chua-te-hoc-duong.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Mori Jin là một học sinh trung học, được ông nội chỉ dạy taekwondo từ khi còn nhỏ. Anh ta tham gia giải đấu có tên là Chúa tể học đường, một giải đấu võ thuật với phần thưởng vô cùng hứa hẹn đó chính là bất cứ điều gì mà người chiến thắng yêu cầu. Tại đây, anh đã gặp nhiều người bạn với mục tiêu khác nhau nhưng đều chung mục đích lấy chức vô địch. Tuy nhiên, những thứ đằng sau cuộc thi này lại là một phần của âm mưu lớn hơn nhiều, nó vượt xa trí tưởng tượng hoang dã nhất của Mori. Anh ấy sẽ làm gì để trở thành một vị thần thực sự?",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/chua-te-hoc-duong/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/chua-te-hoc-duong"
+                    }
+                }, {
+                    "id": "/truyen-tranh/biet-doi-linh-cuu-hoa-9848",
+                    "name": "Biệt Đội Lính Cứu Hỏa",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/90/4e/biet-doi-linh-cuu-hoa.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Thanh niên nghịch lửa",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/biet-doi-linh-cuu-hoa/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/biet-doi-linh-cuu-hoa"
+                    }
+                }, {
+                    "id": "/truyen-tranh/da-bao-nu-chinh-dang-cai-trang-ma-12343",
+                    "name": "Đã Bảo Nữ Chính Đang Cải Trang Mà",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/35/3e/da-bao-nu-chinh-dang-cai-trang-ma.png",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Q. Người xuất hiện trước mặt tôi hiện giờ là nữ chính trong nguyên tác nhưng đang trong tình trạng cải trang thành nam! Cô ấy đã thay thế người anh trai sinh đôi đã chết vì bị tai nạn. Thế còn vai trò của tôi là gì? Bây giờ tôi phải làm gì đây? A. Đừng cứ ở đây và tự làm rối não của mình. Đến lúc thích hợp sẽ tự nhiên mà đến thôi. …Vậy nên, tôi đã giao phó cơ thể của mình cho tự nhiên, cứ thế trôi qua từng ngày. Nhưng không biết từ lúc nào mà tôi đã trở thành vợ sắp cưới của nữ chính cải trang thành nam. ",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/da-bao-nu-chinh-dang-cai-trang-ma/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/da-bao-nu-chinh-dang-cai-trang-ma"
+                    }
+                }, {
+                    "id": "/truyen-tranh/shiori-experience-jimi-na-watashi-to-hen-na-oji-san-2200",
+                    "name": "Shiori Experience - Jimi Na Watashi To Hen Na Oji-San",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/8e/d3/shiori-experience-jimi-na-watashi-to-hen-6906.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Con ma tóc bù xù thích quẩy rock",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/shiori-experience-jimi-na-watashi-to-hen-na-oji-san/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/shiori-experience-jimi-na-watashi-to-hen-na-oji-san"
+                    }
+                }, {
+                    "id": "/truyen-tranh/1001-cach-chinh-phuc-chong-yeu-1113",
+                    "name": "1001 Cách Chinh Phục Chồng Yêu",
+                    "image": {
+                        "type": "cover",
+                        "url": "https://prvhtr.mgbucket.xyz/posters/2024.10.14/w4169cEigbxHfsRlCZ.jpg",
+                        "width": 160,
+                        "height": 220
+                    },
+                    "display": "text-below",
+                    "type": "directory",
+                    "description": "Đu idol chi bằng theo đuổi chồng, Bạch Dao Dao xuyên về thời học sinh quyết định thực hiện quyền lợi vợ chồng sớm, sau này là phú hào, hiện tại là giáo thảo, theo đuổi chồng!",
+                    "enable_detail": true,
+                    "share": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/1001-cach-chinh-phuc-chong-yeu/share"
+                    },
+                    "remote_data": {
+                        "url": "http://ht.khotruyen.link/truyen-tranh/1001-cach-chinh-phuc-chong-yeu"
+                    }
+                }
+            ]
+        }, {
+            "id": "related-providers",
+            "name": "Có thể bạn quan tâm",
+            "display": "horizontal",
+            "grid_number": 1,
+            "groups": [{
+                    "id": "otruyen",
+                    "name": "Ổ Truyện",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://otruyen-iptv.khotruyen.link/logo.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Fotruyen-iptv.khotruyen.link&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "newtruyenhot",
+                    "name": "NewTruyenHot",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://newtruyenhot.4share.me/static/img/logo-newtruyenhot.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Fnewtruyenhot.4share.me&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "thapcamtv",
+                    "name": "ThapcamTV",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://thapcamiptv.com/10cam-logo-app-light.jpg",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Ftctv.pro&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "vebotv",
+                    "name": "VeboTV",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://vebo.thethaoiptv.com/vebo-icon.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Fvbtv.pro&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "cakhiatv",
+                    "name": "CaKhiaTV",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://cktv.pro/logo-cakhia.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Fcktv.pro&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "chuoichien",
+                    "name": "Chuối Chiên TV",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://tt.8share.pro/assets/chuoichien_logo.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Ftt.8share.pro%2Fchuoichien&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "vachvoi",
+                    "name": "Vạch Vôi TV",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://tt.8share.pro/assets/vachvoi_logo.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Ftt.8share.pro%2Fvachvoi&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "luongson",
+                    "name": "Lương Sơn TV",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://tt.8share.pro/assets/luongson_logo.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Ftt.8share.pro%2Fluongson&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "buncha",
+                    "name": "Bún Chả TV",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://tt.8share.pro/assets/buncha_logo.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Ftt.8share.pro%2Fbuncha&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "khandaia",
+                    "name": "Khán Đài A",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://tt.8share.pro/assets/khandaia_logo.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Ftt.8share.pro%2Fkhandaia&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "streamed",
+                    "name": "Streamed",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://tt.8share.pro/assets/streamed_logo.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Ftt.8share.pro%2Fstreamed&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "gavang",
+                    "name": "Gà Vàng TV",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://tt.8share.pro/assets/gavang_logo.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Ftt.8share.pro%2Fgavang&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "hoiquan",
+                    "name": "Hội Quán TV",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://tt.8share.pro/assets/hoiquan_logo.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Ftt.8share.pro%2Fhoiquan&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "socolive",
+                    "name": "Socolive",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://tt.8share.pro/assets/socolive_logo.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Ftt.8share.pro%2Fsocolive&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "hoadao",
+                    "name": "Hoa Đào TV",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://tt.8share.pro/assets/hoadao_logo.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Ftt.8share.pro%2Fhoadao&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "ophim",
+                    "name": "Ophim",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://op-pvd.moviedb.dev/logo.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Fop-pvd.moviedb.dev&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "kkphim",
+                    "name": "Kkphim",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://kk-pvd.moviedb.dev/logo.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Fkk-pvd.moviedb.dev&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "animehay",
+                    "name": "Animehay",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://iptv.animehay.dev/logo.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Fiptv.animehay.dev&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "anime47",
+                    "name": "Anime47",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://iptv.anime47.net/logo.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Fiptv.anime47.net&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "truyenhinh",
+                    "name": "FPT",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://iptv.nhadai.org/logo.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Fiptv.nhadai.org%2Fv1&type=provider",
+                        "external": true
+                    }
+                }, {
+                    "id": "vtvgo",
+                    "name": "VTVGO",
+                    "display": "text-below",
+                    "image": {
+                        "url": "https://web-cache-aws.vtvdigital.vn/assets/images/logo-app.png",
+                        "type": "cover",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "remote_data": {
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Fvtvgo.4share.me%2Fv1&type=provider",
+                        "external": true
+                    }
+                }
+            ]
+        }, {
+            "id": "moi-cap-nhat",
+            "name": "Mới cập nhật",
+            "display": "vertical"
+        }
+    ],
+    "load_more": {
+        "paging": {
+            "page_key": "page",
+            "size_key": "size"
+        },
+        "pageInfo": {
+            "current_page": 0,
+            "last_page": 1,
+            "per_page": 30,
+            "total": 1
+        },
+        "remote_data": {
+            "url": "http://ht.khotruyen.link/truyen-tranh/newly-updated"
+        }
+    },
+    "sorts": [{
+            "type": "dropdown",
+            "text": "Thể loại",
+            "value": [{
+                    "type": "radio",
+                    "url": "http://ht.khotruyen.link/categories/manga",
+                    "text": "Manga"
+                }, {
+                    "type": "radio",
+                    "url": "http://ht.khotruyen.link/categories/manhua",
+                    "text": "Manhua"
+                }, {
+                    "type": "radio",
+                    "url": "http://ht.khotruyen.link/categories/manhwa",
+                    "text": "Manhwa"
+                }, {
+                    "type": "radio",
+                    "url": "http://ht.khotruyen.link/categories/marvel-comics",
+                    "text": "Marvel Comics"
+                }, {
+                    "type": "radio",
+                    "url": "http://ht.khotruyen.link/categories/dc-comics",
+                    "text": "DC Comics"
+                }
+            ]
+        }, {
+            "type": "radio",
+            "text": "Hot nhất",
+            "url": "http://ht.khotruyen.link/truyen-tranh/hottest"
+        }
+    ],
+    "search": {
+        "url": "http://ht.khotruyen.link/truyen-tranh/search",
+        "suggest_url": "http://ht.khotruyen.link/truyen-tranh/search/suggest",
+        "search_key": "q",
+        "paging": {
+            "page_key": "page",
+            "size_key": "size"
+        }
+    }
+}
