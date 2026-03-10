@@ -1,0 +1,69 @@
+{
+    "id": "bunchatv",
+    "name": "Bún Chả",
+    "url": "https://bunchatv.com/",
+    "color": "#004444",
+    "image": {
+        "url": "https://i.ibb.co/p6H2qtyJ/Untitled.png",
+        "type": "cover"
+    },
+    "description": "Kênh xem bóng đá miễn phí.",
+    "grid_number": 3,
+    "groups": [{
+            "id": "football",
+            "name": "Bóng đá",
+            "display": "horizontal",
+            "grid_number": 2,
+            "channels": [{
+                    "id": "276265",
+                    "name": "India Women 11111",
+                    "description": "",
+                    "image": {
+                        "url": "https://i.ibb.co/6R9pFhh9/74659f7b602b.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "upcoming",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [{
+                            "id": "276265",
+                            "name": "India Women vs Chinese Taipei Women",
+                            "contents": [{
+                                    "id": "276265",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [{
+                                            "id": "276265",
+                                            "name": "LIVE",
+                                            "stream_links": [{
+                                                    "id": "276265-song-quoc-te",
+                                                    "name": "Sóng quốc tế",
+                                                    "type": "hls",
+                                                    "default": true,
+                                                    "url": "https://live.alilicloud.com/live/1d8d71dc254ab02b94c7debe944dedff/playlist.m3u8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                }
+            ]
+        }
+    ],
+    "option": {
+        "save_history": true,
+        "save_search_history": true,
+        "save_wishlist": true
+    }
+}
