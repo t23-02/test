@@ -1,0 +1,1388 @@
+{
+    "id": "bunchatv",
+    "name": "Bún Chả TV",
+    "url": "https://bunchatv1.net/",
+    "color": "#004444",
+    "image": {
+        "url": "https://i.ibb.co/p6H2qtyJ/Untitled.png",
+        "type": "cover"
+    },
+    "description": "Kênh xem thể thao trực tiếp miễn phí.",
+    "grid_number": 3,
+    "groups": [
+        {
+            "id": "football",
+            "name": "Bóng đá",
+            "display": "horizontal",
+            "grid_number": 2,
+            "channels": [
+                {
+                    "id": "601293682",
+                    "name": "India (w) vs Chinese Taipei (w)",
+                    "description": "AFC Women’s Asian Cup",
+                    "image": {
+                        "url": "https://cdn.rapid-api.icu/football/competition/b4ea89450fe5c3fbe083b8e0665e9d78.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "16:00",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601293682",
+                            "name": "India (w) vs Chinese Taipei (w)",
+                            "contents": [
+                                {
+                                    "id": "601293682",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601293682",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601293685",
+                    "name": "Japan Women vs Việt Nam (Nữ)",
+                    "description": "AFC Women’s Asian Cup",
+                    "image": {
+                        "url": "https://cdn.rapid-api.icu/football/competition/b4ea89450fe5c3fbe083b8e0665e9d78.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "16:00",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601293685",
+                            "name": "Japan Women vs Việt Nam (Nữ)",
+                            "contents": [
+                                {
+                                    "id": "601293685",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601293685",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601299265",
+                    "name": "Yadanabon FC vs Yangon United",
+                    "description": "Myanmar Professional League",
+                    "image": {
+                        "url": "https://cdn.rapid-api.icu/football/competition/0e7b29667e53debdcc13bbcae0c0a35e.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "16:00",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601299265",
+                            "name": "Yadanabon FC vs Yangon United",
+                            "contents": [
+                                {
+                                    "id": "601299265",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601299265",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601293688",
+                    "name": "Machida Zelvia vs Gangwon Football Club",
+                    "description": "AFC Champions League Elite",
+                    "image": {
+                        "url": "https://cdn.rapid-api.icu/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "17:00",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601293688",
+                            "name": "Machida Zelvia vs Gangwon Football Club",
+                            "contents": [
+                                {
+                                    "id": "601293688",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601293688",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                }
+            ]
+        },
+        {
+            "id": "basketball",
+            "name": "Bóng rổ",
+            "display": "horizontal",
+            "grid_number": 2,
+            "channels": [
+                {
+                    "id": "601299499",
+                    "name": "Adelaide vs South East Melbourne",
+                    "description": "NBL",
+                    "image": {
+                        "url": "/img/soccer.svg",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "15:30",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601299499",
+                            "name": "Adelaide vs South East Melbourne",
+                            "contents": [
+                                {
+                                    "id": "601299499",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601299499",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601299502",
+                    "name": "KCC Egis vs Mobis Phoebus",
+                    "description": "KBL",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/3cf32c4ba23067c5669682b9ad1b972e.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "17:00",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601299502",
+                            "name": "KCC Egis vs Mobis Phoebus",
+                            "contents": [
+                                {
+                                    "id": "601299502",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601299502",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601298719",
+                    "name": "Philadelphia 76ers vs Memphis Grizzlies",
+                    "description": "NBA",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/4bb50b9bd9ddc103686037fc5e3c7a09.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "06:00",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601298719",
+                            "name": "Philadelphia 76ers vs Memphis Grizzlies",
+                            "contents": [
+                                {
+                                    "id": "601298719",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601298719",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601298722",
+                    "name": "Atlanta Hawks vs Dallas Mavericks",
+                    "description": "NBA",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/4bb50b9bd9ddc103686037fc5e3c7a09.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "06:30",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601298722",
+                            "name": "Atlanta Hawks vs Dallas Mavericks",
+                            "contents": [
+                                {
+                                    "id": "601298722",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601298722",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                }
+            ]
+        },
+        {
+            "id": "tennis",
+            "name": "Tennis",
+            "display": "horizontal",
+            "grid_number": 2,
+            "channels": [
+                {
+                    "id": "601299610",
+                    "name": "Daniil Medvedev vs Sebastian Baez",
+                    "description": "WTA Indian Wells",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/354e226cf679ec793e3d3c61f7655299.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "LIVE",
+                        "position": "top-left",
+                        "color": "#e53935",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601299610",
+                            "name": "Daniil Medvedev vs Sebastian Baez",
+                            "contents": [
+                                {
+                                    "id": "601299610",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601299610",
+                                            "name": "LIVE",
+                                            "stream_links": [
+                                                {
+                                                    "id": "601299610-1",
+                                                    "name": "Nhà Đài 1-hls",
+                                                    "type": "hls",
+                                                    "default": true,
+                                                    "url": "https://2893254555.global.cdnfastest.com/live/69af7115326d7_142210/index.m3u8?expire=1773710229&sign=f221ab9febb224b4d1646815d2cb6968"
+                                                },
+                                                {
+                                                    "id": "601299610-2",
+                                                    "name": "Nhà Đài 1-flv",
+                                                    "type": "flv",
+                                                    "default": false,
+                                                    "url": "https://2893950149.global.cdnfastest.com/live/69af7115326d7_142210.flv?expire=1773710229&sign=f221ab9febb224b4d1646815d2cb6968"
+                                                },
+                                                {
+                                                    "id": "601299610-3",
+                                                    "name": "Nhà Đài 1-hls2",
+                                                    "type": "hls",
+                                                    "default": false,
+                                                    "url": "https://59w50226.edgemaxcdn.org/live/69af7115326d7_142210/index.m3u8?expire=1773710229&sign=f221ab9febb224b4d1646815d2cb6968"
+                                                },
+                                                {
+                                                    "id": "601299610-4",
+                                                    "name": "Nhà Đài 1-flv2",
+                                                    "type": "flv",
+                                                    "default": false,
+                                                    "url": "https://59w50226.edgemaxcdn.org/live/69af7115326d7_142210.flv?expire=1773710229&sign=f221ab9febb224b4d1646815d2cb6968"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601299613",
+                    "name": "Kostyuk M. vs Rybakina E.",
+                    "description": "WTA Indian Wells",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/354e226cf679ec793e3d3c61f7655299.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "LIVE",
+                        "position": "top-left",
+                        "color": "#e53935",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601299613",
+                            "name": "Kostyuk M. vs Rybakina E.",
+                            "contents": [
+                                {
+                                    "id": "601299613",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601299613",
+                                            "name": "LIVE",
+                                            "stream_links": [
+                                                {
+                                                    "id": "601299613-1",
+                                                    "name": "Nhà Đài 2-hls",
+                                                    "type": "hls",
+                                                    "default": true,
+                                                    "url": "https://2893254555.global.cdnfastest.com/live/69afa05b326d7_85706/index.m3u8?expire=1773722331&sign=96f422326de4ca8c78454c9206817197"
+                                                },
+                                                {
+                                                    "id": "601299613-2",
+                                                    "name": "Nhà Đài 2-flv",
+                                                    "type": "flv",
+                                                    "default": false,
+                                                    "url": "https://2893950149.global.cdnfastest.com/live/69afa05b326d7_85706.flv?expire=1773722331&sign=96f422326de4ca8c78454c9206817197"
+                                                },
+                                                {
+                                                    "id": "601299613-3",
+                                                    "name": "Nhà Đài 2-hls2",
+                                                    "type": "hls",
+                                                    "default": false,
+                                                    "url": "https://59w50226.edgemaxcdn.org/live/69afa05b326d7_85706/index.m3u8?expire=1773722331&sign=96f422326de4ca8c78454c9206817197"
+                                                },
+                                                {
+                                                    "id": "601299613-4",
+                                                    "name": "Nhà Đài 2-flv2",
+                                                    "type": "flv",
+                                                    "default": false,
+                                                    "url": "https://59w50226.edgemaxcdn.org/live/69afa05b326d7_85706.flv?expire=1773722331&sign=96f422326de4ca8c78454c9206817197"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                }
+            ]
+        },
+        {
+            "id": "badminton",
+            "name": "Cầu lông",
+            "display": "horizontal",
+            "grid_number": 2,
+            "channels": [
+                {
+                    "id": "601308331",
+                    "name": "Riki TAKEI vs Joakim OLDORFF",
+                    "description": "Sân 1 - YONEX Swiss Open 2026",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/e7692a7a1bcb35afe9dd01675b82858e.jpg",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "15:30",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601308331",
+                            "name": "Riki TAKEI vs Joakim OLDORFF",
+                            "contents": [
+                                {
+                                    "id": "601308331",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601308331",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601308334",
+                    "name": "Ditlev Jaeger HOLM vs Aria DINATA",
+                    "description": "Sân 2 - YONEX Swiss Open 2026",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/4a328530cb3cf92c204752fe886a30fc.jpg",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "15:30",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601308334",
+                            "name": "Ditlev Jaeger HOLM vs Aria DINATA",
+                            "contents": [
+                                {
+                                    "id": "601308334",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601308334",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601308337",
+                    "name": "TING Yen-Chen vs DONG Tian Yao",
+                    "description": "Sân 3 - YONEX Swiss Open 2026",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/3c8b02995e55f42739368d42fa35a1dc.jpg",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "15:45",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601308337",
+                            "name": "TING Yen-Chen vs DONG Tian Yao",
+                            "contents": [
+                                {
+                                    "id": "601308337",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601308337",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601308340",
+                    "name": "LIAO Jhuo-Fu vs Daniil DUBOVENKO",
+                    "description": "Sân 4 - YONEX Swiss Open 2026",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/c8961b452b2ae9a0719df1655017bf6e.jpg",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "15:45",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601308340",
+                            "name": "LIAO Jhuo-Fu vs Daniil DUBOVENKO",
+                            "contents": [
+                                {
+                                    "id": "601308340",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601308340",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                }
+            ]
+        },
+        {
+            "id": "volleyball",
+            "name": "Bóng chuyền",
+            "display": "horizontal",
+            "grid_number": 2,
+            "channels": [
+                {
+                    "id": "601299220",
+                    "name": "Hyundai Skywalkers vs Woori",
+                    "description": "Volleyball League",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/a6cec182600d672a2e6ce19cc31f4c02.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "17:00",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601299220",
+                            "name": "Hyundai Skywalkers vs Woori",
+                            "contents": [
+                                {
+                                    "id": "601299220",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601299220",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601299223",
+                    "name": "Hungkuk W vs IBK W",
+                    "description": "Volleyball League Women",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/bf8f2583eb988f1384c0be18fb504dca.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "17:00",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601299223",
+                            "name": "Hungkuk W vs IBK W",
+                            "contents": [
+                                {
+                                    "id": "601299223",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601299223",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601299226",
+                    "name": "Busan OK vs Kepco",
+                    "description": "Volleyball League",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/a6cec182600d672a2e6ce19cc31f4c02.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "17:00",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601299226",
+                            "name": "Busan OK vs Kepco",
+                            "contents": [
+                                {
+                                    "id": "601299226",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601299226",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601299229",
+                    "name": "Pepper Savings Bank W vs GS Caltex Nữ",
+                    "description": "Volleyball League Women",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/bf8f2583eb988f1384c0be18fb504dca.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "17:00",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601299229",
+                            "name": "Pepper Savings Bank W vs GS Caltex Nữ",
+                            "contents": [
+                                {
+                                    "id": "601299229",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601299229",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                }
+            ]
+        },
+        {
+            "id": "martial_arts",
+            "name": "Võ Thuật",
+            "display": "horizontal",
+            "grid_number": 2,
+            "channels": [
+                {
+                    "id": "601299400",
+                    "name": " vs",
+                    "description": "",
+                    "image": {
+                        "url": "/img/soccer.svg",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "18:30",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601299400",
+                            "name": " vs",
+                            "contents": [
+                                {
+                                    "id": "601299400",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601299400",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601299406",
+                    "name": " vs",
+                    "description": "",
+                    "image": {
+                        "url": "/img/soccer.svg",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "08:00",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601299406",
+                            "name": " vs",
+                            "contents": [
+                                {
+                                    "id": "601299406",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601299406",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601299352",
+                    "name": " vs",
+                    "description": "",
+                    "image": {
+                        "url": "/img/soccer.svg",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "07:00",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601299352",
+                            "name": " vs",
+                            "contents": [
+                                {
+                                    "id": "601299352",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601299352",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                }
+            ]
+        },
+        {
+            "id": "table_tennis",
+            "name": "Bóng bàn",
+            "display": "horizontal",
+            "grid_number": 2,
+            "channels": [
+                {
+                    "id": "601299580",
+                    "name": "Satsuki ODO vs WANG Manyu",
+                    "description": "WTT Champions Chongqing 2026 Presented",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/60f0b3034ee18f0fdbf36cb1d1d3ce2c.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "LIVE",
+                        "position": "top-left",
+                        "color": "#e53935",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601299580",
+                            "name": "Satsuki ODO vs WANG Manyu",
+                            "contents": [
+                                {
+                                    "id": "601299580",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601299580",
+                                            "name": "LIVE",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601299550",
+                    "name": "AN Jaehyun vs Thibault PORET",
+                    "description": "WTT Champions Chongqing 2026 Presented",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/60f0b3034ee18f0fdbf36cb1d1d3ce2c.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "LIVE",
+                        "position": "top-left",
+                        "color": "#e53935",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601299550",
+                            "name": "AN Jaehyun vs Thibault PORET",
+                            "contents": [
+                                {
+                                    "id": "601299550",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601299550",
+                                            "name": "LIVE",
+                                            "stream_links": [
+                                                {
+                                                    "id": "601299550-1",
+                                                    "name": "BLV Bún Chó-hls",
+                                                    "type": "hls",
+                                                    "default": true,
+                                                    "url": "https://2893254555.global.cdnfastest.com/live/69af867470a68_18754/index.m3u8?expire=1773715700&sign=25eb441d48eb4ec3c19bcbc753fde7a0"
+                                                },
+                                                {
+                                                    "id": "601299550-2",
+                                                    "name": "BLV Bún Chó-flv",
+                                                    "type": "flv",
+                                                    "default": false,
+                                                    "url": "https://2893950149.global.cdnfastest.com/live/69af867470a68_18754.flv?expire=1773715700&sign=25eb441d48eb4ec3c19bcbc753fde7a0"
+                                                },
+                                                {
+                                                    "id": "601299550-3",
+                                                    "name": "BLV Bún Chó-hls2",
+                                                    "type": "hls",
+                                                    "default": false,
+                                                    "url": "https://59w50226.edgemaxcdn.org/live/69af867470a68_18754/index.m3u8?expire=1773715700&sign=25eb441d48eb4ec3c19bcbc753fde7a0"
+                                                },
+                                                {
+                                                    "id": "601299550-4",
+                                                    "name": "BLV Bún Chó-flv2",
+                                                    "type": "flv",
+                                                    "default": false,
+                                                    "url": "https://59w50226.edgemaxcdn.org/live/69af867470a68_18754.flv?expire=1773715700&sign=25eb441d48eb4ec3c19bcbc753fde7a0"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601299583",
+                    "name": "Anton KALLBERG vs Tomokazu HARIMOTO",
+                    "description": "WTT Champions Chongqing 2026 Presented",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/60f0b3034ee18f0fdbf36cb1d1d3ce2c.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "LIVE",
+                        "position": "top-left",
+                        "color": "#e53935",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601299583",
+                            "name": "Anton KALLBERG vs Tomokazu HARIMOTO",
+                            "contents": [
+                                {
+                                    "id": "601299583",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601299583",
+                                            "name": "LIVE",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601299595",
+                    "name": "Quadri ARUNA vs Felix LEBRUN",
+                    "description": "WTT Champions Chongqing 2026 Presented",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/60f0b3034ee18f0fdbf36cb1d1d3ce2c.png",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "17:30",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601299595",
+                            "name": "Quadri ARUNA vs Felix LEBRUN",
+                            "contents": [
+                                {
+                                    "id": "601299595",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601299595",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                }
+            ]
+        },
+        {
+            "id": "billiards",
+            "name": "Billiards",
+            "display": "horizontal",
+            "grid_number": 2,
+            "channels": [
+                {
+                    "id": "601308415",
+                    "name": "A Sakai vs Kim Min-a",
+                    "description": "PBA-LPBA World Championship 2026",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/447daae6af5e55164d1d43e807b2f3c0.jpg",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "LIVE",
+                        "position": "top-left",
+                        "color": "#e53935",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601308415",
+                            "name": "A Sakai vs Kim Min-a",
+                            "contents": [
+                                {
+                                    "id": "601308415",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601308415",
+                                            "name": "LIVE",
+                                            "stream_links": [
+                                                {
+                                                    "id": "601308415-1",
+                                                    "name": "Cọp Con 3 C-hls",
+                                                    "type": "hls",
+                                                    "default": true,
+                                                    "url": "https://2893254555.global.cdnfastest.com/live/69afa04e70a68_144313/index.m3u8?expire=1773722318&sign=6c10205ba90c17d669cb620239cf2bda"
+                                                },
+                                                {
+                                                    "id": "601308415-2",
+                                                    "name": "Cọp Con 3 C-flv",
+                                                    "type": "flv",
+                                                    "default": false,
+                                                    "url": "https://2893950149.global.cdnfastest.com/live/69afa04e70a68_144313.flv?expire=1773722318&sign=6c10205ba90c17d669cb620239cf2bda"
+                                                },
+                                                {
+                                                    "id": "601308415-3",
+                                                    "name": "Cọp Con 3 C-hls2",
+                                                    "type": "hls",
+                                                    "default": false,
+                                                    "url": "https://59w50226.edgemaxcdn.org/live/69afa04e70a68_144313/index.m3u8?expire=1773722318&sign=6c10205ba90c17d669cb620239cf2bda"
+                                                },
+                                                {
+                                                    "id": "601308415-4",
+                                                    "name": "Cọp Con 3 C-flv2",
+                                                    "type": "flv",
+                                                    "default": false,
+                                                    "url": "https://59w50226.edgemaxcdn.org/live/69afa04e70a68_144313.flv?expire=1773722318&sign=6c10205ba90c17d669cb620239cf2bda"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601308418",
+                    "name": "Han Seul-gi vs Kwon Bal-hae",
+                    "description": "PBA-LPBA World Championship 2026",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/447daae6af5e55164d1d43e807b2f3c0.jpg",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "LIVE",
+                        "position": "top-left",
+                        "color": "#e53935",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601308418",
+                            "name": "Han Seul-gi vs Kwon Bal-hae",
+                            "contents": [
+                                {
+                                    "id": "601308418",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601308418",
+                                            "name": "LIVE",
+                                            "stream_links": [
+                                                {
+                                                    "id": "601308418-1",
+                                                    "name": "BLV TomMi-hls",
+                                                    "type": "hls",
+                                                    "default": true,
+                                                    "url": "https://2893254555.global.cdnfastest.com/live/69af9be5326d7_142246/index.m3u8?expire=1773721189&sign=f7525ed2493bd3108c3d594680279fb9"
+                                                },
+                                                {
+                                                    "id": "601308418-2",
+                                                    "name": "BLV TomMi-flv",
+                                                    "type": "flv",
+                                                    "default": false,
+                                                    "url": "https://2893950149.global.cdnfastest.com/live/69af9be5326d7_142246.flv?expire=1773721189&sign=f7525ed2493bd3108c3d594680279fb9"
+                                                },
+                                                {
+                                                    "id": "601308418-3",
+                                                    "name": "BLV TomMi-hls2",
+                                                    "type": "hls",
+                                                    "default": false,
+                                                    "url": "https://59w50226.edgemaxcdn.org/live/69af9be5326d7_142246/index.m3u8?expire=1773721189&sign=f7525ed2493bd3108c3d594680279fb9"
+                                                },
+                                                {
+                                                    "id": "601308418-4",
+                                                    "name": "BLV TomMi-flv2",
+                                                    "type": "flv",
+                                                    "default": false,
+                                                    "url": "https://59w50226.edgemaxcdn.org/live/69af9be5326d7_142246.flv?expire=1773721189&sign=f7525ed2493bd3108c3d594680279fb9"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601308421",
+                    "name": "Kim Young-won vs Kim Jun-tae",
+                    "description": "PBA-LPBA World Championship 2026",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/447daae6af5e55164d1d43e807b2f3c0.jpg",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "14:30",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601308421",
+                            "name": "Kim Young-won vs Kim Jun-tae",
+                            "contents": [
+                                {
+                                    "id": "601308421",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601308421",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                },
+                {
+                    "id": "601308424",
+                    "name": "Lee Seung-jin vs Kim Im-gwon",
+                    "description": "PBA-LPBA World Championship 2026",
+                    "image": {
+                        "url": "https://cdn-live.taoxanh.biz/live-dev/cms/447daae6af5e55164d1d43e807b2f3c0.jpg",
+                        "width": 340,
+                        "height": 140,
+                        "type": "cover"
+                    },
+                    "type": "playlist",
+                    "display": "text-below",
+                    "label": {
+                        "text": "14:30",
+                        "position": "top-left",
+                        "color": "#3c35ba",
+                        "text_color": "#ffffff"
+                    },
+                    "sources": [
+                        {
+                            "id": "601308424",
+                            "name": "Lee Seung-jin vs Kim Im-gwon",
+                            "contents": [
+                                {
+                                    "id": "601308424",
+                                    "name": "",
+                                    "grid_number": 2,
+                                    "streams": [
+                                        {
+                                            "id": "601308424",
+                                            "name": "Xem ngay",
+                                            "stream_links": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "enable_detail": false
+                }
+            ]
+        }
+    ],
+    "option": {
+        "save_history": true,
+        "save_search_history": true,
+        "save_wishlist": true
+    }
+}
