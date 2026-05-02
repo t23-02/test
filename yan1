@@ -1,0 +1,505 @@
+{
+  "tags": [
+    {
+      "text": "Huyền Huyễn",
+      "type": "radio",
+      "url": "https://yan.nst4285.workers.dev/genre/huyen-huyen"
+    },
+    {
+      "text": "Xuyên Không",
+      "type": "radio",
+      "url": "https://yan.nst4285.workers.dev/genre/xuyen-khong"
+    },
+    {
+      "text": "Trùng Sinh",
+      "type": "radio",
+      "url": "https://yan.nst4285.workers.dev/genre/trung-sinh"
+    },
+    {
+      "text": "Tiên Hiệp",
+      "type": "radio",
+      "url": "https://yan.nst4285.workers.dev/genre/tien-hiep"
+    },
+    {
+      "text": "Cổ Trang",
+      "type": "radio",
+      "url": "https://yan.nst4285.workers.dev/genre/co-trang"
+    },
+    {
+      "text": "Hài Hước",
+      "type": "radio",
+      "url": "https://yan.nst4285.workers.dev/genre/hai-huoc"
+    },
+    {
+      "text": "Kiếm Hiệp",
+      "type": "radio",
+      "url": "https://yan.nst4285.workers.dev/genre/kiem-hiep"
+    },
+    {
+      "text": "Hiện Đại",
+      "type": "radio",
+      "url": "https://yan.nst4285.workers.dev/genre/hien-dai"
+    },
+    {
+      "text": "Huyền Huyễn",
+      "type": "radio",
+      "url": "https://yan.nst4285.workers.dev/genre/huyen-huyen"
+    },
+    {
+      "text": "Xuyên Không",
+      "type": "radio",
+      "url": "https://yan.nst4285.workers.dev/genre/xuyen-khong"
+    },
+    {
+      "text": "Trùng Sinh",
+      "type": "radio",
+      "url": "https://yan.nst4285.workers.dev/genre/trung-sinh"
+    },
+    {
+      "text": "Tiên Hiệp",
+      "type": "radio",
+      "url": "https://yan.nst4285.workers.dev/genre/tien-hiep"
+    },
+    {
+      "text": "Cổ Trang",
+      "type": "radio",
+      "url": "https://yan.nst4285.workers.dev/genre/co-trang"
+    },
+    {
+      "text": "Hài Hước",
+      "type": "radio",
+      "url": "https://yan.nst4285.workers.dev/genre/hai-huoc"
+    },
+    {
+      "text": "Kiếm Hiệp",
+      "type": "radio",
+      "url": "https://yan.nst4285.workers.dev/genre/kiem-hiep"
+    },
+    {
+      "text": "Hiện Đại",
+      "type": "radio",
+      "url": "https://yan.nst4285.workers.dev/genre/hien-dai"
+    }
+  ],
+  "sources": [
+    {
+      "id": "trach-thien-ky--tm",
+      "name": "Thuyết Minh",
+      "contents": [
+        {
+          "id": "trach-thien-ky--tm-0",
+          "name": "",
+          "grid_number": 3,
+          "streams": [
+            {
+              "id": "trach-thien-ky--tm-0-0",
+              "name": "Tập 1",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--tm-0-0-remote",
+                  "default": false,
+                  "url": "https://yan.nst4285.workers.dev/episodes/trach-thien-ky/1"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--tm-0-1",
+              "name": "Tập 2",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--tm-0-1-remote",
+                  "default": false,
+                  "url": "https://yan.nst4285.workers.dev/episodes/trach-thien-ky/2"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--tm-0-2",
+              "name": "Tập 3",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--tm-0-2-remote",
+                  "default": false,
+                  "url": "https://yan.nst4285.workers.dev/episodes/trach-thien-ky/3"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--tm-0-3",
+              "name": "Tập 4",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--tm-0-3-remote",
+                  "default": false,
+                  "url": "https://yan.nst4285.workers.dev/episodes/trach-thien-ky/4"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--tm-0-4",
+              "name": "Tập 5",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--tm-0-4-remote",
+                  "default": false,
+                  "url": "https://yan.nst4285.workers.dev/episodes/trach-thien-ky/5"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--tm-0-5",
+              "name": "Tập 6",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--tm-0-5-remote",
+                  "default": false,
+                  "url": "https://yan.nst4285.workers.dev/episodes/trach-thien-ky/6"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--tm-0-6",
+              "name": "Tập 7",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--tm-0-6-remote",
+                  "default": false,
+                  "url": "https://yan.nst4285.workers.dev/episodes/trach-thien-ky/7"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--tm-0-7",
+              "name": "Tập 8",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--tm-0-7-remote",
+                  "default": false,
+                  "url": "https://yan.nst4285.workers.dev/episodes/trach-thien-ky/8"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--tm-0-8",
+              "name": "Tập 9",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--tm-0-8-remote",
+                  "default": false,
+                  "url": "https://yan.nst4285.workers.dev/episodes/trach-thien-ky/9"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--tm-0-9",
+              "name": "Tập 10",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--tm-0-9-remote",
+                  "default": false,
+                  "url": "https://yan.nst4285.workers.dev/episodes/trach-thien-ky/10"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--tm-0-10",
+              "name": "Tập 11",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--tm-0-10-remote",
+                  "default": false,
+                  "url": "https://yan.nst4285.workers.dev/episodes/trach-thien-ky/11"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--tm-0-11",
+              "name": "Tập 12",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--tm-0-11-remote",
+                  "default": false,
+                  "url": "https://yan.nst4285.workers.dev/episodes/trach-thien-ky/12"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--tm-0-12",
+              "name": "Tập 13",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--tm-0-12-remote",
+                  "default": false,
+                  "url": "https://yan.nst4285.workers.dev/episodes/trach-thien-ky/13"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--tm-0-13",
+              "name": "Tập 14",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--tm-0-13-remote",
+                  "default": false,
+                  "url": "https://yan.nst4285.workers.dev/episodes/trach-thien-ky/14"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--tm-0-14",
+              "name": "Tập 15",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--tm-0-14-remote",
+                  "default": false,
+                  "url": "https://yan.nst4285.workers.dev/episodes/trach-thien-ky/15"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--tm-0-15",
+              "name": "Tập 16",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--tm-0-15-remote",
+                  "default": false,
+                  "url": "https://yan.nst4285.workers.dev/episodes/trach-thien-ky/16"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trach-thien-ky--vs",
+      "name": "Vietsub",
+      "contents": [
+        {
+          "id": "trach-thien-ky--vs-0",
+          "name": "",
+          "grid_number": 3,
+          "streams": [
+            {
+              "id": "trach-thien-ky--vs-0-0",
+              "name": "Tập 1",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--vs-0-0-remote",
+                  "name": "Tải khi xem",
+                  "type": "remote",
+                  "default": true,
+                  "url": "https://yan.nst4285.workers.dev/episodes/sever2/trach-thien-ky/1"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--vs-0-1",
+              "name": "Tập 2",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--vs-0-1-remote",
+                  "name": "Tải khi xem",
+                  "type": "remote",
+                  "default": true,
+                  "url": "https://yan.nst4285.workers.dev/episodes/sever2/trach-thien-ky/2"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--vs-0-2",
+              "name": "Tập 3",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--vs-0-2-remote",
+                  "name": "Tải khi xem",
+                  "type": "remote",
+                  "default": true,
+                  "url": "https://yan.nst4285.workers.dev/episodes/sever2/trach-thien-ky/3"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--vs-0-3",
+              "name": "Tập 4",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--vs-0-3-remote",
+                  "name": "Tải khi xem",
+                  "type": "remote",
+                  "default": true,
+                  "url": "https://yan.nst4285.workers.dev/episodes/sever2/trach-thien-ky/4"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--vs-0-4",
+              "name": "Tập 5",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--vs-0-4-remote",
+                  "name": "Tải khi xem",
+                  "type": "remote",
+                  "default": true,
+                  "url": "https://yan.nst4285.workers.dev/episodes/sever2/trach-thien-ky/5"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--vs-0-5",
+              "name": "Tập 6",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--vs-0-5-remote",
+                  "name": "Tải khi xem",
+                  "type": "remote",
+                  "default": true,
+                  "url": "https://yan.nst4285.workers.dev/episodes/sever2/trach-thien-ky/6"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--vs-0-6",
+              "name": "Tập 7",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--vs-0-6-remote",
+                  "name": "Tải khi xem",
+                  "type": "remote",
+                  "default": true,
+                  "url": "https://yan.nst4285.workers.dev/episodes/sever2/trach-thien-ky/7"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--vs-0-7",
+              "name": "Tập 8",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--vs-0-7-remote",
+                  "name": "Tải khi xem",
+                  "type": "remote",
+                  "default": true,
+                  "url": "https://yan.nst4285.workers.dev/episodes/sever2/trach-thien-ky/8"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--vs-0-8",
+              "name": "Tập 9",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--vs-0-8-remote",
+                  "name": "Tải khi xem",
+                  "type": "remote",
+                  "default": true,
+                  "url": "https://yan.nst4285.workers.dev/episodes/sever2/trach-thien-ky/9"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--vs-0-9",
+              "name": "Tập 10",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--vs-0-9-remote",
+                  "name": "Tải khi xem",
+                  "type": "remote",
+                  "default": true,
+                  "url": "https://yan.nst4285.workers.dev/episodes/sever2/trach-thien-ky/10"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--vs-0-10",
+              "name": "Tập 11",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--vs-0-10-remote",
+                  "name": "Tải khi xem",
+                  "type": "remote",
+                  "default": true,
+                  "url": "https://yan.nst4285.workers.dev/episodes/sever2/trach-thien-ky/11"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--vs-0-11",
+              "name": "Tập 12",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--vs-0-11-remote",
+                  "name": "Tải khi xem",
+                  "type": "remote",
+                  "default": true,
+                  "url": "https://yan.nst4285.workers.dev/episodes/sever2/trach-thien-ky/12"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--vs-0-12",
+              "name": "Tập 13",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--vs-0-12-remote",
+                  "name": "Tải khi xem",
+                  "type": "remote",
+                  "default": true,
+                  "url": "https://yan.nst4285.workers.dev/episodes/sever2/trach-thien-ky/13"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--vs-0-13",
+              "name": "Tập 14",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--vs-0-13-remote",
+                  "name": "Tải khi xem",
+                  "type": "remote",
+                  "default": true,
+                  "url": "https://yan.nst4285.workers.dev/episodes/sever2/trach-thien-ky/14"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--vs-0-14",
+              "name": "Tập 15",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--vs-0-14-remote",
+                  "name": "Tải khi xem",
+                  "type": "remote",
+                  "default": true,
+                  "url": "https://yan.nst4285.workers.dev/episodes/sever2/trach-thien-ky/15"
+                }
+              ]
+            },
+            {
+              "id": "trach-thien-ky--vs-0-15",
+              "name": "Tập 16",
+              "stream_links": [
+                {
+                  "id": "trach-thien-ky--vs-0-15-remote",
+                  "name": "Tải khi xem",
+                  "type": "remote",
+                  "default": true,
+                  "url": "https://yan.nst4285.workers.dev/episodes/sever2/trach-thien-ky/16"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subtitle": "Vietsub",
+  "title": "Trạch Thiên Ký",
+  "description": "Từ khi sinh ra đã mang sẵn trong mình một căn bệnh bí ẩn, tạm coi là vô phương cứu chữa, vì người mắc phải căn bệnh đó thì dương thọ không thể kéo dài quá 20 mùa bánh chưng. Nhưng cũng không thể đầu hàng số phận một cách bất lực như vậy, Trần Trường Sinh, cậu thiếu niên tràn đầy nghị lực sống đã quy",
+  "image": {
+    "url": "https://yanhh3d.bz/storage/movies/trach-thien-ky-1769837496.png",
+    "type": "cover",
+    "width": 300,
+    "height": 450
+  }
+}
