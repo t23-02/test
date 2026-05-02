@@ -94,11 +94,9 @@
             {
               "id": "dau-pha-thuong-khung-phan-5-thuyet-minh-new-tm-108",
               "name": "Tập 108",
-              "stream_links": [
-				  "remote_data": {
+			  "remote_data": {
 					  "url": "https://yan.nst4285.workers.dev/episodes/dau-pha-thuong-khung-phan-5-thuyet-minh-new/107"
-						}
-              ]
+					  }
             }
           ]
         }
