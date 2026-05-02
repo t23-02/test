@@ -92,34 +92,19 @@
           "grid_number": 3,
           "streams": [
             {
-              "id": "dau-pha-thuong-khung-phan-5-thuyet-minh-new-tm-107",
-              "name": "Tập 107",
-              "stream_links": [
-                {
-                  "id": "dau-pha-thuong-khung-phan-5-thuyet-minh-new-tm-107-remote",
-                  "name": "Tải link",
-                  "type": "remote",
-                  "default": true,
-                  "url": "https://yan.nst4285.workers.dev/episodes/dau-pha-thuong-khung-phan-5-thuyet-minh-new/107"
-                }
-              ]
-            },
-            {
               "id": "dau-pha-thuong-khung-phan-5-thuyet-minh-new-tm-108",
               "name": "Tập 108",
               "stream_links": [
-                {
 				  "remote_data": {
 					  "url": "https://yan.nst4285.workers.dev/episodes/dau-pha-thuong-khung-phan-5-thuyet-minh-new/107"
-					  }
+						}
               ]
             }
           ]
         }
       ]
     }
-  ]
-,
+  ],
       "enable_detail": true
     },
     {
