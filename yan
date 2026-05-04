@@ -72,13 +72,13 @@
                                         }, {
                                             "id": "dai-dao-doc-hanh--1-LINK2",
                                             "name": "HD",
-                                            "type": "remote",
+                                            "type": "webview",
                                             "default": false,
                                             "url": "https://yanhh3d.bz/play-fb-v8/play/994127406513557"
                                         }, {
                                             "id": "dai-dao-doc-hanh--1-LINK4",
                                             "name": "1080-",
-                                            "type": "hls",
+                                            "type": "webview",
                                             "default": false,
                                             "url": "https://scontent-sin2-7-xx.fbcdn.cloud/o2/v/t2/f2/m366/6cf1c857-ef29-4cdf-a4e8-bc76e5712457.m3u8",
                                             "request_headers": [{
@@ -92,7 +92,7 @@
                                         }, {
                                             "id": "dai-dao-doc-hanh--1-LINK5",
                                             "name": "4K",
-                                            "type": "hls",
+                                            "type": "webview",
                                             "default": false,
                                             "url": "https://scontent-sin2-8-xx.fbcdn.cloud/o2/v/t2/f2/m366/68677c74-6a77-458a-90f9-6d4193bf64f5.m3u8",
                                             "request_headers": [{
@@ -106,7 +106,7 @@
                                         }, {
                                             "id": "dai-dao-doc-hanh--1-LINK6",
                                             "name": "4K-",
-                                            "type": "hls",
+                                            "type": "webview",
                                             "default": false,
                                             "url": "https://scontent-sin2-7-xx.fbcdn.cloud/o2/v/t2/f2/m366/4031ba08-e795-42b1-a9a2-55a74d4346c5.m3u8",
                                             "request_headers": [{
