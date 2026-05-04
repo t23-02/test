@@ -1,162 +1,124 @@
 {
-  "id": "yanhh3d",
-  "name": "YanHH3D",
-  "url": "https://yan.nst4285.workers.dev",
-  "color": "#e55c00",
-  "image": {
-    "url": "https://yanhh3d.bz/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
-    "type": "cover"
-  },
-  "description": "Hoạt hình Trung Quốc Thuyết Minh - YanHH3D",
-  "share": {
-    "url": "https://yanhh3d.bz"
-  },
-  "notice": {
-    "closeable": true,
-    "icon": "",
-    "id": "notice-yanhh3d",
-    "link": "https://yanhh3d.bz",
-    "text": "YanHH3D — Hoạt Hình 3D Thuyết Minh"
-  },
-  "grid_number": 3,
-  "channels": [
-    {
-      "id": "thon-phe-tinh-khong",
-      "name": "Thôn Phệ Tinh Không",
-      "description": "",
-      "image": {
-        "url": "https://yanhh3d.bz/storage/movies/thon-phe-tinh-khong-1762827757.png",
-        "type": "cover",
-        "width": 300,
-        "height": 450
-      },
-      "type": "playlist",
-      "display": "text-below",
-      "label": {
-        "text": "Tập 1",
-        "position": "top-left",
-        "color": "#e55c00",
-        "text_color": "#ffffff"
-      },
-      "remote_data": {
-        "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/1"
-      },
-      "enable_detail": true
-    },{
-      "id": "thon-phe-tinh-khong",
-      "name": "Thôn Phệ Tinh Không",
-      "description": "",
-      "image": {
-        "url": "https://yanhh3d.bz/storage/movies/thon-phe-tinh-khong-1762827757.png",
-        "type": "cover",
-        "width": 300,
-        "height": 450
-      },
-      "type": "playlist",
-      "display": "text-below",
-      "label": {
-        "text": "Tập 2",
-        "position": "top-left",
-        "color": "#e55c00",
-        "text_color": "#ffffff"
-      },
-      "remote_data": {
-        "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/2"
-      },
-      "enable_detail": true
-    },{
-      "id": "thon-phe-tinh-khong",
-      "name": "Thôn Phệ Tinh Không",
-      "description": "",
-      "image": {
-        "url": "https://yanhh3d.bz/storage/movies/thon-phe-tinh-khong-1762827757.png",
-        "type": "cover",
-        "width": 300,
-        "height": 450
-      },
-      "type": "playlist",
-      "display": "text-below",
-      "label": {
-        "text": "Tập 3",
-        "position": "top-left",
-        "color": "#e55c00",
-        "text_color": "#ffffff"
-      },
-      "remote_data": {
-        "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/3"
-      },
-      "enable_detail": true
-    },{
-      "id": "thon-phe-tinh-khong",
-      "name": "Thôn Phệ Tinh Không",
-      "description": "",
-      "image": {
-        "url": "https://yanhh3d.bz/storage/movies/thon-phe-tinh-khong-1762827757.png",
-        "type": "cover",
-        "width": 300,
-        "height": 450
-      },
-      "type": "playlist",
-      "display": "text-below",
-      "label": {
-        "text": "Tập 4",
-        "position": "top-left",
-        "color": "#e55c00",
-        "text_color": "#ffffff"
-      },
-      "remote_data": {
-        "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/4"
-      },
-      "enable_detail": true
-    },{
-      "id": "thon-phe-tinh-khong",
-      "name": "Thôn Phệ Tinh Không",
-      "description": "",
-      "image": {
-        "url": "https://yanhh3d.bz/storage/movies/thon-phe-tinh-khong-1762827757.png",
-        "type": "cover",
-        "width": 300,
-        "height": 450
-      },
-      "type": "playlist",
-      "display": "text-below",
-      "label": {
-        "text": "Tập 5",
-        "position": "top-left",
-        "color": "#e55c00",
-        "text_color": "#ffffff"
-      },
-      "remote_data": {
-        "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/5"
-      },
-      "enable_detail": true
-    },{
-      "id": "thon-phe-tinh-khong",
-      "name": "Thôn Phệ Tinh Không",
-      "description": "",
-      "image": {
-        "url": "https://yanhh3d.bz/storage/movies/thon-phe-tinh-khong-1762827757.png",
-        "type": "cover",
-        "width": 300,
-        "height": 450
-      },
-      "type": "playlist",
-      "display": "text-below",
-      "label": {
-        "text": "Tập 6",
-        "position": "top-left",
-        "color": "#e55c00",
-        "text_color": "#ffffff"
-      },
-      "remote_data": {
-        "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/6"
-      },
-      "enable_detail": true
+    "id": "yanhh3d",
+    "name": "YanHH3D",
+    "url": "https://yan.nst4285.workers.dev",
+    "color": "#e55c00",
+    "image": {
+        "url": "https://yanhh3d.bz/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
+        "type": "cover"
     },
-  ],
-  "option": {
-    "save_history": true,
-    "save_search_history": true,
-    "save_wishlist": true
-  }
+    "description": "Hoạt hình Trung Quốc Thuyết Minh - YanHH3D",
+    "share": {
+        "url": "https://yanhh3d.bz"
+    },
+    "notice": {
+        "closeable": true,
+        "icon": "",
+        "id": "notice-yanhh3d",
+        "link": "https://yanhh3d.bz",
+        "text": "YanHH3D — Hoạt Hình 3D Thuyết Minh"
+    },
+    "grid_number": 3,
+    "channels": [{
+            "id": "thon-phe-tinh-khong",
+            "name": "Thôn Phệ Tinh Không",
+            "description": "",
+            "image": {
+                "url": "https://yanhh3d.bz/storage/movies/thon-phe-tinh-khong-1762827757.png",
+                "type": "cover",
+                "width": 300,
+                "height": 450
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Tập 1",
+                "position": "top-left",
+                "color": "#e55c00",
+                "text_color": "#ffffff"
+            },
+            "sources": [{
+                    "id": "thon-phe-tinh-khong--tm",
+                    "name": "Thuyết Minh",
+                    "contents": [{
+                            "id": "thon-phe-tinh-khong--tm-0",
+                            "name": "",
+                            "grid_number": 3,
+                            "streams": [{
+                                    "id": "thon-phe-tinh-khong--tm-0-0",
+                                    "name": "Tập 1",
+                                    "stream_links": [{
+                                            "id": "thon-phe-tinh-khong--tm-0-0-remote",
+                                            "default": false,
+                                            "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/1"
+                                        }
+                                    ]
+                                }, {
+                                    "id": "thon-phe-tinh-khong--tm-0-1",
+                                    "name": "Tập 2",
+                                    "stream_links": [{
+                                            "id": "thon-phe-tinh-khong--tm-0-1-remote",
+                                            "default": false,
+                                            "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/2"
+                                        }
+                                    ]
+                                }, {
+                                    "id": "thon-phe-tinh-khong--tm-0-2",
+                                    "name": "Tập 3",
+                                    "stream_links": [{
+                                            "id": "thon-phe-tinh-khong--tm-0-2-remote",
+                                            "default": false,
+                                            "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/3"
+                                        }
+                                    ]
+                                }, {
+                                    "id": "thon-phe-tinh-khong--tm-0-3",
+                                    "name": "Tập 4",
+                                    "stream_links": [{
+                                            "id": "thon-phe-tinh-khong--tm-0-3-remote",
+                                            "default": false,
+                                            "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/4"
+                                        }
+                                    ]
+                                }, {
+                                    "id": "thon-phe-tinh-khong--tm-0-4",
+                                    "name": "Tập 5",
+                                    "stream_links": [{
+                                            "id": "thon-phe-tinh-khong--tm-0-4-remote",
+                                            "default": false,
+                                            "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/5"
+                                        }
+                                    ]
+                                }, {
+                                    "id": "thon-phe-tinh-khong--tm-0-5",
+                                    "name": "Tập 6",
+                                    "stream_links": [{
+                                            "id": "thon-phe-tinh-khong--tm-0-5-remote",
+                                            "default": false,
+                                            "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/6"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "subtitle": "Vietsub",
+            "title": "Thôn Phệ Tinh Không",
+            "description": "Một ngày nọ, thế giới xuất hiện loại virus RR không rõ lai lịch, cuốn thế giới vào thảm hoạ. Động vật bị truyền nhiễm đột biến thành quái thú đáng sợ, xâm lược với số lượng lớn. Trong lúc loài người đối mặt với diệt vong, họ đã xây lên bức tường bao vây, thành lập căn cứ làm pháo đài cuối cùng bảo v",
+            "image": {
+                "url": "https://yanhh3d.bz/storage/movies/thon-phe-tinh-khong-1762827757.png",
+                "type": "cover",
+                "width": 300,
+                "height": 450
+            },
+            "enable_detail": true
+        }
+    ],
+    "option": {
+        "save_history": true,
+        "save_search_history": true,
+        "save_wishlist": true
+    }
 }
