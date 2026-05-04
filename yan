@@ -58,65 +58,27 @@
                                     "stream_links": [{
                                             "id": "dai-dao-doc-hanh--1-LINK1",
                                             "name": "1080",
-                                            "type": "hls",
+                                            "type": "webview",
                                             "default": true,
-                                            "url": "https://scontent-sin2-8-xx.fbcdn.cloud/o2/v/t2/f2/m366/e539a9a6-f786-4613-bd7b-9b35f3f279d3.m3u8",
-                                            "request_headers": [{
-                                                    "key": "Referer",
-                                                    "value": "https://yanhh3d.bz/"
-                                                }, {
-                                                    "key": "User-Agent",
-                                                    "value": "Mozilla/5.0"
-                                                }
-                                            ]
+                                            "url": "https://ok.ru/videoembed/11057146759905"
                                         }, {
                                             "id": "dai-dao-doc-hanh--1-LINK2",
                                             "name": "HD",
                                             "type": "webview",
                                             "default": false,
-                                            "url": "https://yanhh3d.bz/play-fb-v8/play/994127406513557"
+                                            "url": "https://ok.ru/videoembed/11057603545825"
                                         }, {
                                             "id": "dai-dao-doc-hanh--1-LINK4",
                                             "name": "1080-",
                                             "type": "webview",
                                             "default": false,
-                                            "url": "https://scontent-sin2-7-xx.fbcdn.cloud/o2/v/t2/f2/m366/6cf1c857-ef29-4cdf-a4e8-bc76e5712457.m3u8",
-                                            "request_headers": [{
-                                                    "key": "Referer",
-                                                    "value": "https://yanhh3d.bz/"
-                                                }, {
-                                                    "key": "User-Agent",
-                                                    "value": "Mozilla/5.0"
-                                                }
-                                            ]
+                                            "url": "https://ok.ru/videoembed/11057512057569"
                                         }, {
                                             "id": "dai-dao-doc-hanh--1-LINK5",
                                             "name": "4K",
                                             "type": "webview",
                                             "default": false,
-                                            "url": "https://scontent-sin2-8-xx.fbcdn.cloud/o2/v/t2/f2/m366/68677c74-6a77-458a-90f9-6d4193bf64f5.m3u8",
-                                            "request_headers": [{
-                                                    "key": "Referer",
-                                                    "value": "https://yanhh3d.bz/"
-                                                }, {
-                                                    "key": "User-Agent",
-                                                    "value": "Mozilla/5.0"
-                                                }
-                                            ]
-                                        }, {
-                                            "id": "dai-dao-doc-hanh--1-LINK6",
-                                            "name": "4K-",
-                                            "type": "webview",
-                                            "default": false,
-                                            "url": "https://scontent-sin2-7-xx.fbcdn.cloud/o2/v/t2/f2/m366/4031ba08-e795-42b1-a9a2-55a74d4346c5.m3u8",
-                                            "request_headers": [{
-                                                    "key": "Referer",
-                                                    "value": "https://yanhh3d.bz/"
-                                                }, {
-                                                    "key": "User-Agent",
-                                                    "value": "Mozilla/5.0"
-                                                }
-                                            ]
+                                            "url": "https://ok.ru/videoembed/11058016094945"
                                         }
                                     ]
                                 }
