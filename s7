@@ -1,0 +1,32 @@
+{
+    "id": "cakhiatv",
+    "color": "#ff6600",
+    "name": "CaKhia TV",
+    "url": "https://cktv.pro/",
+    "description": "Xem bóng đá trực tiếp hôm nay trên Cakhia TV - Cakhiatv tốc độ cao, không giật lag",
+    "disable_ads": true,
+    "grid_number": 3,
+    "image": {
+        "type": "cover",
+        "url": "https://cktv.pro/logo-cakhia.png"
+    },
+    "groups": [],
+    "sorts": [],
+    "org_metadata": {
+        "title": "CaKhiaTV - Xem bóng đá trực tiếp hôm nay trên Cakhia TV - Cakhiatv tốc độ cao, không giật lag",
+        "description": "CaKhiaTV - TRỰC TIẾP BÓNG ĐÁ - BÌNH LUẬN TIẾNG VIỆT TẠI CAKHIA TV. BLV GIÀNG A PHÒ - GIÀNG A LỬ - GIÀNG A PÁO - GIÀNG A CAY",
+        "image": "https://cktv.pro/logo-cakhia2.png"
+    },
+    "notice": {
+        "id": "notice",
+        "link": "https://t.me/xemgicungshare",
+        "text": "",
+        "icon": "https://cktv.pro/tele.png",
+        "closeable": true
+    },
+    "option": {
+        "save_history": false,
+        "save_search_history": false,
+        "save_wishlist": false
+    }
+}
