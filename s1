@@ -1117,7 +1117,7 @@
                         "height": 100
                     },
                     "remote_data": {
-                        "url": "monplayer:_monplayer.org?link=https%3A%2F%2Faphim.nst4285.workers.dev&type=provider",
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Faphim.nst4285.workers.dev&type=provider",
                         "external": true
                     }
                 }, {
@@ -1131,7 +1131,7 @@
                         "height": 100
                     },
                     "remote_data": {
-                        "url": "monplayer:_monplayer.org?link=https%3A%2F%2Fngc.nst4285.workers.dev&type=provider",
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Fngc.nst4285.workers.dev&type=provider",
                         "external": true
                     }
                 }, {
@@ -1145,7 +1145,7 @@
                         "height": 100
                     },
                     "remote_data": {
-                        "url": "monplayer:_monplayer.org?link=https%3A%2F%2Fyan.nst4285.workers.dev&type=provider",
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Fyan.nst4285.workers.dev&type=provider",
                         "external": true
                     }
                 }, {
@@ -1159,7 +1159,7 @@
                         "height": 100
                     },
                     "remote_data": {
-                        "url": "monplayer:_monplayer.org?link=https%3A%2F%2Fk2p.nst4285.workers.dev&type=provider",
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Fk2p.nst4285.workers.dev&type=provider",
                         "external": true
                     }
                 }, {
@@ -1173,7 +1173,7 @@
                         "height": 100
                     },
                     "remote_data": {
-                        "url": "monplayer:_monplayer.org?link=https%3A%2F%2Foph.nst4285.workers.dev&type=provider",
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Foph.nst4285.workers.dev&type=provider",
                         "external": true
                     }
                 }, {
@@ -1187,7 +1187,7 @@
                         "height": 100
                     },
                     "remote_data": {
-                        "url": "monplayer:_monplayer.org?link=https%3A%2F%2Fyanhh3d.nst4285.workers.dev&type=provider",
+                        "url": "monplayer://monplayer.org?link=https%3A%2F%2Fyanhh3d.nst4285.workers.dev&type=provider",
                         "external": true
                     }
                 }
