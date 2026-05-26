@@ -4,7 +4,7 @@
   "url": "https://yan.nst4285.workers.dev",
   "color": "#e55c00",
   "image": {
-    "url": "https://yanhh3d.ad/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
+    "url": "https://dash.cloudflare.com/favicon.ico",
     "type": "cover"
   },
   "description": "Hoạt hình Trung Quốc Thuyết Minh - YanHH3D",
@@ -972,7 +972,7 @@
                     "name": "A phim",
                     "display": "text-below",
                     "image": {
-                        "url": "https://yanhh3d.ad/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
+                        "url": "https://dash.cloudflare.com/favicon.ico",
                         "type": "cover",
                         "width": 100,
                         "height": 100
@@ -986,7 +986,7 @@
                     "name": "Nguồn C",
                     "display": "text-below",
                     "image": {
-                        "url": "https://yanhh3d.ad/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
+                        "url": "https://dash.cloudflare.com/favicon.ico",
                         "type": "cover",
                         "width": 100,
                         "height": 100
@@ -1000,7 +1000,7 @@
                     "name": "YanHH3D",
                     "display": "text-below",
                     "image": {
-                        "url": "https://yanhh3d.ad/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
+                        "url": "https://dash.cloudflare.com/favicon.ico",
                         "type": "cover",
                         "width": 100,
                         "height": 100
@@ -1014,7 +1014,7 @@
                     "name": "KK Phim",
                     "display": "text-below",
                     "image": {
-                        "url": "https://yanhh3d.ad/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
+                        "url": "https://dash.cloudflare.com/favicon.ico",
                         "type": "cover",
                         "width": 100,
                         "height": 100
@@ -1028,7 +1028,7 @@
                     "name": "Ổ Phim",
                     "display": "text-below",
                     "image": {
-                        "url": "https://yanhh3d.ad/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
+                        "url": "https://dash.cloudflare.com/favicon.ico",
                         "type": "cover",
                         "width": 100,
                         "height": 100
@@ -1042,7 +1042,7 @@
                     "name": "Hoạt Hình 3D",
                     "display": "text-below",
                     "image": {
-                        "url": "https://yanhh3d.ad/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
+                        "url": "https://dash.cloudflare.com/favicon.ico",
                         "type": "cover",
                         "width": 100,
                         "height": 100
@@ -1089,5 +1089,7 @@
     "save_wishlist": true
   }
 }
+
+
 
 
