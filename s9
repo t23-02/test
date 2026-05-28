@@ -48,15 +48,6 @@
                   "id": "content-1",
                   "name": "Content",
                   "image": null,
-					  "request_headers": [
-						{
-							"key": "Referer",
-							"value": "https://nettruyen.in.net/"
-						},{
-							"key": "User-Agent",
-							"value": "Mozilla/5.0"
-						}
-					],
                   "streams": [
                     {
                       "id": "7-natural-wonders-full",
