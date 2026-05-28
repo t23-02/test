@@ -1,93 +1,67 @@
 {
-    "id": "foxtruyen",
-    "name": "FoxTruyen",
-    "url": "https://fox.nst4285.workers.dev",
-    "color": "#e74c3c",
-    "image": {
-        "url": "https://st.foxtruyen2.com/template/frontend/img/logo.png",
-        "type": "cover"
-    },
-    "description": "Đọc truyện tranh online miễn phí",
-    "share": {
-        "url": "https://foxtruyen2.com"
-    },
-    "grid_number": 3,
-    "groups": [{
-            "id": "dang-hot-hom-nay",
-            "name": "🔥 Đang Hot Hôm Nay",
-            "display": "slider",
-            "channels": [{
-                    "id": "dai-tuong-vo-hinh-36725",
-                    "name": "Đại Tượng Vô Hình",
-                    "image": {
-                        "url": "https://i.hinhgg.com/ebook/230x300/dai-tuong-vo-hinh-1724215887.jpg",
-                        "type": "cover",
-                        "width": 230,
-                        "height": 300
-                    },
-                    "type": "playlist",
-                    "display": "text-below",
-                    "label": {
-                        "text": "Chương 560",
-                        "position": "top-left",
-                        "color": "#e74c3c",
-                        "text_color": "#ffffff"
-                    },
-                    "description": "Đại Tượng Vô Hình : Nữ u...",
-                    "image": {
-                        "url": "https://i.hinhgg.com/ebook/230x300/dai-tuong-vo-hinh-1724215887.jpg",
-                        "type": "cover"
-                    },
-                    "sources": [{
-                            "id": "dai-tuong-vo-hinh-36725",
-                            "name": "Danh Sách Chương",
-                            "contents": [{
-                                    "id": "dai-tuong-vo-hinh-36725-chaps",
-                                    "name": "",
-                                    "grid_number": 2,
-                                    "streams": [{
-                                            "id": "truyen-tranh/dai-tuong-vo-hinh-36725-chap-560",
-                                            "name": "Chương 560",
-                                            "description": "27/05/2026",
-											"text": "<h2>The 7 Natural Wonders of the World</h2><br/><p>These spectacular spots reveal the diverse splendor of planet Earth.</p><img src='https://www.treehugger.com/thmb/wbHULhzd3FmelCIpRs985GvaXMA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1222641963-a15da5f1dc6147ad8fc1f5056be8e21b.jpg' width='2121' height='1414' alt='Aerial view of snow-capped Mount Everest' /> <br/><p>The practice of compiling 'wonders' into groups of seven dates back to Ancient Greece, when the list we now know as the Seven Ancient Wonders of the World was first created. Today, we also have the Seven Modern Wonders of the World and several other groupings.</p> <br/><p>For nature lovers, the seven <em>natural</em> wonders of the world are particularly exciting. These sites are all naturally formed, without significant alteration by humans.</p> <br/><p>There are several different versions of the seven natural wonders of the world list. We'll focus on the most commonly accepted list, which originated in a 1997 CNN article and is promoted by the conservation organization <a href='http://sevennaturalwonders.org/world-seven-wonders/' target='_blank' rel='noopener'>Seven Natural Wonders</a>.</p> <br/><p>Here's what you need to know about the seven natural wonders of the world.</p> <br/><h2>Grand Canyon</h2> <img src='https://www.treehugger.com/thmb/JyjDJ1y3OfLtDNcFYTA13CG0Q10=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-858637934-620585f8aa3942afa11b0916aa860161.jpg' width='2119' height='1415' alt='View of Colorado River in Grand Canyon National Park' /> <br/><p>The Grand Canyon in the southwestern United States is called 'grand' for good reason. At more than a mile deep, 277 river miles long, and between four and 18 miles wide, it is one of the largest and longest canyons in the world. It covers an area of over 9.5 million square miles. For perspective, that's bigger than the state of Rhode Island.</p> <br/><p>This natural wonder was formed through erosion by the Colorado River, with geologists using its distinct layers to estimate its impressive age—between 30 and 70 million years old. The rocks hide more than 1,000 caves, some functioning as hideouts for animals and others revealing prehistoric artifacts. Not surprisingly, there are countless fossils, some dating back as far as the Precambrian period, 1,200 million to 740 million years ago.</p> <br/><p>Visitors can see the Grand Canyon in person by going to <a href='https://www.treehugger.com/grand-canyon-national-park-a-users-guide-4859742'>Grand Canyon National Park</a> in Arizona and viewing it from a lookout, or they can get up close and personal by white water rafting in the river or hiking through the canyon. You should dress properly in layers. Sudden changes in elevation can affect precipitation and temperature, and it can be far colder inside the canyon than above.</p> <br/><h2>Great Barrier Reef</h2> <img src='https://www.treehugger.com/thmb/qRENBpdSFEcZK2T3tmOQzcLP08w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-158714547-b7b802a00f2c4d3e9412e14103a39ac3.jpg' width='2141' height='1401' alt='Great Barrier Reef Australia' /> <br/><p>Covering roughly 216,000 square miles of the Coral Sea, the Great Barrier Reef is the largest coral reef system in the world. More than 2,500 individual reefs and 900 islands make up this natural wonder, which stretches over 1,200 miles along the coastline of northeastern Australia.</p> <br/><p>This reef is incredibly biodiverse. More than 1,500 species of fish, 4,000 species of mollusk, and 400 species of coral can be found in the reef's extensive ecosystems. The reef serves as a crucial habitat for species that many people rely on for protein, and it functions as a natural storm break that's far more effective than anything human-made.</p> <br/><p>Despite its immense size, the reef is in trouble. Warming seas pose a threat to corals, which are sensitive to changes in water temperatures. Several <a href='https://www.treehugger.com/great-barrier-reef-threats-4868728'>mass bleaching events</a> have killed significant swaths of coral, with an estimated 50% already lost and as much as 67% in the northern part of the reef region. UNESCO wants to add the Great Barrier Reef to a list of natural sites in danger, but Australia has <a href='https://www.treehugger.com/australia-keep-great-barrier-reef-off-in-danger-list-5194408'>pushed back</a> against that. Some individuals are taking matters into their own hands, trying to <a href='https://www.treehugger.com/diving-tour-operators-australia-planting-corals-4859395'>replant coral</a> to replace ones that have been lost.</p> <br/><h2>Harbor of Rio de Janeiro</h2> <img src='https://www.treehugger.com/thmb/N-FPzev85yGhSuAF2l79FMh9NLE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-524181098-25f892abc46b4952ba894a074570e076.jpg' width='2186' height='1371' alt='Aerial view of Rio de Janeiro from Sugarloaf Mountain' /> <br/><p>The harbor that wraps around Rio de Janeiro, Brazil, is the largest natural bay in the world and a sight to behold. Erosion by the Atlantic Ocean carved out this natural wonder, which is also known as Guanabara Bay. The land around the harbor is dotted with mountains, among them the Hills of Tijuca at 3,350 tall, Corcovado Peak at 2,310 feet tall, and Sugar Loaf at 1,296 feet tall.</p> <br/><p>Large cargo ships and recreational yachts can often be seen in Rio de Janeiro's harbor. It is both a critical waterway for shipping and a popular tourist destination, with stunning sandy beaches nearby (you've probably heard of Ipanema and Copacabana).</p> <br/><p>Unfortunately, Guanabara Bay is threatened by pollution. Large amounts of raw sewage (from underserved communities, or <em>favelas</em>, without proper sanitation services) and industrial waste from facilities such as oil terminals, two airports, and thousands of factories wash into the harbor daily. The stench can be overwhelming, especially in hot weather.</p> <br/><h2>Mount Everest</h2> <img src='https://www.treehugger.com/thmb/I5SPA-63t_nD8AGC1G1aw842RqE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1209795114-e24a5c063cce4fb683fcf026b7e02de7.jpg' width='2121' height='1414' alt='Mount Everest in Tibet' /> <br/><p>Mount Everest on the border of Nepal and Tibet is the tallest mountain in the world. Its peak is the highest point above sea level on Earth with an altitude of almost 29,032 feet. This mountain is still growing as shifting tectonic plates continue pushing it upward, the same way it first began forming millions of years ago.</p> <br/><p>Brave visitors can hike Mount Everest, but not without plenty of experience and the accompaniment of trained guides. Such high altitudes deprive the body of oxygen, making an already difficult trek even more physically taxing, and expeditions take months to complete. Climbing Mount Everest is dangerous and only for highly skilled climbers.</p> <br/><p>Recently, scientists have <a href='https://www.treehugger.com/microplastics-top-mount-everest-5088428'>discovered microplastics</a> on top of Everest—an alarming reminder of just how far afield human-induced pollution can travel.</p> <br/><h2>The Northern Lights</h2> <img src='https://www.treehugger.com/thmb/KG-5HGU3cURIoBNxaEymHAZrlqI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AuroraBorealis-9ba092b128644b54b9475dd0e55223e9.jpg' width='1024' height='683' alt='Aurora Borealis over Finland' /> <br/><p>The Northern Lights <a href='https://www.treehugger.com/best-places-to-see-the-northern-lights-4869001'>generally appear</a> in the Arctic around Iceland, Greenland, Canada, and the northernmost portions of Scandinavia. Denali National Park in Alaska is another great spot to see them. They can be seen as wave- or sheet-like lights in the sky (conditions), often greenish or reddish in color and magnificently bright, at altitudes as great as 620 miles. Auroras are caused by the emission of photons or particles of light by electrons in the atmosphere.</p> <br/><p>These lights, called <em>Aurora borealis</em>, are largely unpredictable, but scientists count on their appearance for researching interactions between magnetism and optics. The best time to see these dancing lights is between the months of March and April or between September and October.</p> <br/><p>If you're seeking them, be sure to dress warmly. It can be a long night out there, in frigid temperatures; layers of well-insulated clothing and a thermos with a hot drink will go a long way toward making it a special experience.</p> <br/><h2>Paricutin Volcano</h2> <img src='https://www.treehugger.com/thmb/_9nJYu-tJzJi0DzKWiXzBJN8SWk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ParicutinVolcano-076b8561b8414bd1a7cb0f00cc560ccf.jpg' width='3011' height='2000' alt='Paricutin Volcano in Mexico' /> <br/><p>The Paricutin Volcano is a cinder cone volcano located in Michoacán, Mexico. The world has watched this volcano grow since it began forming in 1943 in farmer Dionisio Pulido's cornfield, and it is actually the youngest volcano in the world. According to Pulido, it grew between two and 2.5 meters in height within the first 24 hours of its formation. As of 2021, it is estimated to be between 9,101 and 10,397 feet tall. Paricutin erupted from 1943 to 1952.</p> <br/><p>Visitors can view this natural wonder from its base or even from its crater. They can even see a partially buried church, San Juan Parangaricutiro, at the edge of the village named Paricutin that was buried by the volcano as it rose from the earth. A second village and hundreds of homes were destroyed, as well.</p> <br/><h2>Victoria Falls</h2> <img src='https://www.treehugger.com/thmb/3-tDvCStoemjULeoB4CHoANpYnU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-544370329-67ba40c156534c66b5aa9c56085702c0.jpg' width='2232' height='1343' alt='Victoria Falls in Africa from above' /> <br/><p>Victoria Falls, the largest waterfall in the world, is located in southern Africa on the borders of Zambia and Zimbabwe. The Zambezi River serves as the falls' water source. Victoria Falls measures over 5,600 feet across and 3,000 feet high, and it has an average depth of about 328 feet. This sprawling natural wonder occupies portions of the Victoria Falls National Park of Zimbabwe, the Zambezi National Park of Zimbabwe, and the Mosi-oa-Tunya National Park of Zambia.</p> <br/><p>Rainbows can often be seen arching over these falls, even at night when the water refracts the light of the moon (these are referred to as 'moonbows'). If you do visit, be prepared to get wet—the Victoria Falls spray plume has been known to reach a height of 1,640 feet. Even views of the spray emitted from these falls can be seen up to 30 miles away.</p>"   
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ],
-                    "enable_detail": true
+  "id": "films-demo",
+  "name": "Demo Provider",
+  "description": "A curated list of animations",
+  "url": "https://monplayer.org/demo.json",
+  "color": "#66CDAA",
+  "image": {
+    "url": "https://monplayer.org/images/film.jpg",
+    "type": "contain",
+    "height": 1000,
+    "width": 1000
+  },
+  "grid_number": 2,
+  "groups": [
+    {
+      "id": "articles-demo-all",
+      "name": "Articles",
+      "display": "horizontal",
+      "image": {
+        "url": "https://monplayer.org/images/articles.png",
+        "type": "cover",
+        "width": 256,
+        "height": 256
+      },
+      "grid_number": 1,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "7-natural-wonders",
+          "name": "The 7 Natural Wonders of the World",
+          "description": "An overview of the Seven Natural Wonders, showcasing Earth's diverse splendor.",
+          "image": {
+            "url": "https://monplayer.org/images/demo/7-natural-wonders.webp",
+            "type": "cover",
+            "width": 750,
+            "height": 500
+          },
+          "display": "text-below",
+          "type": "text",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content",
+                  "image": null,
+                  "streams": [
+                    {
+                      "id": "7-natural-wonders-full",
+                      "name": "7 Natural Wonders",
+                      "text": "<h2>The 7 Natural Wonders of the World</h2><br/><img src=\"https://i46.hinhgg.com/36725/560/0.webp\"/><img src=\"https://i46.hinhgg.com/36725/560/1.webp\"/><img src=\"https://i46.hinhgg.com/36725/560/2.webp\"/><img src=\"https://i46.hinhgg.com/36725/560/3.webp\"/>"   
+                    }
+                  ]
                 }
-            ]
-        },
-    ],
-    "search": {
-        "url": "https://fox.nst4285.workers.dev/search",
-        "search_key": "q",
-        "paging": {
-            "page_key": "page",
-            "size_key": "limit"
+              ],
+              "remote_data": null
+            }
+          ]
         }
-    },
-    "load_more": {
-        "remote_data": {
-            "url": "https://fox.nst4285.workers.dev/home-more",
-            "external": false
-        },
-        "paging": {
-            "page_key": "page",
-            "size_key": "limit"
-        },
-        "pageInfo": {
-            "current_page": 1,
-            "total": 9999,
-            "per_page": 36,
-            "last_page": 999
-        }
-    },
-    "option": {
-        "save_history": true,
-        "save_search_history": true,
-        "save_wishlist": true
+      ]
     }
+  ]
 }
