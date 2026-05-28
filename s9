@@ -1,0 +1,67 @@
+{
+  "id": "films-demo",
+  "name": "Demo Provider",
+  "description": "A curated list of animations",
+  "url": "https://monplayer.org/demo.json",
+  "color": "#66CDAA",
+  "image": {
+    "url": "https://monplayer.org/images/film.jpg",
+    "type": "contain",
+    "height": 1000,
+    "width": 1000
+  },
+  "grid_number": 2,
+  "groups": [
+    {
+      "id": "articles-demo-all",
+      "name": "Articles",
+      "display": "horizontal",
+      "image": {
+        "url": "https://monplayer.org/images/articles.png",
+        "type": "cover",
+        "width": 256,
+        "height": 256
+      },
+      "grid_number": 1,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "7-natural-wonders",
+          "name": "The 7 Natural Wonders of the World",
+          "description": "An overview of the Seven Natural Wonders, showcasing Earth's diverse splendor.",
+          "image": {
+            "url": "https://monplayer.org/images/demo/7-natural-wonders.webp",
+            "type": "cover",
+            "width": 750,
+            "height": 500
+          },
+          "display": "text-below",
+          "type": "text",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content",
+                  "image": null,
+                  "streams": [
+                    {
+                      "id": "7-natural-wonders-full",
+                      "name": "7 Natural Wonders",
+                      "text": "<h2>The 7 Natural Wonders of the World</h2><br/><img src=\"https://hinhgg.com/36452/1/0.jpg\"/><img src=\"https://i46.hinhgg.com/36725/560/1.webp\"/><img src=\"https://i46.hinhgg.com/36725/560/2.webp\"/><img src=\"https://i46.hinhgg.com/36725/560/3.webp\"/>"   
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
