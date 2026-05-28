@@ -61,11 +61,6 @@
                   "id": "content-1",
                   "name": "Content",
                   "image": null,
-                  "streams": [
-                    {
-                      "id": "7-natural-wonders-full",
-                      "name": "7 Natural Wonders",
-                      "text": "<h2>The 7 Natural Wonders of the World</h2><br/><div><img src='https://cdn4.cloud-zzz.com/nettruyen/onepunch-man/303/6.jpg'></div>",
 					  "request_headers": [
 						{
 							"key": "Referer",
@@ -74,7 +69,12 @@
 							"key": "User-Agent",
 							"value": "Mozilla/5.0"
 						}
-					]
+					],
+                  "streams": [
+                    {
+                      "id": "7-natural-wonders-full",
+                      "name": "7 Natural Wonders",
+                      "text": "<h2>The 7 Natural Wonders of the World</h2><br/><div><img src='https://cdn4.cloud-zzz.com/nettruyen/onepunch-man/303/6.jpg'></div>"
                     }
                   ]
                 }
