@@ -81,7 +81,7 @@
                                         }, {
                                             "id": "tu-xuyen-phan-2--1-LINK9 B",
                                             "name": "Link10 B",
-                                            "type": "webview",
+                                            "type": "hls",
                                             "default": false,
                                             "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/a1.m3u8",
                                             "request_headers": [{
@@ -95,7 +95,7 @@
                                         }, {
                                             "id": "tu-xuyen-phan-2--1-LINK9 C",
                                             "name": "Link10 C",
-                                            "type": "webview",
+                                            "type": "hls",
                                             "default": false,
                                             "url": "https://m3u8proxy.nst4285.workers.dev/proxy?url=https%3A%2F%2Fembed11.streamc.xyz%2Fembed.php%3Fhash%3D02930c8782d0e1bef3f85d30a222984e",
                                             "request_headers": [{
