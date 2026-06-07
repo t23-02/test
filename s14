@@ -1,0 +1,67 @@
+{
+    "id": "nguonc",
+    "name": "NguonC",
+    "url": "https://ngc.nst4285.workers.dev",
+    "color": "#c0392b",
+    "image": {
+        "url": "https://phim.nguonc.com/favicon.ico",
+        "type": "cover"
+    },
+    "grid_number": 3,
+    "channels": [{
+            "id": "one-piece",
+            "name": "One Piece",
+            "image": {
+                "url": "https://phim.nguonc.com/public/images/Post/5/one-piece.jpg",
+                "type": "cover",
+                "width": 300,
+                "height": 450
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "label": {
+                "text": "Tập 1165",
+                "position": "top-left",
+                "color": "#c0392b",
+                "text_color": "#ffffff"
+            },
+            "sources": [{
+                    "id": "one-piece-Vietsub #1",
+                    "name": "Vietsub #1",
+                    "contents": [{
+                            "id": "one-piece-Vietsub #1-content",
+                            "name": "1",
+                            "grid_number": 4,
+                            "streams": [{
+                                    "id": "one-piece-Vietsub #1-tap-1",
+                                    "name": "1",
+                                    "stream_links": [{
+                                            "id": "one-piece-Vietsub #1-tap-1",
+                                            "name": "1",
+                                            "type": "hls",
+                                            "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/a1.m3u8",
+                                            "default": false
+                                        }
+                                    ]
+                                }, {
+                                    "id": "one-piece-Lồng Tiếng #1-tap-325",
+                                    "name": "325",
+                                    "stream_links": [
+									{
+                                            "id": "one-piece-Lồng Tiếng #1-tap-325",
+                                            "name": "325",
+                                            "type": "hls",
+                                            "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/a1.m3u8",
+                                            "default": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+            "enable_detail": true
+        }
+    ]
+}
