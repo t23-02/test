@@ -30,7 +30,7 @@
                     "name": "Vietsub #1",
                     "contents": [{
                             "id": "one-piece-Vietsub #1-content",
-                            "name": "",
+                            "name": "1",
                             "grid_number": 4,
                             "streams": [{
                                     "id": "one-piece-Vietsub #1-tap-1",
@@ -39,14 +39,15 @@
                                             "id": "one-piece-Vietsub #1-tap-1",
                                             "name": "1",
                                             "type": "hls",
-                                            "url": "https://m3u8proxy.nst4285.workers.dev/proxy?url=https%3A%2F%2Fembed18.streamc.xyz%2Fembed.php%3Fhash%3Dc9e5230c3e65847df88fc05ea66cbbb6",
+                                            "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/a1.m3u8",
                                             "default": false
                                         }
                                     ]
                                 }, {
                                     "id": "one-piece-Lồng Tiếng #1-tap-325",
                                     "name": "325",
-                                    "stream_links": [{
+                                    "stream_links": [
+									{
                                             "id": "one-piece-Lồng Tiếng #1-tap-325",
                                             "name": "325",
                                             "type": "hls",
