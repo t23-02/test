@@ -33,11 +33,11 @@
                                     "id": "tu-xuyen-phan-2-tm-1",
                                     "name": "Tập 1",
                                     "stream_links": [{
-                                            "id": "tu-xuyen-phan-2--1-LINK9 g",
-                                            "name": "Link10 g",
+                                            "id": "tu",
+                                            "name": "test sub",
                                             "type": "hls",
                                             "default": false,
-                                            "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/a1.m3u8"
+                                            "url": "https://mtoczko.github.io/hls-test-streams/test-group/playlist.m3u8"
                                         },
 									{
                                             "id": "tu-xuyen-phan-2--1-LINK1",
