@@ -1,0 +1,149 @@
+{
+    "id": "yanhh3d",
+    "name": "YanHH3D",
+    "url": "https://yan.nst4285.workers.dev",
+    "color": "#e55c00",
+    "channels": [
+		{
+            "id": "tu-xuyen-phan-2",
+            "name": "Tử Xuyên Phần 2",
+            "description": "",
+            "image": {
+                "url": "https://yanhh3d.hot/storage/movies/tu-xuyen-phan-2-1757937018.jpg",
+                "type": "cover",
+                "width": 300,
+                "height": 450
+            },
+            "type": "playlist",
+            "display": "text-below",
+            "image": {
+                "url": "https://yanhh3d.hot/storage/movies/tu-xuyen-phan-2-1757937018.jpg",
+                "type": "cover",
+                "width": 300,
+                "height": 450
+            },
+            "sources": [{
+                    "id": "tu-xuyen-phan-2-tm",
+                    "name": "Thuyết Minh",
+                    "contents": [{
+                            "id": "tu-xuyen-phan-2-tm",
+                            "name": "",
+                            "grid_number": 3,
+                            "streams": [{
+                                    "id": "tu-xuyen-phan-2-tm-1",
+                                    "name": "Tập 1",
+                                    "stream_links": [{
+                                            "id": "tu-xuyen-phan-2--1-LINK9 g",
+                                            "name": "Link10 g",
+                                            "type": "hls",
+                                            "default": false,
+                                            "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/a1.m3u8"
+                                        },
+									{
+                                            "id": "tu-xuyen-phan-2--1-LINK1",
+                                            "name": "1080",
+                                            "type": "hls",
+                                            "default": false,
+                                            "url": "https://scontent-sin2-9-xx.fbcdn.cloud/o2/v/t2/f2/m366/1e98b5ad-ec49-4008-95b3-2ac570be57b9.m3u8/stream-plain?t=a92e06fd76680b60.1780374590"
+                                        }, {
+                                            "id": "tu-xuyen-phan-2--1-LINK2",
+                                            "name": "HD",
+                                            "type": "webview",
+                                            "default": false,
+                                            "url": "https://embed12.streamc.xyz/embed.php?hash=3424f15831882473a3cb236885f27e09"
+                                        }, {
+                                            "id": "tu-xuyen-phan-2--1-LINK9",
+                                            "name": "Link10",
+                                            "type": "webview",
+                                            "default": false,
+                                            "url": "https://vicdn.cc/tv-259819-1-1"
+                                        }, {
+                                            "id": "tu-xuyen-phan-2--1-LINK2",
+                                            "name": "HD A",
+                                            "type": "webview",
+                                            "default": false,
+                                            "url": "https://api.rophim1.vip/embed/851929",
+                                            "request_headers": [{
+                                                    "key": "Referer",
+                                                    "value": "https://nettruyen.in.net/"
+                                                }, {
+                                                    "key": "User-Agent",
+                                                    "value": "Mozilla/5.0"
+                                                }
+                                            ]
+                                        }, {
+                                            "id": "tu-xuyen-phan-2--1-LINK9",
+                                            "name": "Link10 A",
+                                            "type": "webview",
+                                            "default": false,
+                                            "url": "https://api.rophim1.vip/embed/851929",
+                                            "request_headers": [{
+                                                    "key": "Referer",
+                                                    "value": "https://nettruyen.in.net/"
+                                                }, {
+                                                    "key": "User-Agent",
+                                                    "value": "Mozilla/5.0"
+                                                }
+                                            ]
+                                        }, {
+                                            "id": "tu-xuyen-phan-2--1-LINK9 D",
+                                            "name": "Link10 D",
+                                            "type": "hls",
+                                            "default": false,
+                                            "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/a1.m3u8",
+                                            "request_headers": [{
+                                                    "key": "Referer",
+                                                    "value": "https://embed13.streamc.xyz/"
+                                                }, {
+                                                    "key": "User-Agent",
+                                                    "value": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36"
+                                                }
+                                            ]
+                                        }, {
+                                            "id": "tu-xuyen-phan-2--1-LINK9 E",
+                                            "name": "Link10 E",
+                                            "type": "hls",
+                                            "default": false,
+                                            "url": "https://m3u8proxy.nst4285.workers.dev/proxy?url=https%3A%2F%2Fembed11.streamc.xyz%2Fembed.php%3Fhash%3D02930c8782d0e1bef3f85d30a222984e",
+                                            "request_headers": [{
+                                                    "key": "User-Agent",
+                                                    "value": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36"
+                                                }
+                                            ]
+                                        }, {
+                                            "id": "tu-xuyen-phan-2--1-LINK9 B",
+                                            "name": "Link10 B",
+                                            "type": "hls",
+                                            "default": false,
+                                            "url": "https://raw.githubusercontent.com/t23-02/test/refs/heads/main/a1.m3u8",
+                                            "request_headers": [{
+                                                    "key": "Referer",
+                                                    "value": "https://embed13.streamc.xyz/"
+                                                }
+                                            ]
+                                        }, {
+                                            "id": "tu-xuyen-phan-2--1-LINK9 C",
+                                            "name": "Link10 C",
+                                            "type": "hls",
+                                            "default": false,
+                                            "url": "https://m3u8proxy.nst4285.workers.dev/proxy?url=https%3A%2F%2Fembed11.streamc.xyz%2Fembed.php%3Fhash%3D02930c8782d0e1bef3f85d30a222984e",
+                                            "request_headers": [{
+                                                    "key": "Referer",
+                                                    "value": "https://embed13.streamc.xyz/"
+                                                }, {
+                                                    "key": "User-Agent",
+                                                    "value": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
