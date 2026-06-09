@@ -1,0 +1,421 @@
+{
+  "id": "films-demo",
+  "name": "Demo Provider",
+  "description": "A curated list of animations",
+  "url": "https://monplayer.org/demo.json",
+  "color": "#66CDAA",
+  "image": {
+    "url": "https://monplayer.org/images/film.jpg",
+    "type": "contain",
+    "height": 1000,
+    "width": 1000
+  },
+  "grid_number": 2,
+  "groups": [
+    {
+      "id": "films-demo-all",
+      "name": "Videos",
+      "display": "vertical",
+      "image": {
+        "url": "https://monplayer.org/images/roll.jpg",
+        "type": "cover",
+        "width": 410,
+        "height": 590
+      },
+      "grid_number": 3,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "charge",
+          "name": "Charge",
+          "description": "A thrilling story set in a dystopian world.",
+          "label": "Full",
+          "image": {
+            "url": "https://monplayer.org/images/demo/charge.jpg",
+            "type": "cover",
+            "width": 410,
+            "height": 590
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": true,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source 1",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content 1",
+                  "image": null,
+                  "grid_number": 3,
+                  "streams": [
+                    {
+                      "id": "charge-full",
+                      "name": "Charge Full",
+                      "image": {
+                        "url": "https://monplayer.org/images/demo/charge.jpg",
+                        "type": "cover",
+                        "width": 1920,
+                        "height": 1080
+                      },
+                      "stream_links": [
+                        {
+                          "id": "charge-1-s1",
+                          "name": "Server 1",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/charge.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "coffee-run",
+          "name": "Coffee Run",
+          "description": "A journey through memories fueled by caffeine.",
+          "label": "Full",
+          "image": {
+            "url": "https://monplayer.org/images/demo/coffee-run.jpg",
+            "type": "cover",
+            "width": 410,
+            "height": 590
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": true,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source 1",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content 1",
+                  "image": null,
+                  "grid_number": 3,
+                  "streams": [
+                    {
+                      "id": "coffee-run-full",
+                      "name": "Coffee Run",
+                      "image": {
+                        "url": "https://monplayer.org/images/demo/coffee-run.jpg",
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
+                      },
+                      "stream_links": [
+                        {
+                          "id": "coffee-run-1-s1",
+                          "name": "Server 1",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/coffee_run.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "spring",
+          "name": "Spring",
+          "description": "A tale of a shepherd girl and her dog facing ancient spirits.",
+          "label": "Full",
+          "image": {
+            "url": "https://monplayer.org/images/demo/spring.jpg",
+            "type": "cover",
+            "width": 410,
+            "height": 590
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": true,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source 1",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content 1",
+                  "image": null,
+                  "grid_number": 3,
+                  "streams": [
+                    {
+                      "id": "spring-full",
+                      "name": "Spring Full",
+                      "image": {
+                        "url": "https://monplayer.org/images/demo/spring.jpg",
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
+                      },
+                      "stream_links": [
+                        {
+                          "id": "spring-1-s1",
+                          "name": "Server 1",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/spring.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        },
+                        {
+                          "id": "spring-1-s2",
+                          "name": "Server 2",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/spring.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": false,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "sprite-fight",
+          "name": "Sprite Fight",
+          "description": "Teenagers encounter mushroom creatures in a forest.",
+          "label": "Full",
+          "image": {
+            "url": "https://monplayer.org/images/demo/sprite-fight.jpg",
+            "type": "cover",
+            "width": 410,
+            "height": 590
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": true,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source 1",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content 1",
+                  "image": null,
+                  "grid_number": 3,
+                  "streams": [
+                    {
+                      "id": "sprite-fight-full",
+                      "name": "Sprite Fight",
+                      "image": {
+                        "url": "https://monplayer.org/images/demo/sprite-fight.jpg",
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
+                      },
+                      "stream_links": [
+                        {
+                          "id": "sprite-fight-1-s1",
+                          "name": "Server 1",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/sprite_fight.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        },
+                        {
+                          "id": "sprite-fight-1-s2",
+                          "name": "Server 2",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/sprite_fight.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": false,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "daily-dweebs",
+          "name": "Daily Dweebs",
+          "description": "An animation about a dog's emotional journey.",
+          "label": "Full",
+          "image": {
+            "url": "https://monplayer.org/images/demo/daily-dweebs.jpg",
+            "type": "cover",
+            "width": 410,
+            "height": 590
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": true,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source 1",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content 1",
+                  "image": null,
+                  "grid_number": 3,
+                  "streams": [
+                    {
+                      "id": "daily-dweebs-full",
+                      "name": "Daily Dweebs",
+                      "image": {
+                        "url": "https://monplayer.org/images/demo/daily-dweebs.jpg",
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
+                      },
+                      "stream_links": [
+                        {
+                          "id": "daily-dweebs-1-s1",
+                          "name": "Server 1",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/daily_dweebs.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        },
+                        {
+                          "id": "daily-dweebs-1-s2",
+                          "name": "Server 2",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/daily_dweebs.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": false,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "wing-it",
+          "name": "Wing It",
+          "description": "An engineer and a wannabe-pilot in an out-of-control shuttle.",
+          "label": "Full",
+          "image": {
+            "url": "https://monplayer.org/images/demo/wing-it.jpg",
+            "type": "cover",
+            "width": 410,
+            "height": 590
+          },
+          "display": "default",
+          "type": "single",
+          "enable_detail": true,
+          "sources": [
+            {
+              "id": "source-1",
+              "name": "Source 1",
+              "image": null,
+              "contents": [
+                {
+                  "id": "content-1",
+                  "name": "Content 1",
+                  "image": null,
+                  "grid_number": 3,
+                  "streams": [
+                    {
+                      "id": "wing-it-full",
+                      "name": "Wing It",
+                      "image": {
+                        "url": "https://monplayer.org/images/demo/wing-it.jpg",
+                        "type": "cover",
+                        "width": 410,
+                        "height": 590
+                      },
+                      "stream_links": [
+                        {
+                          "id": "wing-it-1-s1",
+                          "name": "Server 1",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/wing_it.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": true,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        },
+                        {
+                          "id": "wing-it-1-s2",
+                          "name": "Server 2",
+                          "url": "https://vod.likefootnight.xyz/hls/monplay/wing_it.mp4/playlist.m3u8",
+                          "type": "hls",
+                          "default": false,
+                          "enableP2P": false,
+                          "subtitles": null,
+                          "remote_data": null,
+                          "request_headers": null,
+                          "comments": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
