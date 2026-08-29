@@ -1,9 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-# ===== PHỤ ĐỀ =====
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Tiếng Việt",LANGUAGE="vi",DEFAULT=YES,AUTOSELECT=YES,URI="https://vicdn.cc/subtitle/l4n4z334z224y233v2q274o25334z5a4.html"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",LANGUAGE="en",DEFAULT=NO,AUTOSELECT=YES,URI="https://vicdn.cc/subtitle/l4n4z334z224y233v2q274o25334i5f4.html"
 
 # Audio
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Dansk",LANGUAGE="da",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_da/index.html"
@@ -31,9 +28,6 @@
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Српски | Dexy",LANGUAGE="sr_dexy",AUTOSELECT=NO,DEFAULT=NO,URI="https:/audio-srdexy-871238743.pages.dev/playlist_S4E01/index.html"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Türkçe",LANGUAGE="tr",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_tr/index.html"
 
-# Subtitles
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="vi",NAME="Tiếng Việt",AUTOSELECT=YES,DEFAULT=YES,FORCED=NO,URI="http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/subtitle/l4n4z334z224y233v2q274o25334z5a4.html"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="vi",NAME="Tiếng Anh",AUTOSELECT=YES,DEFAULT=YES,FORCED=NO,URI="http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/subtitle/l4n4z334z224y233v2q274o25334i5f4.html"
 
 # Media Playlists 
 #EXT-X-STREAM-INF:BANDWIDTH=1600000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1024x576,AUDIO="audio_aac"
