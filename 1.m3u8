@@ -1,22 +1,39 @@
+
 #EXTM3U
-#EXT-X-VERSION:6
-# ===== PHỤ ĐỀ (SUBTITLES) =====
-# Mỗi dòng là 1 phụ đề, đổi URI thành link file .vtt của bạn
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Tiếng Việt",LANGUAGE="vi",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,URI="https://vicdn.cc/subtitle/l4n4z334z224y233v2q274o25334z5a4.html"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",LANGUAGE="en",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,URI="https://vicdn.cc/subtitle/l4n4z334z224y233v2q274o25334z5a4.html"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="日本語",LANGUAGE="ja",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,URI="https://vicdn.cc/subtitle/l4n4z334z224y233v2q274o25334z5a4.html"
-# ===== ÂM THANH (tuỳ chọn, nếu video và audio tách riêng) =====
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio gốc",LANGUAGE="vi",DEFAULT=YES,AUTOSELECT=YES,URI="audio/main.m3u8"
-# ===== CÁC NGUỒN VIDEO (chất lượng khác nhau) =====
-# Nguồn 1 - Full HD 1080p
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",SUBTITLES="subs",AUDIO="audio",NAME="1080p"
-https://vicdn.cc/hls/x106/l4n4z334z224y233v2q274o253.html
-# Nguồn 2 - HD 720p
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",SUBTITLES="subs",AUDIO="audio",NAME="720p"
-https://vicdn.cc/hls/x207/l4n4z334z224y233v2q274o253.html
-# Nguồn 3 - SD 480p
-#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480,CODECS="avc1.4d401e,mp4a.40.2",SUBTITLES="subs",AUDIO="audio",NAME="480p"
-https://vicdn.cc/hls/x304/l4n4z334z224y233v2q274o253.html
-# Nguồn 4 - Server dự phòng (nguồn khác hoàn toàn, ví dụ link stream khác)
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",SUBTITLES="subs",NAME="Server 2 - 720p"
-https://example-backup-server.com/stream2/720p.m3u8
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+# Audio
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Dansk",LANGUAGE="da",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_da/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Deutsch",LANGUAGE="de",AUTOSELECT=NO,DEFAULT=NO,URI="https:/audio-s4-de-3209123453268.pages.dev/playlist_EP_01//index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="English",LANGUAGE="en",AUTOSELECT=YES,DEFAULT=YES,URI="https://wnixn401-731413487.pages.dev/audio/playlist_en/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="English | Nick",LANGUAGE="en_nick",AUTOSELECT=NO,DEFAULT=NO,URI="https:/audio-s4-en-nick-09823147943.pages.dev/playlist_EP_01//index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Castellano",LANGUAGE="eses",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_eses/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Español Latino",LANGUAGE="esla",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_esla/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Eesti",LANGUAGE="et",AUTOSELECT=NO,DEFAULT=NO,URI="https:/audio-s4-et-932467123.pages.dev/playlist_S4E01/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Suomi",LANGUAGE="fi",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_fi/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Français",LANGUAGE="fr",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_fr/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="עִברִית",LANGUAGE="he",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_he/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Hrvatski",LANGUAGE="hr",AUTOSELECT=NO,DEFAULT=NO,URI="https:/audio-s4-hr-69559268537928.pages.dev/playlist_EP_01//index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Italiano",LANGUAGE="it",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_it/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Lietuviškas",LANGUAGE="lt",AUTOSELECT=NO,DEFAULT=NO,URI="https:/audio-s4-lt-8932568325.pages.dev/playlist_S4E01/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Latviešu",LANGUAGE="lv",AUTOSELECT=NO,DEFAULT=NO,URI="https:/audio-s4-lv-36123409863.pages.dev/playlist_S4E01/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Nederlands",LANGUAGE="nl",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_nl/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Norsk",LANGUAGE="no",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_no/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Polski",LANGUAGE="pl",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_pl/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Português Brasileiro",LANGUAGE="ptbr",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_ptbr/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Português Europeu",LANGUAGE="ptpt",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_ptpt/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Русский",LANGUAGE="ru",AUTOSELECT=NO,DEFAULT=NO,URI="https:/audio-s4-ru-3081280352.pages.dev/playlist_EP_01//index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Svenska",LANGUAGE="se",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_se/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Српски",LANGUAGE="sr",AUTOSELECT=NO,DEFAULT=NO,URI="https:/audio-s4-sr-912386342.pages.dev/playlist_S4E01/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Српски | Dexy",LANGUAGE="sr_dexy",AUTOSELECT=NO,DEFAULT=NO,URI="https:/audio-srdexy-871238743.pages.dev/playlist_S4E01/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Türkçe",LANGUAGE="tr",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_tr/index.html"
+# Subtitles
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="vi",NAME="Tiếng Việt",AUTOSELECT=YES,DEFAULT=YES,FORCED=NO,URI="https://xoafrp.glitch.me/vietsub1.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="vi",NAME="Tiếng Việt22",AUTOSELECT=YES,DEFAULT=YES,FORCED=NO,URI="https://xoafrp.glitch.me/vietsub1.m3u8"
+# Media Playlists 
+#EXT-X-STREAM-INF:BANDWIDTH=1600000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1024x576,AUDIO="audio_aac"
+https://wnixn401-731413487.pages.dev//playlist_sd/index.html
+#EXT-X-STREAM-INF:BANDWIDTH=3100000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,AUDIO="audio_aac"
+https://wnixn401-731413487.pages.dev//playlist_hd/index.html
+#EXT-X-STREAM-INF:BANDWIDTH=6100000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=3840x2160,AUDIO="audio_aac"
+https://wnixn401-731413487.pages.dev//playlist_dl/index.html
