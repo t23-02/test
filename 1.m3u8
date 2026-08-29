@@ -7,8 +7,8 @@
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Nu",LANGUAGE="de",AUTOSELECT=NO,DEFAULT=NO,URI="http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/hls/x303/l4n4z334z224y233v2q274o2y2.html"
 
 # Subtitles
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="vi",NAME="Tiếng Việt",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/subtitle/l4n4z334z224y233v2q274o25334z5a4.html"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="en",NAME="Tiếng Anh",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/subtitle/l4n4z334z224y233v2q274o25334i5f4.html"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="vi",NAME="Tiếng Việt",AUTOSELECT=NO,DEFAULT=NO,FORCED=NO,URI="http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/subtitle/l4n4z334z224y233v2q274o25334z5a4.html"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="en",NAME="Tiếng Anh",AUTOSELECT=NO,DEFAULT=NO,FORCED=NO,URI="http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/subtitle/l4n4z334z224y233v2q274o25334i5f4.html"
 
 # Media Playlists 
 #EXT-X-STREAM-INF:BANDWIDTH=1600000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1024x576,AUDIO="audio_aac"
