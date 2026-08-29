@@ -3,12 +3,8 @@
 #EXT-X-ALLOW-CACHE:YES
 
 # Audio
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Português Europeu",LANGUAGE="ptpt",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_ptpt/index.html"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Русский",LANGUAGE="ru",AUTOSELECT=NO,DEFAULT=NO,URI="https:/audio-s4-ru-3081280352.pages.dev/playlist_EP_01//index.html"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Svenska",LANGUAGE="se",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_se/index.html"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Српски",LANGUAGE="sr",AUTOSELECT=NO,DEFAULT=NO,URI="https:/audio-s4-sr-912386342.pages.dev/playlist_S4E01/index.html"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Српски | Dexy",LANGUAGE="sr_dexy",AUTOSELECT=NO,DEFAULT=NO,URI="https:/audio-srdexy-871238743.pages.dev/playlist_S4E01/index.html"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Türkçe",LANGUAGE="tr",AUTOSELECT=NO,DEFAULT=NO,URI="https://wnixn401-731413487.pages.dev/audio/playlist_tr/index.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Nam",LANGUAGE="da",AUTOSELECT=NO,DEFAULT=NO,URI="http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/hls/x202/l4n4z334z224y233v2q274o2y2.html"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="Nu",LANGUAGE="de",AUTOSELECT=NO,DEFAULT=NO,URI="http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/hls/x303/l4n4z334z224y233v2q274o2y2.html"
 
 # Subtitles
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="vi",NAME="Tiếng Việt",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/subtitle/l4n4z334z224y233v2q274o25334z5a4.html"
@@ -17,8 +13,3 @@
 # Media Playlists 
 #EXT-X-STREAM-INF:BANDWIDTH=1600000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1024x576,AUDIO="audio_aac"
 http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/hls/x105/l4n4z334z224y233v2q274o2y2.html
-#EXT-X-STREAM-INF:BANDWIDTH=3100000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,AUDIO="audio_aac"
-http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/hls/x202/l4n4z334z224y233v2q274o2y2.html
-#EXT-X-STREAM-INF:BANDWIDTH=6100000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=3840x2160,AUDIO="audio_aac"
-http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/hls/x303/l4n4z334z224y233v2q274o2y2.html
-
