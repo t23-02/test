@@ -1,16 +1,22 @@
 #EXTM3U
 #EXT-X-VERSION:6
-
-# ===== PHỤ ĐỀ =====
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Tiếng Việt",LANGUAGE="vi",DEFAULT=YES,AUTOSELECT=YES,URI="http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/subtitle/l4n4z334z224y233v2q274o25334z5a4.html"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",LANGUAGE="en",DEFAULT=NO,AUTOSELECT=YES,URI="http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/subtitle/l4n4z334z224y233v2q274o25334i5f4.html"
-
-# ===== CÁC NGUỒN VIDEO (thuyết minh khác nhau) =====
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,SUBTITLES="subs",NAME="Video Gốc"
-http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/hls/x106/l4n4z334z224y233v2q274o253.html
-
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,SUBTITLES="subs",NAME="Thuyết Minh Nữ"
-http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/hls/x207/l4n4z334z224y233v2q274o253.html
-
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,SUBTITLES="subs",NAME="Thuyết Minh Nam"
-http://127.0.0.1/vicdn/index.php?file=https://vicdn.cc/hls/x304/l4n4z334z224y233v2q274o253.html
+# ===== PHỤ ĐỀ (SUBTITLES) =====
+# Mỗi dòng là 1 phụ đề, đổi URI thành link file .vtt của bạn
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Tiếng Việt",LANGUAGE="vi",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,URI="https://vicdn.cc/subtitle/l4n4z334z224y233v2q274o25334z5a4.html"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",LANGUAGE="en",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,URI="https://vicdn.cc/subtitle/l4n4z334z224y233v2q274o25334z5a4.html"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="日本語",LANGUAGE="ja",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,URI="https://vicdn.cc/subtitle/l4n4z334z224y233v2q274o25334z5a4.html"
+# ===== ÂM THANH (tuỳ chọn, nếu video và audio tách riêng) =====
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio gốc",LANGUAGE="vi",DEFAULT=YES,AUTOSELECT=YES,URI="audio/main.m3u8"
+# ===== CÁC NGUỒN VIDEO (chất lượng khác nhau) =====
+# Nguồn 1 - Full HD 1080p
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",SUBTITLES="subs",AUDIO="audio",NAME="1080p"
+https://vicdn.cc/hls/x106/l4n4z334z224y233v2q274o253.html
+# Nguồn 2 - HD 720p
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",SUBTITLES="subs",AUDIO="audio",NAME="720p"
+https://vicdn.cc/hls/x207/l4n4z334z224y233v2q274o253.html
+# Nguồn 3 - SD 480p
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480,CODECS="avc1.4d401e,mp4a.40.2",SUBTITLES="subs",AUDIO="audio",NAME="480p"
+https://vicdn.cc/hls/x304/l4n4z334z224y233v2q274o253.html
+# Nguồn 4 - Server dự phòng (nguồn khác hoàn toàn, ví dụ link stream khác)
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",SUBTITLES="subs",NAME="Server 2 - 720p"
+https://example-backup-server.com/stream2/720p.m3u8
