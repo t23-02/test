@@ -1,6 +1,15 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",LANGUAGE="English",DEFAULT=NO,AUTOSELECT=YES,URI="https://cdn.kaxate.shop/subtitle/ae8f4bb8728d49ca8165884a6a9a3fff?web=onflixtv.com&token2=600e8bd4b01b4453ad4b"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Vietnamese",LANGUAGE="Vietnamese",DEFAULT=YES,AUTOSELECT=YES,URI="https://cdn.kaxate.shop/subtitle/bdbac5bd03ed49149cfdef00111a9c0c?web=onflixtv.com&token2=39e43d9ed8624ce1815c"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Arabic",DEFAULT=NO,AUTOSELECT=NO,LANGUAGE="ara",URI="https://cdn.posito.fun/subtitle/0fb8e02d26ec4088bf3c68ac59c2b68c?web=onflixtv.com&token2=21c08c912be44a0785b1"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=NO,AUTOSELECT=NO,LANGUAGE="eng",URI="https://cdn.posito.fun/subtitle/e2ebe88137af4b1a84329b5836c1b1de?web=onflixtv.com&token2=581fd389c4d340b3ba59"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="French",DEFAULT=NO,AUTOSELECT=NO,LANGUAGE="fre",URI="https://cdn.posito.fun/subtitle/acbddb8d576e4c8aa1567d499b402efe?web=onflixtv.com&token2=8325d0fda8e94c46aa95"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Indonesian",DEFAULT=NO,AUTOSELECT=NO,LANGUAGE="ind",URI="https://cdn.posito.fun/subtitle/57dcdf506777426ba3b7194ea7eae36a?web=onflixtv.com&token2=f2e286df5aba4c8183bf"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Korean",DEFAULT=NO,AUTOSELECT=NO,LANGUAGE="kor",URI="https://cdn.posito.fun/subtitle/b980dc95933042b3ad4ce5da93f4aeac?web=onflixtv.com&token2=03654a8d28c14795b732"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Malay",DEFAULT=NO,AUTOSELECT=NO,LANGUAGE="mal",URI="https://cdn.posito.fun/subtitle/1f7e4120e33d4516ae6eaf117fb3ae70?web=onflixtv.com&token2=fdfd6a4bcec942f6a40a"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Simplified Chinese",DEFAULT=NO,AUTOSELECT=NO,LANGUAGE="sim",URI="https://cdn.posito.fun/subtitle/76430374c39248c9a24c312fc33e4762?web=onflixtv.com&token2=014cda9cf0d14106a1b8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Spanish",DEFAULT=NO,AUTOSELECT=NO,LANGUAGE="spa",URI="https://cdn.posito.fun/subtitle/a45d1afffb054c628e91dacf3acb879f?web=onflixtv.com&token2=94d14c75cb534c98968a"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Thai",DEFAULT=NO,AUTOSELECT=NO,LANGUAGE="tha",URI="https://cdn.posito.fun/subtitle/dc6faa9b51fc449899c6e757ebdc4599?web=onflixtv.com&token2=799a6aef611f4226a02f"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Traditional Chinese",DEFAULT=NO,AUTOSELECT=NO,LANGUAGE="tra",URI="https://cdn.posito.fun/subtitle/834e77067e8a42428ee2654021b1596e?web=onflixtv.com&token2=7a32373103ec4e9cbc96"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Vietnamese",DEFAULT=YES,AUTOSELECT=NO,LANGUAGE="vie",URI="https://cdn.posito.fun/subtitle/147aa5175a734ba6993e8c6a24af3ce4?web=onflixtv.com&token2=655af3c7a11047689100"
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,SUBTITLES="subs",NAME="Video"
-https://cdn.kaxate.shop/segment/1256f46ef9264cb3a9e9276482257d1d/?token1=33da13bd63604069ad2a&token3=658220b8e657476585ab
+https://cdn.posito.fun/segment/8d6444402b76403085617bf6b58428e7/?token1=1d0b4029b8e44bf3b097&token3=5a15da1b6add427c995f
