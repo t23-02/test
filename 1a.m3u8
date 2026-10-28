@@ -13,4 +13,4 @@
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Vietnamese",LANGUAGE="Vietnamese",DEFAULT=YES,AUTOSELECT=YES,URI="https://cdn.posito.fun/subtitle/147aa5175a734ba6993e8c6a24af3ce4?web=onflixtv.com&token2=931520874144402f98e1"
 
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,SUBTITLES="subs",NAME="Video Gốc"
-https://cdn.posito.fun/segment/8d6444402b76403085617bf6b58428e7/?token1=5222a35c6be745f2a618&token3=408cb45cebb44faaa371
+https://cdn.posito.fun/segment/0fb8e02d26ec4088bf3c68ac59c2b68c/?token1=c31c62e7d6e842b6ba34&token3=1c557811ce5b4e82993c
